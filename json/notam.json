@@ -1,0 +1,4290 @@
+[
+  {
+    "Abreviatura": "A",
+    "Significado": "Âmbar"
+  },
+  {
+    "Abreviatura": "A*",
+    "Significado": "Grande resistência (pavimentos)"
+  },
+  {
+    "Abreviatura": "A/A",
+    "Significado": "Ar-ar"
+  },
+  {
+    "Abreviatura": "A/G",
+    "Significado": "Ar-terra"
+  },
+  {
+    "Abreviatura": "A2A*",
+    "Significado": "Telegrafia como manipulação por interrupção de uma ou mais audiofreqüências moduladoras, ou com manipulação por interrupção da emissão modulada (caso particular, emissão não manipulada, modulada em amplitude)"
+  },
+  {
+    "Abreviatura": "A3A",
+    "Significado": "Telefonia – dupla banda lateral"
+  },
+  {
+    "Abreviatura": "AAA",
+    "Significado": "(ou AAB, AAC... etc., em seqüência) Mensagem meteorológica emendada (designador de tipo de mensagem)"
+  },
+  {
+    "Abreviatura": "AAD",
+    "Significado": "Desvio de altitude assinalada"
+  },
+  {
+    "Abreviatura": "AAL",
+    "Significado": "Acima do nível do aeródromo"
+  },
+  {
+    "Abreviatura": "ABI",
+    "Significado": "Informação antecipada sobre limite"
+  },
+  {
+    "Abreviatura": "ABM",
+    "Significado": "Través"
+  },
+  {
+    "Abreviatura": "ABN",
+    "Significado": "Farol de aeródromo"
+  },
+  {
+    "Abreviatura": "ABT",
+    "Significado": "Acerca de"
+  },
+  {
+    "Abreviatura": "ABV",
+    "Significado": "Acima de..."
+  },
+  {
+    "Abreviatura": "AC",
+    "Significado": "Altocumulus"
+  },
+  {
+    "Abreviatura": "AC*",
+    "Significado": "Carta de Aeródromo"
+  },
+  {
+    "Abreviatura": "ACARS",
+    "Significado": "Sistema de direcionamento e informe para comunicações de aeronaves"
+  },
+  {
+    "Abreviatura": "ACAS",
+    "Significado": "Sistema de anticolisão em vôo"
+  },
+  {
+    "Abreviatura": "ACC",
+    "Significado": "Centro de controle de área ou controle de área"
+  },
+  {
+    "Abreviatura": "ACCID",
+    "Significado": "Notificação de acidente de aeronave"
+  },
+  {
+    "Abreviatura": "ACD*",
+    "Significado": "Acordo"
+  },
+  {
+    "Abreviatura": "ACFT",
+    "Significado": "Aeronave"
+  },
+  {
+    "Abreviatura": "ACK",
+    "Significado": "Notificação de recebimento"
+  },
+  {
+    "Abreviatura": "ACL",
+    "Significado": "Local para teste de altímetro"
+  },
+  {
+    "Abreviatura": "ACN",
+    "Significado": "Número de classificação de aeronaves"
+  },
+  {
+    "Abreviatura": "ACP",
+    "Significado": "Aceitação (designador do tipo de mensagem)"
+  },
+  {
+    "Abreviatura": "ACPT",
+    "Significado": "Aceitar ou aceitado"
+  },
+  {
+    "Abreviatura": "ACT",
+    "Significado": "Ativo ou ativado ou atividade"
+  },
+  {
+    "Abreviatura": "AD",
+    "Significado": "Aeródromo"
+  },
+  {
+    "Abreviatura": "ADA",
+    "Significado": "Área com serviço de assessoramento"
+  },
+  {
+    "Abreviatura": "ADC*",
+    "Significado": "Carta de aeródromo"
+  },
+  {
+    "Abreviatura": "ADDN",
+    "Significado": "Adição ou adicional"
+  },
+  {
+    "Abreviatura": "ADF",
+    "Significado": "Equipamento radiogoniométrico automático"
+  },
+  {
+    "Abreviatura": "ADIZ",
+    "Significado": "Zona de identificação de defesa aérea"
+  },
+  {
+    "Abreviatura": "ADJ",
+    "Significado": "Adjacente"
+  },
+  {
+    "Abreviatura": "ADO",
+    "Significado": "Oficina de aeródromo"
+  },
+  {
+    "Abreviatura": "ADR",
+    "Significado": "Rota com serviço de assessoramento"
+  },
+  {
+    "Abreviatura": "ADS",
+    "Significado": "Vigilância dependente automática"
+  },
+  {
+    "Abreviatura": "ADVS",
+    "Significado": "Serviço de assessoramento"
+  },
+  {
+    "Abreviatura": "ADZ",
+    "Significado": "Aviso"
+  },
+  {
+    "Abreviatura": "AES",
+    "Significado": "Estação terrestre de aeronave"
+  },
+  {
+    "Abreviatura": "AFA*",
+    "Significado": "Academia da Força Aérea"
+  },
+  {
+    "Abreviatura": "AFC*",
+    "Significado": "Centro de Previsão de Área"
+  },
+  {
+    "Abreviatura": "AFIL",
+    "Significado": "Plano de Vôo apresentado em vôo"
+  },
+  {
+    "Abreviatura": "AFIS",
+    "Significado": "Serviço de informação de vôo de aeródromo"
+  },
+  {
+    "Abreviatura": "AFM",
+    "Significado": "Sim ou afirmativo ou correto"
+  },
+  {
+    "Abreviatura": "AFS",
+    "Significado": "Serviço fixo aeronáutico"
+  },
+  {
+    "Abreviatura": "AFT",
+    "Significado": "Depois de ... (hora ou lugar)"
+  },
+  {
+    "Abreviatura": "AFTN",
+    "Significado": "Rede de telecomunicações fixas aeronáuticas"
+  },
+  {
+    "Abreviatura": "AGA",
+    "Significado": "Aeródromos, rotas aéreas e auxílios terrestres"
+  },
+  {
+    "Abreviatura": "AGL",
+    "Significado": "Acima do nível do solo"
+  },
+  {
+    "Abreviatura": "AGN",
+    "Significado": "Outra vez"
+  },
+  {
+    "Abreviatura": "AIC",
+    "Significado": "Circular de informação aeronáutica"
+  },
+  {
+    "Abreviatura": "AIDC",
+    "Significado": "Comunicações de dados entre instalações de serviços de tráfego aéreo"
+  },
+  {
+    "Abreviatura": "AIP",
+    "Significado": "Publicação de informação aeronáutica"
+  },
+  {
+    "Abreviatura": "AIRAC",
+    "Significado": "Regulamentação e controle de informação aeronáutica"
+  },
+  {
+    "Abreviatura": "AIREP",
+    "Significado": "Aeronotificação"
+  },
+  {
+    "Abreviatura": "AIRMET",
+    "Significado": "Informação relativa a fenômenos meteorológicos em rota que possam afetar a segurança operacional das aeronaves em níveis baixos"
+  },
+  {
+    "Abreviatura": "AIS",
+    "Significado": "Serviços de informação aeronáutica"
+  },
+  {
+    "Abreviatura": "ALA",
+    "Significado": "Área de pouso na água"
+  },
+  {
+    "Abreviatura": "ALERFA",
+    "Significado": "Fase de alerta"
+  },
+  {
+    "Abreviatura": "ALL*",
+    "Significado": "Todos(as)"
+  },
+  {
+    "Abreviatura": "ALR",
+    "Significado": "Alerta (designador do tipo de mensagem)"
+  },
+  {
+    "Abreviatura": "ALRS",
+    "Significado": "Serviço de alerta"
+  },
+  {
+    "Abreviatura": "ALS",
+    "Significado": "Sistema de luzes de aproximação"
+  },
+  {
+    "Abreviatura": "ALT",
+    "Significado": "Altitude"
+  },
+  {
+    "Abreviatura": "ALTN",
+    "Significado": "Alternar ou alternante (luz que muda de cor) e Alternativa (aeródromo)"
+  },
+  {
+    "Abreviatura": "AMA",
+    "Significado": "Altitude mínima de área"
+  },
+  {
+    "Abreviatura": "AMD",
+    "Significado": "Emendar ou emendado e Mensagem meteorológica emendada; designador de tipo de mensagem"
+  },
+  {
+    "Abreviatura": "AMDT",
+    "Significado": "Emenda (emenda à AIP)"
+  },
+  {
+    "Abreviatura": "AMS",
+    "Significado": "Serviço móvel aeronáutico"
+  },
+  {
+    "Abreviatura": "AMSL",
+    "Significado": "Acima do nível médio do mar"
+  },
+  {
+    "Abreviatura": "AMSS",
+    "Significado": "Serviço móvel aeronáutico por satélite"
+  },
+  {
+    "Abreviatura": "ANC",
+    "Significado": "Carta aeronáutica – 3,513888889 0 (seguido pelo nome/título)"
+  },
+  {
+    "Abreviatura": "ANCS",
+    "Significado": "Carta de Navegação Aeronáutica – escala pequena (seguida do nome/título) e escala"
+  },
+  {
+    "Abreviatura": "ANS",
+    "Significado": "Resposta ou responder"
+  },
+  {
+    "Abreviatura": "ANV*",
+    "Significado": "Aeronave"
+  },
+  {
+    "Abreviatura": "AOC",
+    "Significado": "Carta de obstáculo de aeródromo"
+  },
+  {
+    "Abreviatura": "AP",
+    "Significado": "Aeroporto"
+  },
+  {
+    "Abreviatura": "APAPI*",
+    "Significado": "Indicador abreviado de trajetória de aproximação de precisão"
+  },
+  {
+    "Abreviatura": "APCH",
+    "Significado": "Aproximação, descida"
+  },
+  {
+    "Abreviatura": "APN",
+    "Significado": "Rampa"
+  },
+  {
+    "Abreviatura": "APP",
+    "Significado": "Centro de controle de aproximação ou serviço de controle de aproximação"
+  },
+  {
+    "Abreviatura": "APR",
+    "Significado": "Abril"
+  },
+  {
+    "Abreviatura": "APRX",
+    "Significado": "Aproximação ou aproximadamente"
+  },
+  {
+    "Abreviatura": "APSG",
+    "Significado": "Depois de passar"
+  },
+  {
+    "Abreviatura": "APT",
+    "Significado": "Receptor de fotografias transmitidas automaticamente por satélites"
+  },
+  {
+    "Abreviatura": "APV",
+    "Significado": "Aprovar ou aprovado ou aprovação"
+  },
+  {
+    "Abreviatura": "ARC",
+    "Significado": "Carta de Área"
+  },
+  {
+    "Abreviatura": "ARE*",
+    "Significado": "Areia"
+  },
+  {
+    "Abreviatura": "ARQ",
+    "Significado": "Correção automática de erros"
+  },
+  {
+    "Abreviatura": "ARR",
+    "Significado": "Chegar ou chegada (designador do tipo de mensagem)"
+  },
+  {
+    "Abreviatura": "ARS",
+    "Significado": "Aeronotificação especial (designador do tipo de mensagem)"
+  },
+  {
+    "Abreviatura": "ARST",
+    "Significado": "Dispositivo de parada da aeronave na pista (especificar tipo)"
+  },
+  {
+    "Abreviatura": "AS",
+    "Significado": "Altostratus"
+  },
+  {
+    "Abreviatura": "ASC",
+    "Significado": "Subir para ou subindo para"
+  },
+  {
+    "Abreviatura": "ASDA",
+    "Significado": "Distância utilizável para parada de decolagem"
+  },
+  {
+    "Abreviatura": "ASE",
+    "Significado": "Erro de sistema de altimetria"
+  },
+  {
+    "Abreviatura": "ASPH",
+    "Significado": "Asfalto"
+  },
+  {
+    "Abreviatura": "ASR*",
+    "Significado": "Radar de vigilância de aeroporto"
+  },
+  {
+    "Abreviatura": "AT",
+    "Significado": "... Às ... (seguido da hora em que se prevê que ocorrerá a mudança meteorológica)"
+  },
+  {
+    "Abreviatura": "ATA",
+    "Significado": "Hora real de chegada"
+  },
+  {
+    "Abreviatura": "ATC",
+    "Significado": "Controle de tráfego aéreo (em geral)"
+  },
+  {
+    "Abreviatura": "ATD",
+    "Significado": "Hora real de saída"
+  },
+  {
+    "Abreviatura": "ATFM",
+    "Significado": "Gerência de fluxo de tráfego aéreo"
+  },
+  {
+    "Abreviatura": "ATIS",
+    "Significado": "Serviço automático de informação em terminal"
+  },
+  {
+    "Abreviatura": "ATM",
+    "Significado": "Gerência de tráfego aéreo"
+  },
+  {
+    "Abreviatura": "ATN",
+    "Significado": "Rede de telecomunicação aeronáutica"
+  },
+  {
+    "Abreviatura": "ATP",
+    "Significado": "Às (horas ou lugar)"
+  },
+  {
+    "Abreviatura": "ATS",
+    "Significado": "Serviço de tráfego aéreo"
+  },
+  {
+    "Abreviatura": "ATTN",
+    "Significado": "Atenção"
+  },
+  {
+    "Abreviatura": "ATZ",
+    "Significado": "Zona de tráfego de aeródromo"
+  },
+  {
+    "Abreviatura": "AUG",
+    "Significado": "Agosto"
+  },
+  {
+    "Abreviatura": "AUTH",
+    "Significado": "Autorizado ou autorização"
+  },
+  {
+    "Abreviatura": "AUW",
+    "Significado": "Peso total de decolagem"
+  },
+  {
+    "Abreviatura": "AUX",
+    "Significado": "Auxiliar"
+  },
+  {
+    "Abreviatura": "AV*",
+    "Significado": "Avenida"
+  },
+  {
+    "Abreviatura": "AVASIS",
+    "Significado": "Sistema visual abreviado da rampa de aproximação"
+  },
+  {
+    "Abreviatura": "AVBL",
+    "Significado": "Disponível, praticável ou disponibilidade, praticabilidade"
+  },
+  {
+    "Abreviatura": "AVG",
+    "Significado": "Média"
+  },
+  {
+    "Abreviatura": "AVGAS",
+    "Significado": "Gasolina de aviação"
+  },
+  {
+    "Abreviatura": "AWTA",
+    "Significado": "Avise a hora em que poderá"
+  },
+  {
+    "Abreviatura": "AWY",
+    "Significado": "Aerovia"
+  },
+  {
+    "Abreviatura": "AZM",
+    "Significado": "Azimute"
+  },
+  {
+    "Abreviatura": "B",
+    "Significado": "Azul"
+  },
+  {
+    "Abreviatura": "B*",
+    "Significado": "Resistência média (pavimentos)"
+  },
+  {
+    "Abreviatura": "BA",
+    "Significado": "Eficiência dos freios"
+  },
+  {
+    "Abreviatura": "BAR*",
+    "Significado": "Barro"
+  },
+  {
+    "Abreviatura": "BASE",
+    "Significado": "Base das nuvens"
+  },
+  {
+    "Abreviatura": "BAVT*",
+    "Significado": "Base de Aviação de Taubaté"
+  },
+  {
+    "Abreviatura": "BC*",
+    "Significado": "Rumo posterior"
+  },
+  {
+    "Abreviatura": "BCFG",
+    "Significado": "Bancos de nevoeiro"
+  },
+  {
+    "Abreviatura": "BCN",
+    "Significado": "Farol (luz aeronáutica de superficie)"
+  },
+  {
+    "Abreviatura": "BCST",
+    "Significado": "Radiodifusão"
+  },
+  {
+    "Abreviatura": "BDRY",
+    "Significado": "Limite"
+  },
+  {
+    "Abreviatura": "BECMG",
+    "Significado": "Transformando-se"
+  },
+  {
+    "Abreviatura": "BFR",
+    "Significado": "Antes de"
+  },
+  {
+    "Abreviatura": "BKN",
+    "Significado": "Nublado (5 a 7 oitavos)"
+  },
+  {
+    "Abreviatura": "BL",
+    "Significado": "... Soprando (seguido de DU= areia ou SN= neve)"
+  },
+  {
+    "Abreviatura": "BLDG",
+    "Significado": "Edifício"
+  },
+  {
+    "Abreviatura": "BLDU*",
+    "Significado": "Poeira Soprada"
+  },
+  {
+    "Abreviatura": "BLO",
+    "Significado": "Abaixo das nuvens"
+  },
+  {
+    "Abreviatura": "BLSA*",
+    "Significado": "Areia Soprada"
+  },
+  {
+    "Abreviatura": "BLW",
+    "Significado": "Abaixo de ..."
+  },
+  {
+    "Abreviatura": "BOMB",
+    "Significado": "Bombardeio"
+  },
+  {
+    "Abreviatura": "BR",
+    "Significado": "Névoa úmida"
+  },
+  {
+    "Abreviatura": "BRF",
+    "Significado": "Curto (usado para indicar o tipo de aproximação desejada ou requerida)"
+  },
+  {
+    "Abreviatura": "BRG",
+    "Significado": "Marcação"
+  },
+  {
+    "Abreviatura": "BRKG",
+    "Significado": "Freada"
+  },
+  {
+    "Abreviatura": "BS",
+    "Significado": "Estação comercial de radiodifusão"
+  },
+  {
+    "Abreviatura": "BTL",
+    "Significado": "Entre camadas"
+  },
+  {
+    "Abreviatura": "BTN",
+    "Significado": "Entre"
+  },
+  {
+    "Abreviatura": "C",
+    "Significado": "Graus Celsius e Centro (identificação de pista)"
+  },
+  {
+    "Abreviatura": "C*",
+    "Significado": "Cartas e pequena resistência (pavimentos)"
+  },
+  {
+    "Abreviatura": "CAT",
+    "Significado": "Categoria e Turbulência em céu claro"
+  },
+  {
+    "Abreviatura": "CAVOK",
+    "Significado": "Visibilidade, 10 Km ou mais, nenhuma nuvem abaixo de 1500m ou abaixo da altura mínima do setor mais elevado, qualquer que seja o maior, nem CB; nenhuma condição de tempo significativa para a aviação"
+  },
+  {
+    "Abreviatura": "CB",
+    "Significado": "Cumulonimbus"
+  },
+  {
+    "Abreviatura": "CC",
+    "Significado": "Cirroculumbus"
+  },
+  {
+    "Abreviatura": "CCA",
+    "Significado": "(ou CCB, CCC ... etc., em ordem) Mensagem meteorológica corrigida (designador de tipo de mensagem)"
+  },
+  {
+    "Abreviatura": "CCV*",
+    "Significado": "Carta de corredores visuais"
+  },
+  {
+    "Abreviatura": "CD",
+    "Significado": "Candela"
+  },
+  {
+    "Abreviatura": "CDN",
+    "Significado": "Coordenação (designador ou tipo de mensagem)"
+  },
+  {
+    "Abreviatura": "CEMIG*",
+    "Significado": "Centrais Elétricas Minas Gerais"
+  },
+  {
+    "Abreviatura": "CESP*",
+    "Significado": "Companhia Energética de São Paulo"
+  },
+  {
+    "Abreviatura": "CF",
+    "Significado": "Mude a freqüência para ..."
+  },
+  {
+    "Abreviatura": "CFM",
+    "Significado": "Confirme ou confirmo"
+  },
+  {
+    "Abreviatura": "CGL",
+    "Significado": "Luzes de orientação para circular"
+  },
+  {
+    "Abreviatura": "CH",
+    "Significado": "Canal"
+  },
+  {
+    "Abreviatura": "CHESF*",
+    "Significado": "Companhia Hidroelétrica do São Francisco"
+  },
+  {
+    "Abreviatura": "CHG",
+    "Significado": "Modificação (designador do tipo de mensagem)"
+  },
+  {
+    "Abreviatura": "CI",
+    "Significado": "Cirrus"
+  },
+  {
+    "Abreviatura": "CIDIN",
+    "Significado": "Rede comum de intercâmbio de dados da OACI"
+  },
+  {
+    "Abreviatura": "CIN*",
+    "Significado": "Cinza"
+  },
+  {
+    "Abreviatura": "CIT",
+    "Significado": "Perto de ou sobre cidades grandes"
+  },
+  {
+    "Abreviatura": "CIV",
+    "Significado": "Civil"
+  },
+  {
+    "Abreviatura": "CK",
+    "Significado": "Verificar, verificação"
+  },
+  {
+    "Abreviatura": "CL",
+    "Significado": "(linha de) eixo de pista"
+  },
+  {
+    "Abreviatura": "CLA",
+    "Significado": "Formação de gelo de tipo cristalino"
+  },
+  {
+    "Abreviatura": "CLA*",
+    "Significado": "Centro de lançamento de Alcântara"
+  },
+  {
+    "Abreviatura": "CLBR",
+    "Significado": "Calibragem"
+  },
+  {
+    "Abreviatura": "CLD",
+    "Significado": "Nuvem"
+  },
+  {
+    "Abreviatura": "CLG",
+    "Significado": "Chamando"
+  },
+  {
+    "Abreviatura": "CLR",
+    "Significado": "Autorizar ou autorizado a ... ou autorização"
+  },
+  {
+    "Abreviatura": "CLRD*",
+    "Significado": "Autorização de tráfego"
+  },
+  {
+    "Abreviatura": "CLSD",
+    "Significado": "Fechar ou fechado ou fechando"
+  },
+  {
+    "Abreviatura": "CM",
+    "Significado": "Centímetro"
+  },
+  {
+    "Abreviatura": "CMA*",
+    "Significado": "Centro Meteorológico Aeródromo"
+  },
+  {
+    "Abreviatura": "CMB",
+    "Significado": "Suba"
+  },
+  {
+    "Abreviatura": "CMB*",
+    "Significado": "Combustível"
+  },
+  {
+    "Abreviatura": "CMM*",
+    "Significado": "Centro Meteorológico Militar"
+  },
+  {
+    "Abreviatura": "COM",
+    "Significado": "Comunicações"
+  },
+  {
+    "Abreviatura": "COMAR*",
+    "Significado": "Comando Aéreo Regional"
+  },
+  {
+    "Abreviatura": "COMDA*",
+    "Significado": "Comando de Defesa Aérea"
+  },
+  {
+    "Abreviatura": "COMP*",
+    "Significado": "Construção composta"
+  },
+  {
+    "Abreviatura": "CONC",
+    "Significado": "Concreto"
+  },
+  {
+    "Abreviatura": "COND",
+    "Significado": "Condição"
+  },
+  {
+    "Abreviatura": "CONS",
+    "Significado": "Contínuo"
+  },
+  {
+    "Abreviatura": "CONST",
+    "Significado": "Construção ou constrído"
+  },
+  {
+    "Abreviatura": "Cont",
+    "Significado": "Continuar ou continuação"
+  },
+  {
+    "Abreviatura": "COOR",
+    "Significado": "Coordenar ou coordenação"
+  },
+  {
+    "Abreviatura": "COORD",
+    "Significado": "Coordenadas"
+  },
+  {
+    "Abreviatura": "COP",
+    "Significado": "Ponto de Troca (VOR)"
+  },
+  {
+    "Abreviatura": "COR",
+    "Significado": "Corrigir ou correção ou corrigido (usado para indicar uma mensagem meteorológica corrigida; designador do tipo de mensagem)"
+  },
+  {
+    "Abreviatura": "COT",
+    "Significado": "Na costa"
+  },
+  {
+    "Abreviatura": "COV",
+    "Significado": "Cobrir ou coberto ou cobrindo"
+  },
+  {
+    "Abreviatura": "CP*",
+    "Significado": "Carta de pouso"
+  },
+  {
+    "Abreviatura": "CPA*",
+    "Significado": "Camada Porosa de Atrito"
+  },
+  {
+    "Abreviatura": "CPDLC",
+    "Significado": "Comunicações por ligação de dados controlador-piloto"
+  },
+  {
+    "Abreviatura": "CPL",
+    "Significado": "Plano de vôo em vigor (designador do tipo de mensagem)"
+  },
+  {
+    "Abreviatura": "CPOR*",
+    "Significado": "Carta dos padrões de orientação radar"
+  },
+  {
+    "Abreviatura": "CRM*",
+    "Significado": "Modelo de risco de colisão"
+  },
+  {
+    "Abreviatura": "CRZ",
+    "Significado": "Cruzeiro"
+  },
+  {
+    "Abreviatura": "CS",
+    "Significado": "Cirrostratus"
+  },
+  {
+    "Abreviatura": "CS*",
+    "Significado": "Estação de Comunicação"
+  },
+  {
+    "Abreviatura": "CTA",
+    "Significado": "Área de controle"
+  },
+  {
+    "Abreviatura": "CTAM",
+    "Significado": "Subir até ... e manter"
+  },
+  {
+    "Abreviatura": "CTC",
+    "Significado": "Contato, comunique-se"
+  },
+  {
+    "Abreviatura": "CTL",
+    "Significado": "Controle"
+  },
+  {
+    "Abreviatura": "CTN",
+    "Significado": "Cuidado"
+  },
+  {
+    "Abreviatura": "CTR",
+    "Significado": "Zona de controle"
+  },
+  {
+    "Abreviatura": "C",
+    "Significado": "U Cumulus"
+  },
+  {
+    "Abreviatura": "CUF",
+    "Significado": "Cuculiforme"
+  },
+  {
+    "Abreviatura": "CUST",
+    "Significado": "Alfândega"
+  },
+  {
+    "Abreviatura": "CVR",
+    "Significado": "Gravador de voz na cabine"
+  },
+  {
+    "Abreviatura": "CVRD*",
+    "Significado": "Companhia Vale do Rio Doce"
+  },
+  {
+    "Abreviatura": "CW",
+    "Significado": "Onda contínua"
+  },
+  {
+    "Abreviatura": "CWY",
+    "Significado": "Zona livre de obstáculo"
+  },
+  {
+    "Abreviatura": "D",
+    "Significado": "Em diminuição (tendência do RVR durante os 10 minutos anteriores)"
+  },
+  {
+    "Abreviatura": "D*",
+    "Significado": "Resistência ultrabaixa (pavimentos)"
+  },
+  {
+    "Abreviatura": "D",
+    "Significado": "... Área perigosa (seguida de identificação)"
+  },
+  {
+    "Abreviatura": "DA",
+    "Significado": "Altitude de decisão"
+  },
+  {
+    "Abreviatura": "DAC*",
+    "Significado": "Departamento de Aviação Civil"
+  },
+  {
+    "Abreviatura": "DAE*",
+    "Significado": "Departamento Aeroviário do Estado do Rio Grande do Sul"
+  },
+  {
+    "Abreviatura": "DAP-RS*",
+    "Significado": "Departamento Aeroportuário do Estado do Rio Grande do Sul"
+  },
+  {
+    "Abreviatura": "DAESP*",
+    "Significado": "Departamento Aeroviário do Estado de São Paulo"
+  },
+  {
+    "Abreviatura": "DAP-RS*",
+    "Significado": "Departamento Aeroportuário do Estado do Rio Grande do Sul"
+  },
+  {
+    "Abreviatura": "DCD",
+    "Significado": "Dúplex de canal duplo"
+  },
+  {
+    "Abreviatura": "DCKG",
+    "Significado": "Acoplamento"
+  },
+  {
+    "Abreviatura": "DCS",
+    "Significado": "Simplex de canal duplo"
+  },
+  {
+    "Abreviatura": "DCT",
+    "Significado": "Direto (com relação às autorizações para plano de vôo e tipo de aproximação)"
+  },
+  {
+    "Abreviatura": "DEC",
+    "Significado": "Dezembro"
+  },
+  {
+    "Abreviatura": "DECEA*",
+    "Significado": "Departamento de Controle de Espaço Aéreo"
+  },
+  {
+    "Abreviatura": "DEG",
+    "Significado": "Graus"
+  },
+  {
+    "Abreviatura": "DENEB*",
+    "Significado": "Operações de dispersão de nevoeiro"
+  },
+  {
+    "Abreviatura": "DEP",
+    "Significado": "Partida (designador do tipo de mensagem) e Partir, partida, saída"
+  },
+  {
+    "Abreviatura": "DEPED*",
+    "Significado": "Departamento de Pesquisa e Desenvolvimento"
+  },
+  {
+    "Abreviatura": "DES",
+    "Significado": "Descer para ou descendo para"
+  },
+  {
+    "Abreviatura": "DEST",
+    "Significado": "Destino"
+  },
+  {
+    "Abreviatura": "DETRESFA",
+    "Significado": "Fase de perigo"
+  },
+  {
+    "Abreviatura": "DEV",
+    "Significado": "Desvio ou desviando-se"
+  },
+  {
+    "Abreviatura": "DFDR",
+    "Significado": "Gravador de dados de vôo digital"
+  },
+  {
+    "Abreviatura": "DFTI",
+    "Significado": "Distância do indicador do ponto de toque"
+  },
+  {
+    "Abreviatura": "DH",
+    "Significado": "Altura de decisão"
+  },
+  {
+    "Abreviatura": "DIF",
+    "Significado": "Difusas (nuvens)"
+  },
+  {
+    "Abreviatura": "DIST",
+    "Significado": "Distância"
+  },
+  {
+    "Abreviatura": "DIV",
+    "Significado": "Desvie-se ou desviando-se"
+  },
+  {
+    "Abreviatura": "DLA",
+    "Significado": "Atraso (designador do tipo de mensagem) e Atraso ou atrasado"
+  },
+  {
+    "Abreviatura": "DLCI",
+    "Significado": "Capacidade de inicialização de ligação de dados"
+  },
+  {
+    "Abreviatura": "DLY",
+    "Significado": "Diariamente"
+  },
+  {
+    "Abreviatura": "DME",
+    "Significado": "Equipamento radiotelemétrico"
+  },
+  {
+    "Abreviatura": "DNER*",
+    "Significado": "Departamento Nacional de Estrada de Rodagem"
+  },
+  {
+    "Abreviatura": "DNG",
+    "Significado": "Perigo ou perigoso"
+  },
+  {
+    "Abreviatura": "DOM",
+    "Significado": "Doméstico"
+  },
+  {
+    "Abreviatura": "DP",
+    "Significado": "Temperatura do ponto de orvalho"
+  },
+  {
+    "Abreviatura": "DPT",
+    "Significado": "Profundidade"
+  },
+  {
+    "Abreviatura": "DR",
+    "Significado": "Navegação estimada"
+  },
+  {
+    "Abreviatura": "DR",
+    "Significado": "... Vento calmo com neve (seguido de DU = poeira, AS = areia ou SN = neve)"
+  },
+  {
+    "Abreviatura": "DRG",
+    "Significado": "Durante"
+  },
+  {
+    "Abreviatura": "DRSA*",
+    "Significado": "Areia flutuante"
+  },
+  {
+    "Abreviatura": "DS",
+    "Significado": "Tempestade de poeira"
+  },
+  {
+    "Abreviatura": "DSB",
+    "Significado": "Banda lateral dupla"
+  },
+  {
+    "Abreviatura": "DTAM",
+    "Significado": "Descer até ... e mantenha"
+  },
+  {
+    "Abreviatura": "DTG",
+    "Significado": "Grupo data-hora"
+  },
+  {
+    "Abreviatura": "DTHR",
+    "Significado": "Cabeceira de pista deslocada"
+  },
+  {
+    "Abreviatura": "DTRT",
+    "Significado": "Piorar ou piorando"
+  },
+  {
+    "Abreviatura": "DTT*",
+    "Significado": "Departamento de Transporte e Terminais"
+  },
+  {
+    "Abreviatura": "DTW",
+    "Significado": "Rodas duplas em tandem"
+  },
+  {
+    "Abreviatura": "DU",
+    "Significado": "Poeira, pó"
+  },
+  {
+    "Abreviatura": "DUC",
+    "Significado": "Nuvem densa em altitude"
+  },
+  {
+    "Abreviatura": "DUPE",
+    "Significado": "Essa é uma mensagem duplicada"
+  },
+  {
+    "Abreviatura": "DUR",
+    "Significado": "Duração"
+  },
+  {
+    "Abreviatura": "DVOR",
+    "Significado": "VOR Doppler"
+  },
+  {
+    "Abreviatura": "DW",
+    "Significado": "Rodas duplas"
+  },
+  {
+    "Abreviatura": "DZ",
+    "Significado": "Chuvisco"
+  },
+  {
+    "Abreviatura": "E",
+    "Significado": "Leste ou longitude leste"
+  },
+  {
+    "Abreviatura": "EAC*",
+    "Significado": "Espaço aéreo condicionado"
+  },
+  {
+    "Abreviatura": "EAT",
+    "Significado": "Hora estimada de aproximação"
+  },
+  {
+    "Abreviatura": "EB",
+    "Significado": "Direção leste"
+  },
+  {
+    "Abreviatura": "EB*",
+    "Significado": "Exército Brasileiro"
+  },
+  {
+    "Abreviatura": "EEE",
+    "Significado": "Erro"
+  },
+  {
+    "Abreviatura": "EET",
+    "Significado": "Tempo decorrido estimado"
+  },
+  {
+    "Abreviatura": "ELETRONORTE*",
+    "Significado": "Centrais Elétricas Norte do Brasil S/A"
+  },
+  {
+    "Abreviatura": "ELEV",
+    "Significado": "Elevação"
+  },
+  {
+    "Abreviatura": "ELR",
+    "Significado": "Raio de ação muito longo"
+  },
+  {
+    "Abreviatura": "EM",
+    "Significado": "Emissão"
+  },
+  {
+    "Abreviatura": "EM*",
+    "Significado": "Estação de Meteorogia"
+  },
+  {
+    "Abreviatura": "EMBD",
+    "Significado": "Oculto numa camada (para indicar o cumulonimbus oculto em camadas de outras nuvens"
+  },
+  {
+    "Abreviatura": "EMERG",
+    "Significado": "Emergência"
+  },
+  {
+    "Abreviatura": "EMS",
+    "Significado": "Estação Meteorológica de Superfície"
+  },
+  {
+    "Abreviatura": "EN*",
+    "Significado": "Inglès"
+  },
+  {
+    "Abreviatura": "END",
+    "Significado": "Extremidade"
+  },
+  {
+    "Abreviatura": "ENE",
+    "Significado": "Este-Nordeste"
+  },
+  {
+    "Abreviatura": "ENG",
+    "Significado": "Motor"
+  },
+  {
+    "Abreviatura": "ENR",
+    "Significado": "Em rota"
+  },
+  {
+    "Abreviatura": "ENRC",
+    "Significado": "Carta de rota (seguida pelo nome/título)"
+  },
+  {
+    "Abreviatura": "EOBT",
+    "Significado": "Hora Estimada de Calços Fora"
+  },
+  {
+    "Abreviatura": "EPCF",
+    "Significado": "Especificar"
+  },
+  {
+    "Abreviatura": "EQPT",
+    "Significado": "Equipamento"
+  },
+  {
+    "Abreviatura": "ER",
+    "Significado": "Aqui ... ou junto"
+  },
+  {
+    "Abreviatura": "ER*",
+    "Significado": "Longo alcance"
+  },
+  {
+    "Abreviatura": "ERC*",
+    "Significado": "Carta de Rota"
+  },
+  {
+    "Abreviatura": "ESE",
+    "Significado": "Este-sudeste"
+  },
+  {
+    "Abreviatura": "ESG*",
+    "Significado": "Esgotado (a)"
+  },
+  {
+    "Abreviatura": "ESPECIAL*",
+    "Significado": "Informação meteorológica, quando há mudanças significativas"
+  },
+  {
+    "Abreviatura": "EST",
+    "Significado": "Estimar ou estimado ou estimação (como um designador de mensagem)"
+  },
+  {
+    "Abreviatura": "ETA",
+    "Significado": "Hora estimada de chegada ou estimada a chegada"
+  },
+  {
+    "Abreviatura": "ETD",
+    "Significado": "Hora estimada de partida ou estimo partir às ..."
+  },
+  {
+    "Abreviatura": "ETO",
+    "Significado": "Hora estimada sobre ponto significativo"
+  },
+  {
+    "Abreviatura": "EV",
+    "Significado": "Cada um, todo"
+  },
+  {
+    "Abreviatura": "EXC",
+    "Significado": "Exceto"
+  },
+  {
+    "Abreviatura": "EXER",
+    "Significado": "Exercícios ou exercendo ou exercer"
+  },
+  {
+    "Abreviatura": "EXP",
+    "Significado": "Esperar ou esperado ou esperando"
+  },
+  {
+    "Abreviatura": "EXTD",
+    "Significado": "Estender-se ou estendendo-se"
+  },
+  {
+    "Abreviatura": "F",
+    "Significado": "Fixo"
+  },
+  {
+    "Abreviatura": "F*",
+    "Significado": "Pavimento flexível"
+  },
+  {
+    "Abreviatura": "FAC",
+    "Significado": "Instalações e serviços"
+  },
+  {
+    "Abreviatura": "FAF",
+    "Significado": "Fixo de aproximação final"
+  },
+  {
+    "Abreviatura": "FAL",
+    "Significado": "Facilitação do transporte aéreo internacional"
+  },
+  {
+    "Abreviatura": "FAP",
+    "Significado": "Ponto de aproximação final"
+  },
+  {
+    "Abreviatura": "FATO",
+    "Significado": "Área, no solo, sobre a qual é executada a fase final de aproximação e a fase inicial de decolagem"
+  },
+  {
+    "Abreviatura": "FAX",
+    "Significado": "Transmissão por fac-símile"
+  },
+  {
+    "Abreviatura": "FAZ*",
+    "Significado": "Fazenda"
+  },
+  {
+    "Abreviatura": "FBL",
+    "Significado": "Leve (usado nos informes para indicar intensidade dos fenômenos meteorológicos, interferências ou estática. Ex.: FBL RA = chuva leve)"
+  },
+  {
+    "Abreviatura": "FC",
+    "Significado": "Nuvem em forma de funil"
+  },
+  {
+    "Abreviatura": "FCST",
+    "Significado": "Previsão"
+  },
+  {
+    "Abreviatura": "FCT",
+    "Significado": "Coeficiente de atrito"
+  },
+  {
+    "Abreviatura": "FDPS",
+    "Significado": "Sistema de processamento de dados de vôo"
+  },
+  {
+    "Abreviatura": "FEB",
+    "Significado": "Fevereiro"
+  },
+  {
+    "Abreviatura": "FEW",
+    "Significado": "Pouco (1 e 2 oitavos)"
+  },
+  {
+    "Abreviatura": "FG",
+    "Significado": "Nevoeiro"
+  },
+  {
+    "Abreviatura": "FIC",
+    "Significado": "Centro de informação de vôo"
+  },
+  {
+    "Abreviatura": "FIR",
+    "Significado": "Região de informação de vôo"
+  },
+  {
+    "Abreviatura": "FIS",
+    "Significado": "Serviço de informação de vôo"
+  },
+  {
+    "Abreviatura": "FISA",
+    "Significado": "Serviço automatizado de informação de vôo"
+  },
+  {
+    "Abreviatura": "FL",
+    "Significado": "Nível de vôo"
+  },
+  {
+    "Abreviatura": "FLD",
+    "Significado": "Campo de aviação"
+  },
+  {
+    "Abreviatura": "FLG",
+    "Significado": "Lampejos (pisca-pisca)"
+  },
+  {
+    "Abreviatura": "FLR",
+    "Significado": "Foguetes de sinalização"
+  },
+  {
+    "Abreviatura": "FLT",
+    "Significado": "Vôo"
+  },
+  {
+    "Abreviatura": "FLTCK",
+    "Significado": "Teste de vôo"
+  },
+  {
+    "Abreviatura": "FLUC",
+    "Significado": "Flutuante ou flutuação ou flutuado"
+  },
+  {
+    "Abreviatura": "FLW",
+    "Significado": "Seguir, segue ou seguindo"
+  },
+  {
+    "Abreviatura": "FLY",
+    "Significado": "Voar ou voando"
+  },
+  {
+    "Abreviatura": "FM",
+    "Significado": "De"
+  },
+  {
+    "Abreviatura": "FM",
+    "Significado": "... De (seguido da hora e minuto UTC em que se prevê que ocorrerá a mudança meteorológica)"
+  },
+  {
+    "Abreviatura": "FMS",
+    "Significado": "Órgão de gerência de vôo"
+  },
+  {
+    "Abreviatura": "FMU",
+    "Significado": "Órgão de gerência de fluxo"
+  },
+  {
+    "Abreviatura": "FNA",
+    "Significado": "Aproximação final"
+  },
+  {
+    "Abreviatura": "FPC*",
+    "Significado": "Carta de Planejamento de Vôo e Rotas Oceânicas"
+  },
+  {
+    "Abreviatura": "FPL",
+    "Significado": "Plano de vôo apresentado (designador do tipo de mensagem)"
+  },
+  {
+    "Abreviatura": "FPM",
+    "Significado": "Pés por minuto"
+  },
+  {
+    "Abreviatura": "FPR",
+    "Significado": "Rota de palno de vôo"
+  },
+  {
+    "Abreviatura": "FR",
+    "Significado": "Combustível restante, autonomia"
+  },
+  {
+    "Abreviatura": "FREQ",
+    "Significado": "Freqüência"
+  },
+  {
+    "Abreviatura": "FRI",
+    "Significado": "Sexta-feira"
+  },
+  {
+    "Abreviatura": "FRING",
+    "Significado": "Tiros"
+  },
+  {
+    "Abreviatura": "FRONT",
+    "Significado": "Frente (meteorologia)"
+  },
+  {
+    "Abreviatura": "FRQ",
+    "Significado": "Freqüente"
+  },
+  {
+    "Abreviatura": "FSL",
+    "Significado": "Pouso completo"
+  },
+  {
+    "Abreviatura": "FSS",
+    "Significado": "Estação de serviço de vôo"
+  },
+  {
+    "Abreviatura": "FST",
+    "Significado": "Primeiro"
+  },
+  {
+    "Abreviatura": "FT",
+    "Significado": "Pés (unidade de medida)"
+  },
+  {
+    "Abreviatura": "FU",
+    "Significado": "Fumaça"
+  },
+  {
+    "Abreviatura": "FZ",
+    "Significado": "Enregelante, congelante"
+  },
+  {
+    "Abreviatura": "FZDZ",
+    "Significado": "Chuvisco congelante ou chuvisco intenso congelante"
+  },
+  {
+    "Abreviatura": "FZFG",
+    "Significado": "Nevoeiro congelante"
+  },
+  {
+    "Abreviatura": "FZRA",
+    "Significado": "Chuva congelante"
+  },
+  {
+    "Abreviatura": "G",
+    "Significado": "Verde"
+  },
+  {
+    "Abreviatura": "G/A",
+    "Significado": "Terra-ar"
+  },
+  {
+    "Abreviatura": "G/A/G",
+    "Significado": "Terra-ar e ar-terra"
+  },
+  {
+    "Abreviatura": "GA",
+    "Significado": "Siga em frente"
+  },
+  {
+    "Abreviatura": "GAMET",
+    "Significado": "Previsão de área em linguagem clara abreviada para vôos em níveis baixos, para uma FIR ou subárea dela"
+  },
+  {
+    "Abreviatura": "GCA",
+    "Significado": "Sistema de aproximação controlada do solo ou aproximação controlada do solo"
+  },
+  {
+    "Abreviatura": "GEICAMP",
+    "Significado": "Grupo Executivo para implantação do Campo de Provas de Cachimbo"
+  },
+  {
+    "Abreviatura": "GEN",
+    "Significado": "Generalidades"
+  },
+  {
+    "Abreviatura": "GEO",
+    "Significado": "Geográfico ou VERDADEIRO"
+  },
+  {
+    "Abreviatura": "GES",
+    "Significado": "Estação terrestre em terra"
+  },
+  {
+    "Abreviatura": "GLD",
+    "Significado": "Planador"
+  },
+  {
+    "Abreviatura": "GLONASS",
+    "Significado": "Sistema mundial de navegação por satélite"
+  },
+  {
+    "Abreviatura": "GMC",
+    "Significado": "Carta de movimento no solo (seguida por nome/título)"
+  },
+  {
+    "Abreviatura": "GND",
+    "Significado": "Solo"
+  },
+  {
+    "Abreviatura": "GNDC*",
+    "Significado": "Controle solo"
+  },
+  {
+    "Abreviatura": "GP.flg*",
+    "Significado": "Grupo de lampejo (pisca-pisca)"
+  },
+  {
+    "Abreviatura": "GPS",
+    "Significado": "Sistema mundial de determinação de posição"
+  },
+  {
+    "Abreviatura": "GPS*",
+    "Significado": "Sistema de comunicações para fins gerais"
+  },
+  {
+    "Abreviatura": "GR",
+    "Significado": "Granizo"
+  },
+  {
+    "Abreviatura": "GRASS",
+    "Significado": "Área de pouso coberta de grama"
+  },
+  {
+    "Abreviatura": "GRIB",
+    "Significado": "Dados meteorológicos processados na forma de valores de pontos de quadrícula (no código meteorológico aeronáutico)"
+  },
+  {
+    "Abreviatura": "GRVL",
+    "Significado": "Cascalho"
+  },
+  {
+    "Abreviatura": "GS",
+    "Significado": "Velocidade em relação ao solo e Granizo miúdo e/ou neve granulada"
+  },
+  {
+    "Abreviatura": "GUND",
+    "Significado": "Ondulação geóide"
+  },
+  {
+    "Abreviatura": "h*",
+    "Significado": "Observações semi-horárias"
+  },
+  {
+    "Abreviatura": "H*",
+    "Significado": "Observações horárias"
+  },
+  {
+    "Abreviatura": "H24",
+    "Significado": "Serviço contínuo de dia e de noite"
+  },
+  {
+    "Abreviatura": "HAPI",
+    "Significado": "Indicador visual da trajetória de aproximação para helicóptero"
+  },
+  {
+    "Abreviatura": "HBN",
+    "Significado": "Farol de perigo"
+  },
+  {
+    "Abreviatura": "HDF",
+    "Significado": "Estação radiogoniométrica de alta freqüência"
+  },
+  {
+    "Abreviatura": "HDG",
+    "Significado": "Rumo"
+  },
+  {
+    "Abreviatura": "HEL",
+    "Significado": "Helicóptero"
+  },
+  {
+    "Abreviatura": "HELPN*",
+    "Significado": "Heliponto"
+  },
+  {
+    "Abreviatura": "HELPR*",
+    "Significado": "Heliporto"
+  },
+  {
+    "Abreviatura": "HF",
+    "Significado": "Alta freqüência (3000 a 30.000Khz)"
+  },
+  {
+    "Abreviatura": "HGT",
+    "Significado": "Altura ou altura sobre"
+  },
+  {
+    "Abreviatura": "HIRL*",
+    "Significado": "Luzes de pista de alta intensidade"
+  },
+  {
+    "Abreviatura": "HJ",
+    "Significado": "Horário diurno (do nascer ao pôr-do-sol)"
+  },
+  {
+    "Abreviatura": "HL*",
+    "Significado": "Altura perdida"
+  },
+  {
+    "Abreviatura": "HLDG",
+    "Significado": "Espera"
+  },
+  {
+    "Abreviatura": "HN",
+    "Significado": "Horário noturno (do pôr-do-sol)"
+  },
+  {
+    "Abreviatura": "HO",
+    "Significado": "Serviço disponível para atender às necessidades das operações"
+  },
+  {
+    "Abreviatura": "HOL",
+    "Significado": "Feriado"
+  },
+  {
+    "Abreviatura": "HOSP",
+    "Significado": "Aeronave-hospital"
+  },
+  {
+    "Abreviatura": "HOTRAN*",
+    "Significado": "Horários de transporte aéreo"
+  },
+  {
+    "Abreviatura": "HOTREG*",
+    "Significado": "Horários de transporte aéreo regional"
+  },
+  {
+    "Abreviatura": "HPA",
+    "Significado": "Hectopascal"
+  },
+  {
+    "Abreviatura": "HR",
+    "Significado": "Horas"
+  },
+  {
+    "Abreviatura": "HS",
+    "Significado": "Serviço disponível durante as horas dos vôos regulares"
+  },
+  {
+    "Abreviatura": "HURCN",
+    "Significado": "Furacão"
+  },
+  {
+    "Abreviatura": "HVDF",
+    "Significado": "Estações radiogoniométricas de alta e muito alta freqüência (situadas no mesmo lugar)"
+  },
+  {
+    "Abreviatura": "HVY",
+    "Significado": "Pesado (usado para indicar a intensidade dos fenômenos meteorológicos, ex: HVY RA = chuva forte)"
+  },
+  {
+    "Abreviatura": "HX",
+    "Significado": "Horas de serviço não determinadas"
+  },
+  {
+    "Abreviatura": "HYR",
+    "Significado": "Mais elevado"
+  },
+  {
+    "Abreviatura": "HZ",
+    "Significado": "Névoa"
+  },
+  {
+    "Abreviatura": "IAC",
+    "Significado": "Carta de aproximação por instrumento"
+  },
+  {
+    "Abreviatura": "IAC*",
+    "Significado": "Carta de aproximação e pouso por instrumentos"
+  },
+  {
+    "Abreviatura": "IAF",
+    "Significado": "Fixo de aproximação inicial"
+  },
+  {
+    "Abreviatura": "IAL*",
+    "Significado": "Carta de aproximação e uso por instrumentos"
+  },
+  {
+    "Abreviatura": "IAO",
+    "Significado": "Dentro e fora das nuvens"
+  },
+  {
+    "Abreviatura": "IAR",
+    "Significado": "Inspeção de rotas aéreas"
+  },
+  {
+    "Abreviatura": "IAS",
+    "Significado": "Velocidade indicada"
+  },
+  {
+    "Abreviatura": "IBAMA*",
+    "Significado": "Instituto Brasileiro do Meio Ambiente"
+  },
+  {
+    "Abreviatura": "IBN",
+    "Significado": "Farol de identificação"
+  },
+  {
+    "Abreviatura": "IC",
+    "Significado": "Prismas de gelo (cristais de gelo muito pequenos em suspensão)"
+  },
+  {
+    "Abreviatura": "ICE",
+    "Significado": "Formação de gelo"
+  },
+  {
+    "Abreviatura": "ID",
+    "Significado": "Identificador ou identificar"
+  },
+  {
+    "Abreviatura": "IDENT",
+    "Significado": "Identificação"
+  },
+  {
+    "Abreviatura": "IF",
+    "Significado": "Fixo de aproximação intermediário"
+  },
+  {
+    "Abreviatura": "IFF",
+    "Significado": "Identificação amigo/inimigo"
+  },
+  {
+    "Abreviatura": "IFR",
+    "Significado": "Regras de vôo por instrumentos"
+  },
+  {
+    "Abreviatura": "IGA",
+    "Significado": "Aviação geral internacional"
+  },
+  {
+    "Abreviatura": "ILS",
+    "Significado": "Sistema de pouso por instrumentos"
+  },
+  {
+    "Abreviatura": "IM",
+    "Significado": "Marcador interno"
+  },
+  {
+    "Abreviatura": "IMC",
+    "Significado": "Condições meteorológicas de vôo por instrumentos"
+  },
+  {
+    "Abreviatura": "IMG",
+    "Significado": "Imigração"
+  },
+  {
+    "Abreviatura": "IMPR",
+    "Significado": "Melhorar ou melhorando"
+  },
+  {
+    "Abreviatura": "IMT",
+    "Significado": "Imediato ou imediatamente"
+  },
+  {
+    "Abreviatura": "INA",
+    "Significado": "Aproximação inicial"
+  },
+  {
+    "Abreviatura": "INBD",
+    "Significado": "De entrada, de chegada"
+  },
+  {
+    "Abreviatura": "INC",
+    "Significado": "Dentro da nuvem"
+  },
+  {
+    "Abreviatura": "INCERFA",
+    "Significado": "Fase de incerteza"
+  },
+  {
+    "Abreviatura": "IND*",
+    "Significado": "Indicativo de chamada"
+  },
+  {
+    "Abreviatura": "INDIC*",
+    "Significado": "Indicador, indicativo"
+  },
+  {
+    "Abreviatura": "INFO",
+    "Significado": "Informação"
+  },
+  {
+    "Abreviatura": "INFRAERO*",
+    "Significado": "Empresa Brasileira de Infra-estrutura Aeroportuária"
+  },
+  {
+    "Abreviatura": "INOP",
+    "Significado": "Inoperante"
+  },
+  {
+    "Abreviatura": "INP",
+    "Significado": "Se não for possível"
+  },
+  {
+    "Abreviatura": "INPR",
+    "Significado": "Em andamento"
+  },
+  {
+    "Abreviatura": "INS",
+    "Significado": "Sistema de navegação inercial"
+  },
+  {
+    "Abreviatura": "INSTL",
+    "Significado": "Instalar ou instalado ou instalação"
+  },
+  {
+    "Abreviatura": "INSTR",
+    "Significado": "Instrumento"
+  },
+  {
+    "Abreviatura": "INT",
+    "Significado": "Interseção"
+  },
+  {
+    "Abreviatura": "INTL",
+    "Significado": "Internacional"
+  },
+  {
+    "Abreviatura": "INTRG",
+    "Significado": "Interrogador"
+  },
+  {
+    "Abreviatura": "INTRP",
+    "Significado": "Interromper ou interrupção ou interrompido"
+  },
+  {
+    "Abreviatura": "INTSF",
+    "Significado": "Intensificar ou intensificado"
+  },
+  {
+    "Abreviatura": "INTST",
+    "Significado": "Intensidade"
+  },
+  {
+    "Abreviatura": "IR",
+    "Significado": "Gelo na pista"
+  },
+  {
+    "Abreviatura": "ISA",
+    "Significado": "Atmosfera padrão internacional"
+  },
+  {
+    "Abreviatura": "ISB",
+    "Significado": "Banda lateral independente"
+  },
+  {
+    "Abreviatura": "ISOL",
+    "Significado": "Isolado"
+  },
+  {
+    "Abreviatura": "JAN",
+    "Significado": "Janeiro"
+  },
+  {
+    "Abreviatura": "JBE*",
+    "Significado": "Telefonia – banda lateral única, portadoras suprimida"
+  },
+  {
+    "Abreviatura": "JTST",
+    "Significado": "Corrente de jato"
+  },
+  {
+    "Abreviatura": "JUL",
+    "Significado": "Julho"
+  },
+  {
+    "Abreviatura": "JUN",
+    "Significado": "Junho"
+  },
+  {
+    "Abreviatura": "KG",
+    "Significado": "Quilogramas"
+  },
+  {
+    "Abreviatura": "KHz",
+    "Significado": "Quilohertz"
+  },
+  {
+    "Abreviatura": "KM",
+    "Significado": "Quilômetros"
+  },
+  {
+    "Abreviatura": "KMH",
+    "Significado": "Quilômetros por hora"
+  },
+  {
+    "Abreviatura": "KPA",
+    "Significado": "Quilopascal"
+  },
+  {
+    "Abreviatura": "L",
+    "Significado": "Esquerda (identificação da pista) e Radiofarol de localização (veja LM e LO)"
+  },
+  {
+    "Abreviatura": "LAM",
+    "Significado": "Acusação de recebimento lógico (designador de tipo de mensagem)"
+  },
+  {
+    "Abreviatura": "LAN",
+    "Significado": "Terra a dentro"
+  },
+  {
+    "Abreviatura": "LAT",
+    "Significado": "Latitude"
+  },
+  {
+    "Abreviatura": "LDA",
+    "Significado": "Distância utilizável para pouso"
+  },
+  {
+    "Abreviatura": "LDAH",
+    "Significado": "Distância utilizável para pouso de helicóptero"
+  },
+  {
+    "Abreviatura": "LDG",
+    "Significado": "Pouso"
+  },
+  {
+    "Abreviatura": "LDI",
+    "Significado": "Indicador de direção de pouso"
+  },
+  {
+    "Abreviatura": "LEN",
+    "Significado": "Extensão, comprimento"
+  },
+  {
+    "Abreviatura": "LF",
+    "Significado": "Baixa freqüência (30 a 300 KHz)"
+  },
+  {
+    "Abreviatura": "LGT",
+    "Significado": "Luz ou iluminação"
+  },
+  {
+    "Abreviatura": "LGTD",
+    "Significado": "Iluminado"
+  },
+  {
+    "Abreviatura": "LIH",
+    "Significado": "Luz de alta intensidade"
+  },
+  {
+    "Abreviatura": "LIL",
+    "Significado": "Luz de baixa intensidade"
+  },
+  {
+    "Abreviatura": "LIM",
+    "Significado": "Luz de média intensidade"
+  },
+  {
+    "Abreviatura": "LLZ",
+    "Significado": "Localizador"
+  },
+  {
+    "Abreviatura": "LM",
+    "Significado": "Radiofarol de localização intermediária"
+  },
+  {
+    "Abreviatura": "LMT",
+    "Significado": "Hora média local"
+  },
+  {
+    "Abreviatura": "LNG",
+    "Significado": "Longa (usado para indicar o tipo de aproximação desejada ou requerida)"
+  },
+  {
+    "Abreviatura": "LO",
+    "Significado": "Radiofarol de localização exterior"
+  },
+  {
+    "Abreviatura": "LOC",
+    "Significado": "Local ou localmente ou localização ou situado"
+  },
+  {
+    "Abreviatura": "LONG",
+    "Significado": "Longitude"
+  },
+  {
+    "Abreviatura": "LORAN",
+    "Significado": "(sistema de navegação aérea de longo alcance)"
+  },
+  {
+    "Abreviatura": "LR",
+    "Significado": "A última mensagem que recebida foi ..."
+  },
+  {
+    "Abreviatura": "LRG",
+    "Significado": "Longo alcance"
+  },
+  {
+    "Abreviatura": "LS",
+    "Significado": "A última mensagem enviada por mim foi ..."
+  },
+  {
+    "Abreviatura": "LT*",
+    "Significado": "Lateral"
+  },
+  {
+    "Abreviatura": "LTD",
+    "Significado": "Imitado"
+  },
+  {
+    "Abreviatura": "LTT",
+    "Significado": "Teletipo de linha física"
+  },
+  {
+    "Abreviatura": "LV",
+    "Significado": "Leve e variável (relativo a vento)"
+  },
+  {
+    "Abreviatura": "LVE",
+    "Significado": "Abandonar ou abandonado"
+  },
+  {
+    "Abreviatura": "LVL",
+    "Significado": "Nível"
+  },
+  {
+    "Abreviatura": "LYR",
+    "Significado": "Camada ou em camada"
+  },
+  {
+    "Abreviatura": "M",
+    "Significado": "Metros (precedido de algarismos) e Número mach (seguido de algarismos)"
+  },
+  {
+    "Abreviatura": "MAA",
+    "Significado": "Altitude máxima autorizada"
+  },
+  {
+    "Abreviatura": "MAC*",
+    "Significado": "Macadame"
+  },
+  {
+    "Abreviatura": "MAG",
+    "Significado": "Magnético"
+  },
+  {
+    "Abreviatura": "MAINT",
+    "Significado": "Manutenção"
+  },
+  {
+    "Abreviatura": "MAL*",
+    "Significado": "Marechal"
+  },
+  {
+    "Abreviatura": "MALS*",
+    "Significado": "Sistema de luzes para aproximação de intensidade média"
+  },
+  {
+    "Abreviatura": "MAP",
+    "Significado": "Mapas e cartas aeronáuticas"
+  },
+  {
+    "Abreviatura": "MAPT",
+    "Significado": "Ponto de aproximação perdida"
+  },
+  {
+    "Abreviatura": "MAR",
+    "Significado": "Março e No mar"
+  },
+  {
+    "Abreviatura": "MAR*",
+    "Significado": "Marinha do Brasil"
+  },
+  {
+    "Abreviatura": "MAS",
+    "Significado": "Simplex A1 manual"
+  },
+  {
+    "Abreviatura": "MASPS",
+    "Significado": "Especificações mínimas de performance dos sistemas de aeronaves"
+  },
+  {
+    "Abreviatura": "MAX",
+    "Significado": "Máximo"
+  },
+  {
+    "Abreviatura": "MAY",
+    "Significado": "Maio"
+  },
+  {
+    "Abreviatura": "MBST",
+    "Significado": "Microburst"
+  },
+  {
+    "Abreviatura": "MCA",
+    "Significado": "Altitude minima de cruzamento"
+  },
+  {
+    "Abreviatura": "MCW",
+    "Significado": "Onda contínua modulado"
+  },
+  {
+    "Abreviatura": "MDA",
+    "Significado": "Altitude mínima de descida"
+  },
+  {
+    "Abreviatura": "MDF",
+    "Significado": "Estação radiogoniométrica de média"
+  },
+  {
+    "Abreviatura": "MDH",
+    "Significado": "Altura mínima de descida"
+  },
+  {
+    "Abreviatura": "MEA",
+    "Significado": "Altitude mínima em rota"
+  },
+  {
+    "Abreviatura": "MEHT",
+    "Significado": "Altura mínima dos olhos (do piloto) sobre a cabeceira (para sistemas indicadores de trajetória de apromaximação visual)"
+  },
+  {
+    "Abreviatura": "MET",
+    "Significado": "Meteorológico ou meteorologia"
+  },
+  {
+    "Abreviatura": "METAR",
+    "Significado": "Informe meteorológico aeronáutico regular (no código meteorológico)"
+  },
+  {
+    "Abreviatura": "MF",
+    "Significado": "Freqüência média (300 a 3000 KHz)"
+  },
+  {
+    "Abreviatura": "MHVDF",
+    "Significado": "Estações radiogoniométricas de média, alta e muito alta freqüência (situadas no mesmo lugar)"
+  },
+  {
+    "Abreviatura": "MHZ",
+    "Significado": "Megahertz"
+  },
+  {
+    "Abreviatura": "MI*",
+    "Significado": "Baixo"
+  },
+  {
+    "Abreviatura": "MID",
+    "Significado": "Ponto médio (relativo ao RVR)"
+  },
+  {
+    "Abreviatura": "MIFG",
+    "Significado": "Nevoeiro de superfície"
+  },
+  {
+    "Abreviatura": "MIL",
+    "Significado": "Militar"
+  },
+  {
+    "Abreviatura": "MIN",
+    "Significado": "Minutos"
+  },
+  {
+    "Abreviatura": "MIS",
+    "Significado": "Falta"
+  },
+  {
+    "Abreviatura": "MKR",
+    "Significado": "Radiobaliza"
+  },
+  {
+    "Abreviatura": "MLS",
+    "Significado": "Sistema de pouso por microondas"
+  },
+  {
+    "Abreviatura": "MM",
+    "Significado": "Marcador médio"
+  },
+  {
+    "Abreviatura": "MMO*",
+    "Significado": "Centro Meteorológico Classe I"
+  },
+  {
+    "Abreviatura": "MNM",
+    "Significado": "Mínimo"
+  },
+  {
+    "Abreviatura": "MNPS",
+    "Significado": "Especificações mínimas de desempenho de navegação"
+  },
+  {
+    "Abreviatura": "MNT",
+    "Significado": "Monitorar, monitorando ou monitorado"
+  },
+  {
+    "Abreviatura": "MNTN",
+    "Significado": "Manter"
+  },
+  {
+    "Abreviatura": "MOA",
+    "Significado": "Área de operação militar"
+  },
+  {
+    "Abreviatura": "MOC",
+    "Significado": "Mínimo livre de obstáculos"
+  },
+  {
+    "Abreviatura": "MOD",
+    "Significado": "Moderado (usado nos informes para indicar intensidade dos fenômenos meteorológicos, interferência ou estática (ex. MOD RA=chuva moderada)"
+  },
+  {
+    "Abreviatura": "MON",
+    "Significado": "Acima de montanhas e segunda-feira"
+  },
+  {
+    "Abreviatura": "MOPS",
+    "Significado": "Normas de desempenho mínimo operacional"
+  },
+  {
+    "Abreviatura": "MOTNE",
+    "Significado": "Rede de Telecomunicações Meteorológicas para as Operações na Europa"
+  },
+  {
+    "Abreviatura": "MOV",
+    "Significado": "Mover ou movendo ou movimento"
+  },
+  {
+    "Abreviatura": "MPa*",
+    "Significado": "Mega-Pascal (medida de pressão do Sistema Internacional de Medidas)"
+  },
+  {
+    "Abreviatura": "MPS",
+    "Significado": "Metros por segundo"
+  },
+  {
+    "Abreviatura": "MRA",
+    "Significado": "Altitude mínima de recepção"
+  },
+  {
+    "Abreviatura": "MRG",
+    "Significado": "Alcance médio"
+  },
+  {
+    "Abreviatura": "MRN*",
+    "Significado": "Mineração Rio do Norte"
+  },
+  {
+    "Abreviatura": "MRP",
+    "Significado": "Ponto de notificação ATS/MET"
+  },
+  {
+    "Abreviatura": "MS",
+    "Significado": "Menos"
+  },
+  {
+    "Abreviatura": "MSA",
+    "Significado": "Altitude mínima de setor"
+  },
+  {
+    "Abreviatura": "MSG",
+    "Significado": "Mensagem"
+  },
+  {
+    "Abreviatura": "MSL",
+    "Significado": "Nível médio do mar"
+  },
+  {
+    "Abreviatura": "MSR",
+    "Significado": "Mensagem"
+  },
+  {
+    "Abreviatura": "MSRR",
+    "Significado": "Radar secundário de vigilância de monopulso"
+  },
+  {
+    "Abreviatura": "MT",
+    "Significado": "Montanha"
+  },
+  {
+    "Abreviatura": "MTAL*",
+    "Significado": "Metálico"
+  },
+  {
+    "Abreviatura": "MTU",
+    "Significado": "Unidades do sistema métrico"
+  },
+  {
+    "Abreviatura": "MTW",
+    "Significado": "Ondas orográficas"
+  },
+  {
+    "Abreviatura": "MVDF",
+    "Significado": "Estações radiogoniométricas de média e muito alta freqüência (situado no mesmo local)"
+  },
+  {
+    "Abreviatura": "MWO",
+    "Significado": "Centro de vigilância meteorológica"
+  },
+  {
+    "Abreviatura": "MX",
+    "Significado": "Tipo de formação de gelo (branco e cristalino)"
+  },
+  {
+    "Abreviatura": "NASC",
+    "Significado": "Centro nacional de sistema AIS"
+  },
+  {
+    "Abreviatura": "NAT",
+    "Significado": "Atlântico Norte"
+  },
+  {
+    "Abreviatura": "NAV",
+    "Significado": "Navegação"
+  },
+  {
+    "Abreviatura": "NB",
+    "Significado": "Direção norte"
+  },
+  {
+    "Abreviatura": "NBFR",
+    "Significado": "Não antes de"
+  },
+  {
+    "Abreviatura": "NC",
+    "Significado": "Sem mudanças"
+  },
+  {
+    "Abreviatura": "NDB",
+    "Significado": "Radiofarol não-direcional"
+  },
+  {
+    "Abreviatura": "NE",
+    "Significado": "Nordeste"
+  },
+  {
+    "Abreviatura": "NEB",
+    "Significado": "Direção nordeste"
+  },
+  {
+    "Abreviatura": "NEG",
+    "Significado": "Não ou negativo ou permissão não concedida ou incorreta"
+  },
+  {
+    "Abreviatura": "NGT",
+    "Significado": "Noite"
+  },
+  {
+    "Abreviatura": "NIL",
+    "Significado": "Nada ou nada tenho a transmitir-lhe"
+  },
+  {
+    "Abreviatura": "NINST*",
+    "Significado": "Pista de Vôo Visual"
+  },
+  {
+    "Abreviatura": "NM",
+    "Significado": "Milhas náuticas"
+  },
+  {
+    "Abreviatura": "NML",
+    "Significado": "Normal"
+  },
+  {
+    "Abreviatura": "NNE",
+    "Significado": "Nor-nordeste"
+  },
+  {
+    "Abreviatura": "NNW",
+    "Significado": "Nor-noroeste"
+  },
+  {
+    "Abreviatura": "NO",
+    "Significado": "Não"
+  },
+  {
+    "Abreviatura": "NOF",
+    "Significado": "Centro internacional de NOTAM"
+  },
+  {
+    "Abreviatura": "NON*",
+    "Significado": "Ausência de toda modulação"
+  },
+  {
+    "Abreviatura": "NOSIG",
+    "Significado": "Sem mudança importante (para uso nas previsões de pouso de tipo tendência)"
+  },
+  {
+    "Abreviatura": "NOTAM",
+    "Significado": "Aviso que contém informação relativa ao estabelecimento, condição ou modificação de quaisquer instalações, serviços, procedimentos ou perigos aeronáuticos, cujo pronto conhecimento seja indispensável ao pessoal ligado à operações de vôo"
+  },
+  {
+    "Abreviatura": "NOV",
+    "Significado": "Novembro"
+  },
+  {
+    "Abreviatura": "NOZ",
+    "Significado": "Zona normal de operações"
+  },
+  {
+    "Abreviatura": "NPA*",
+    "Significado": "Pistas para aproximações que não sejam de precisão"
+  },
+  {
+    "Abreviatura": "NR",
+    "Significado": "Número"
+  },
+  {
+    "Abreviatura": "NRH",
+    "Significado": "Não se ouviu nenhuma resposta"
+  },
+  {
+    "Abreviatura": "NS",
+    "Significado": "Nimbostratus"
+  },
+  {
+    "Abreviatura": "NSC",
+    "Significado": "Sem nuvens significativas"
+  },
+  {
+    "Abreviatura": "NSW",
+    "Significado": "Nenhum tempo significativo"
+  },
+  {
+    "Abreviatura": "NTL",
+    "Significado": "Nacional"
+  },
+  {
+    "Abreviatura": "NTZ",
+    "Significado": "Zona inviolável"
+  },
+  {
+    "Abreviatura": "NW",
+    "Significado": "Noroeste"
+  },
+  {
+    "Abreviatura": "NWB",
+    "Significado": "Direção noroeste"
+  },
+  {
+    "Abreviatura": "NXT",
+    "Significado": "Seguinte"
+  },
+  {
+    "Abreviatura": "O*",
+    "Significado": "Óleo lubrificante"
+  },
+  {
+    "Abreviatura": "O/R",
+    "Significado": "A pedido"
+  },
+  {
+    "Abreviatura": "OAC",
+    "Significado": "Centro de Controle de Área Oceânica"
+  },
+  {
+    "Abreviatura": "OAS",
+    "Significado": "Superfície de fixação de obstáculos"
+  },
+  {
+    "Abreviatura": "OBS",
+    "Significado": "Observar ou observado ou observação"
+  },
+  {
+    "Abreviatura": "OBSC",
+    "Significado": "Escurecer ou escurecido ou escurecendo"
+  },
+  {
+    "Abreviatura": "OBST",
+    "Significado": "Obstáculo"
+  },
+  {
+    "Abreviatura": "OCA",
+    "Significado": "Área de controle oceânico e Altitude livre de obstáculos"
+  },
+  {
+    "Abreviatura": "OCC",
+    "Significado": "Intermitente (luz)"
+  },
+  {
+    "Abreviatura": "OCH",
+    "Significado": "Altura livre de obstáculos"
+  },
+  {
+    "Abreviatura": "OCNL",
+    "Significado": "Ocasional ou ocasionalmente"
+  },
+  {
+    "Abreviatura": "OCS",
+    "Significado": "Superfície livre de obstáculo"
+  },
+  {
+    "Abreviatura": "OCT",
+    "Significado": "Outubro"
+  },
+  {
+    "Abreviatura": "OFZ",
+    "Significado": "Zona livre de obstáculos"
+  },
+  {
+    "Abreviatura": "OGN",
+    "Significado": "Originar"
+  },
+  {
+    "Abreviatura": "OHD",
+    "Significado": "Bloqueio"
+  },
+  {
+    "Abreviatura": "OK",
+    "Significado": "Estamos de acordo ou está correto"
+  },
+  {
+    "Abreviatura": "OLDI",
+    "Significado": "Intercâmbio direto de dados"
+  },
+  {
+    "Abreviatura": "OM",
+    "Significado": "Marcador externo"
+  },
+  {
+    "Abreviatura": "OPA",
+    "Significado": "Formação de gelo do tipo branco opaco"
+  },
+  {
+    "Abreviatura": "OPC",
+    "Significado": "O controle indicado é o de operações"
+  },
+  {
+    "Abreviatura": "OPMET",
+    "Significado": "Informação meteorológica relativa às operações"
+  },
+  {
+    "Abreviatura": "OPN",
+    "Significado": "Abrir ou abrindo ou aberto"
+  },
+  {
+    "Abreviatura": "OPR",
+    "Significado": "Operador ou operar, ou operante ou operado ou operacional"
+  },
+  {
+    "Abreviatura": "OPS",
+    "Significado": "Operações"
+  },
+  {
+    "Abreviatura": "ORD",
+    "Significado": "Indicação de uma ordem"
+  },
+  {
+    "Abreviatura": "OSV",
+    "Significado": "Navio-estação oceânica"
+  },
+  {
+    "Abreviatura": "OTLK",
+    "Significado": "Projeção (usado nas mensagens SIGMET para as cinzas vulcânicas e ciclones tropicais)"
+  },
+  {
+    "Abreviatura": "OTP",
+    "Significado": "No topo"
+  },
+  {
+    "Abreviatura": "OTS",
+    "Significado": "Sistema organizado de rota"
+  },
+  {
+    "Abreviatura": "OUBD",
+    "Significado": "Sentido de saída, de afastamento"
+  },
+  {
+    "Abreviatura": "OVC",
+    "Significado": "Encoberto (8 oitavos)"
+  },
+  {
+    "Abreviatura": "P",
+    "Significado": "... Área proibida (seguida de identificação)"
+  },
+  {
+    "Abreviatura": "P*",
+    "Significado": "Expositor oral ou carta prognosticada de ar superior"
+  },
+  {
+    "Abreviatura": "PA-1*",
+    "Significado": "Pista para aproximações de precisão CAT I"
+  },
+  {
+    "Abreviatura": "PA-2*",
+    "Significado": "Pista para aproximações de precisão CAT II"
+  },
+  {
+    "Abreviatura": "PA-3*",
+    "Significado": "Pista para aproximações de precisão CAT III"
+  },
+  {
+    "Abreviatura": "PAG*",
+    "Significado": "Página"
+  },
+  {
+    "Abreviatura": "PALS",
+    "Significado": "Sistema de iluminação para aproximação de precisão (especificar a categoria)"
+  },
+  {
+    "Abreviatura": "PANS",
+    "Significado": "Procedimentos para os serviços de navegação aérea"
+  },
+  {
+    "Abreviatura": "PAPI",
+    "Significado": "Indicador de trajetória de aproximação de precisão"
+  },
+  {
+    "Abreviatura": "PAR",
+    "Significado": "Radar para aproximação de precisão"
+  },
+  {
+    "Abreviatura": "PARL",
+    "Significado": "Paralelo"
+  },
+  {
+    "Abreviatura": "PATC*",
+    "Significado": "Carta topográfica para aproximações de precisão (seguida pelo nome/título)"
+  },
+  {
+    "Abreviatura": "PAX",
+    "Significado": "Passageiro(a)"
+  },
+  {
+    "Abreviatura": "PCD",
+    "Significado": "Prosseguir ou procedendo"
+  },
+  {
+    "Abreviatura": "PCN",
+    "Significado": "Número de classificação de pavimento"
+  },
+  {
+    "Abreviatura": "PDC",
+    "Significado": "Carta de estacionamento de aeronave"
+  },
+  {
+    "Abreviatura": "PE*",
+    "Significado": "Grãos de gelo"
+  },
+  {
+    "Abreviatura": "PER",
+    "Significado": "Desempenho, rendimento"
+  },
+  {
+    "Abreviatura": "PERM",
+    "Significado": "Permanente"
+  },
+  {
+    "Abreviatura": "PETROBRÁS*Petróleo",
+    "Significado": "Brasileiro S/A"
+  },
+  {
+    "Abreviatura": "PF*",
+    "Significado": "Combustível para aeronaves de motor a explosão"
+  },
+  {
+    "Abreviatura": "PIB",
+    "Significado": "Boletim de informação prévia ao vôo"
+  },
+  {
+    "Abreviatura": "PIÇ*",
+    "Significado": "Piçarra"
+  },
+  {
+    "Abreviatura": "PILOT",
+    "Significado": "Informação meteorológica de observação em altitude regular contendo direção e velocidade de vento"
+  },
+  {
+    "Abreviatura": "PJE",
+    "Significado": "Exercício de salto de pára-quedista"
+  },
+  {
+    "Abreviatura": "PL",
+    "Significado": "Grãos de gelo"
+  },
+  {
+    "Abreviatura": "PL*",
+    "Significado": "Linguagem"
+  },
+  {
+    "Abreviatura": "PLA",
+    "Significado": "Execute a aproximação baixa"
+  },
+  {
+    "Abreviatura": "PLN",
+    "Significado": "Plano de vôo"
+  },
+  {
+    "Abreviatura": "PLVL",
+    "Significado": "Presente nível"
+  },
+  {
+    "Abreviatura": "PMD",
+    "Significado": "Peso máximo de decolagem"
+  },
+  {
+    "Abreviatura": "POSS",
+    "Significado": "Possível"
+  },
+  {
+    "Abreviatura": "PPI",
+    "Significado": "Indicador de posição no plano"
+  },
+  {
+    "Abreviatura": "PPR",
+    "Significado": "Precisa de autorização prévia"
+  },
+  {
+    "Abreviatura": "PPSN",
+    "Significado": "Presente posição"
+  },
+  {
+    "Abreviatura": "PRB*",
+    "Significado": "Proibido (a) Proibir"
+  },
+  {
+    "Abreviatura": "PRES*",
+    "Significado": "Presidente"
+  },
+  {
+    "Abreviatura": "PRFG",
+    "Significado": "Nevoeiro parcial"
+  },
+  {
+    "Abreviatura": "PRGO*",
+    "Significado": "Perigoso (a)"
+  },
+  {
+    "Abreviatura": "PRI",
+    "Significado": "Primário"
+  },
+  {
+    "Abreviatura": "PRIV*",
+    "Significado": "Privado"
+  },
+  {
+    "Abreviatura": "PRKG",
+    "Significado": "Estacionamento"
+  },
+  {
+    "Abreviatura": "PROB",
+    "Significado": "Probabilidade"
+  },
+  {
+    "Abreviatura": "PROC",
+    "Significado": "Procedimento"
+  },
+  {
+    "Abreviatura": "PROV",
+    "Significado": "Provisório"
+  },
+  {
+    "Abreviatura": "PS",
+    "Significado": "Mais"
+  },
+  {
+    "Abreviatura": "PSG",
+    "Significado": "Passando por"
+  },
+  {
+    "Abreviatura": "PSN",
+    "Significado": "Posição"
+  },
+  {
+    "Abreviatura": "PSP",
+    "Significado": "Chapa de aço perfurada"
+  },
+  {
+    "Abreviatura": "PSR",
+    "Significado": "Radar de vigilância primária"
+  },
+  {
+    "Abreviatura": "PT*",
+    "Significado": "Português"
+  },
+  {
+    "Abreviatura": "PTN",
+    "Significado": "Curva padrão"
+  },
+  {
+    "Abreviatura": "PTS",
+    "Significado": "Estrutura de rotas polares"
+  },
+  {
+    "Abreviatura": "PUB*",
+    "Significado": "Público"
+  },
+  {
+    "Abreviatura": "PUB",
+    "Significado": "REST* Público Restrito"
+  },
+  {
+    "Abreviatura": "PWR",
+    "Significado": "Potência"
+  },
+  {
+    "Abreviatura": "QBI",
+    "Significado": "Vôo por instrumentos obrigatório"
+  },
+  {
+    "Abreviatura": "QDL",
+    "Significado": "Você gostaria de solicitar uma série de marcações?"
+  },
+  {
+    "Abreviatura": "QDM",
+    "Significado": "Proa magnética (vento nulo)"
+  },
+  {
+    "Abreviatura": "QDR",
+    "Significado": "Marcação magnética"
+  },
+  {
+    "Abreviatura": "QFE",
+    "Significado": "Pressão atmosférica ao nível de elevação do aeródromo (ou na cabeceira da pista)"
+  },
+  {
+    "Abreviatura": "QFI*",
+    "Significado": "Luzes de aeródromo"
+  },
+  {
+    "Abreviatura": "QFU",
+    "Significado": "Direção magnética da pista"
+  },
+  {
+    "Abreviatura": "QGE",
+    "Significado": "Qual é a minha distância da sua estação? (código Q)"
+  },
+  {
+    "Abreviatura": "QJH",
+    "Significado": "Devo passar minha fita de teste/uma frase de teste? (código Q)"
+  },
+  {
+    "Abreviatura": "QNE*",
+    "Significado": "Pressão padrão ao nível do mar (1013,2 hPa)"
+  },
+  {
+    "Abreviatura": "QNH",
+    "Significado": "Pressão reduzida ao nível do mar pelo gradiente vertical da atmosfera padrão"
+  },
+  {
+    "Abreviatura": "QSP",
+    "Significado": "Você quer transmitir...gratuitamente? ou irei transmitir...Gratuitamente (código Q)"
+  },
+  {
+    "Abreviatura": "QTA",
+    "Significado": "Devo cancelar o telegrama número...? ou Cancele o telegrama número... (código Q)"
+  },
+  {
+    "Abreviatura": "QTE",
+    "Significado": "Marcação verdadeira"
+  },
+  {
+    "Abreviatura": "QTF",
+    "Significado": "Rumo VERDADEIRO"
+  },
+  {
+    "Abreviatura": "QUAD",
+    "Significado": "Quadrante"
+  },
+  {
+    "Abreviatura": "R*",
+    "Significado": "Pavimento rígido"
+  },
+  {
+    "Abreviatura": "R",
+    "Significado": "Vermelho"
+  },
+  {
+    "Abreviatura": "R",
+    "Significado": "Direita (identificação de pista)"
+  },
+  {
+    "Abreviatura": "R...",
+    "Significado": "Área restrita (seguido da identificação)"
+  },
+  {
+    "Abreviatura": "RA",
+    "Significado": "Chuva"
+  },
+  {
+    "Abreviatura": "RA*",
+    "Significado": "Radioaltímetro"
+  },
+  {
+    "Abreviatura": "RAB*",
+    "Significado": "Registro Aeronáutico Brasileiro"
+  },
+  {
+    "Abreviatura": "RAC",
+    "Significado": "Regras do ar e serviços de tráfego aéreo"
+  },
+  {
+    "Abreviatura": "RAG",
+    "Significado": "Dispositivo de parada na pista"
+  },
+  {
+    "Abreviatura": "RAI",
+    "Significado": "Indicador de alinhamento da pista"
+  },
+  {
+    "Abreviatura": "RAIM",
+    "Significado": "Vigilância autônoma da integridade do receptor"
+  },
+  {
+    "Abreviatura": "RASC",
+    "Significado": "Centro Regional de Sistemas AIS"
+  },
+  {
+    "Abreviatura": "RB",
+    "Significado": "Lancha de salvamento"
+  },
+  {
+    "Abreviatura": "RCA",
+    "Significado": "Atinja a altitude de cruzeiro"
+  },
+  {
+    "Abreviatura": "RCC",
+    "Significado": "Centro de Coordenação de Salvamento"
+  },
+  {
+    "Abreviatura": "RCD*",
+    "Significado": "Código de referência"
+  },
+  {
+    "Abreviatura": "RCF",
+    "Significado": "Falha de comunicação (designador do tipo de mensagem)"
+  },
+  {
+    "Abreviatura": "RCH",
+    "Significado": "Atingir ou atingindo"
+  },
+  {
+    "Abreviatura": "RCL",
+    "Significado": "Eixo da pista"
+  },
+  {
+    "Abreviatura": "RCLL",
+    "Significado": "Luz(es) de eixo de pista"
+  },
+  {
+    "Abreviatura": "RCLR",
+    "Significado": "Nova autorização"
+  },
+  {
+    "Abreviatura": "RDH",
+    "Significado": "Altura do dado de referência (para ILS)"
+  },
+  {
+    "Abreviatura": "RDL",
+    "Significado": "Radial"
+  },
+  {
+    "Abreviatura": "RDO",
+    "Significado": "Rádio"
+  },
+  {
+    "Abreviatura": "RDODIF*",
+    "Significado": "Radiodifusora"
+  },
+  {
+    "Abreviatura": "RDONAV*",
+    "Significado": "Radionavegação"
+  },
+  {
+    "Abreviatura": "RE...",
+    "Significado": "Recente (usado para qualificar fenômenos meteorológicos;EX: RERA = Chuva recente)"
+  },
+  {
+    "Abreviatura": "REA",
+    "Significado": "Rota especial de aeronaves"
+  },
+  {
+    "Abreviatura": "REC",
+    "Significado": "Receber ou receptor"
+  },
+  {
+    "Abreviatura": "REDEMET*",
+    "Significado": "Rede de dados meteorológicos"
+  },
+  {
+    "Abreviatura": "REDL",
+    "Significado": "Luz lateral de pista"
+  },
+  {
+    "Abreviatura": "REF",
+    "Significado": "Referente a ... ou consulte a ..."
+  },
+  {
+    "Abreviatura": "REG",
+    "Significado": "Matrícula (de aeronave)"
+  },
+  {
+    "Abreviatura": "REH",
+    "Significado": "Rota especial de helicópteros"
+  },
+  {
+    "Abreviatura": "RENL",
+    "Significado": "Luz(es) de final de pista"
+  },
+  {
+    "Abreviatura": "REP",
+    "Significado": "Ponto de notificação; ou notificar ou notificando"
+  },
+  {
+    "Abreviatura": "REQ",
+    "Significado": "Solicitar ou solicitado"
+  },
+  {
+    "Abreviatura": "RERTE",
+    "Significado": "Mudança de rota"
+  },
+  {
+    "Abreviatura": "RESA*",
+    "Significado": "Área de segurança de final de pista"
+  },
+  {
+    "Abreviatura": "RFC*",
+    "Significado": "Coeficiente de atrito da pista"
+  },
+  {
+    "Abreviatura": "RFFS*",
+    "Significado": "Serviço de Salvamento e Combate a Incêndio"
+  },
+  {
+    "Abreviatura": "RG",
+    "Significado": "Luzes de alinhamento"
+  },
+  {
+    "Abreviatura": "RGC*",
+    "Significado": "Centro Geral de Coordenação de Salvamento"
+  },
+  {
+    "Abreviatura": "RHC",
+    "Significado": "Circuito de lado direito"
+  },
+  {
+    "Abreviatura": "RIF",
+    "Significado": "Renovação em vôo da autorização"
+  },
+  {
+    "Abreviatura": "RITE",
+    "Significado": "Direita (direção da curva)"
+  },
+  {
+    "Abreviatura": "RL",
+    "Significado": "Informar o abandono de"
+  },
+  {
+    "Abreviatura": "RLA",
+    "Significado": "Retransmissão para"
+  },
+  {
+    "Abreviatura": "RLCE",
+    "Significado": "Solicitação de mudança de nível em rota"
+  },
+  {
+    "Abreviatura": "RLLS",
+    "Significado": "Sistema de iluminação de orientação para a pista"
+  },
+  {
+    "Abreviatura": "RLNA",
+    "Significado": "Nível solicitado não utilizável"
+  },
+  {
+    "Abreviatura": "RMK",
+    "Significado": "Observação"
+  },
+  {
+    "Abreviatura": "RNAV",
+    "Significado": "Rota de Navegação de Aérea"
+  },
+  {
+    "Abreviatura": "RNG",
+    "Significado": "Radiofarol direcional"
+  },
+  {
+    "Abreviatura": "RNP",
+    "Significado": "Performance de navegação exigida"
+  },
+  {
+    "Abreviatura": "ROBEX",
+    "Significado": "Sistema regional de intercâmbio de boletim OPMET"
+  },
+  {
+    "Abreviatura": "ROS*",
+    "Significado": "Solicitação de plano de vôo suplementar (designador do tipo de mensagem)"
+  },
+  {
+    "Abreviatura": "RPI",
+    "Significado": "Indicador de posição de radar"
+  },
+  {
+    "Abreviatura": "RPL",
+    "Significado": "Plano de vôo repetitivo"
+  },
+  {
+    "Abreviatura": "RPLC",
+    "Significado": "Substituir ou substituído"
+  },
+  {
+    "Abreviatura": "RPS",
+    "Significado": "Símbolo de posição radar"
+  },
+  {
+    "Abreviatura": "RPT",
+    "Significado": "Repita ou eu repito"
+  },
+  {
+    "Abreviatura": "RQ",
+    "Significado": "Indicação de solicitação"
+  },
+  {
+    "Abreviatura": "RQMNTS",
+    "Significado": "Exigências"
+  },
+  {
+    "Abreviatura": "RQP",
+    "Significado": "Solicitação de plano de vôo (designador do tipo de mensagem)"
+  },
+  {
+    "Abreviatura": "RQS",
+    "Significado": "Solicitação de plano de vôo suplementar (designador do tipo de mensagem)"
+  },
+  {
+    "Abreviatura": "RR",
+    "Significado": "Informe atingido"
+  },
+  {
+    "Abreviatura": "RRA",
+    "Significado": "(ou RRB, RRC, ... etc., em ordem) mensagem meteorológica atrasada (designador do tipo de mensagem)"
+  },
+  {
+    "Abreviatura": "RSC",
+    "Significado": "Subcentro de salvamento"
+  },
+  {
+    "Abreviatura": "RSCD",
+    "Significado": "Estado de superfície da pista"
+  },
+  {
+    "Abreviatura": "RSP",
+    "Significado": "Radiofarol respondedor"
+  },
+  {
+    "Abreviatura": "RSR",
+    "Significado": "Radar de vigilância em rota"
+  },
+  {
+    "Abreviatura": "RTD",
+    "Significado": "Atrasado (usado para indicar uma mensagem meteorológica atrasada; designador do tipo de mensagem)"
+  },
+  {
+    "Abreviatura": "RTE",
+    "Significado": "Rota"
+  },
+  {
+    "Abreviatura": "RTF",
+    "Significado": "Radiotelefone"
+  },
+  {
+    "Abreviatura": "RTG",
+    "Significado": "Radiotelégrafo"
+  },
+  {
+    "Abreviatura": "RTHL",
+    "Significado": "Luz(es) de cabeceira de pista"
+  },
+  {
+    "Abreviatura": "RTN",
+    "Significado": "Regressar, regressado ou regressando"
+  },
+  {
+    "Abreviatura": "RTO*",
+    "Significado": "Restrito(a)"
+  },
+  {
+    "Abreviatura": "RTODAH",
+    "Significado": "Distância de decolagem interrompida utilizável para helicóptero"
+  },
+  {
+    "Abreviatura": "RTS",
+    "Significado": "Novamente em serviço"
+  },
+  {
+    "Abreviatura": "RTT",
+    "Significado": "Radioteletipo"
+  },
+  {
+    "Abreviatura": "RTZL",
+    "Significado": "Luz(es) de zona de toque"
+  },
+  {
+    "Abreviatura": "RUT",
+    "Significado": "Freqüências padrão de transmissão em rota regional"
+  },
+  {
+    "Abreviatura": "RV",
+    "Significado": "Barco de salvamento"
+  },
+  {
+    "Abreviatura": "RVR",
+    "Significado": "Alcance visual da pista"
+  },
+  {
+    "Abreviatura": "RVSM",
+    "Significado": "Separação vertical mínima reduzida"
+  },
+  {
+    "Abreviatura": "RWY",
+    "Significado": "Pista"
+  },
+  {
+    "Abreviatura": "S",
+    "Significado": "Sul ou latitude sul"
+  },
+  {
+    "Abreviatura": "S*",
+    "Significado": "As comunicações poderão ser em inglês"
+  },
+  {
+    "Abreviatura": "S*",
+    "Significado": "Observações meteorológicas especiais ou carta sinótica de superfície"
+  },
+  {
+    "Abreviatura": "S1*",
+    "Significado": "Espaço em hangar"
+  },
+  {
+    "Abreviatura": "S2*",
+    "Significado": "Espaço em hangar e pequenos reparos em aeronaves"
+  },
+  {
+    "Abreviatura": "S3*",
+    "Significado": "Espaço em hangar e pequenos reparos em aeronaves e motores"
+  },
+  {
+    "Abreviatura": "S4*",
+    "Significado": "Espaço em hangar e grandes reparos em aeronaves e pequenos reparos em motores"
+  },
+  {
+    "Abreviatura": "S5*",
+    "Significado": "Espaço em hangar e grandes reparos em aeronaves e motores"
+  },
+  {
+    "Abreviatura": "SA",
+    "Significado": "Areia"
+  },
+  {
+    "Abreviatura": "SAI*",
+    "Significado": "Saibro"
+  },
+  {
+    "Abreviatura": "SALS",
+    "Significado": "Sistema de iluminação para aproximação (simples)"
+  },
+  {
+    "Abreviatura": "SAN",
+    "Significado": "Sanitário"
+  },
+  {
+    "Abreviatura": "SAP",
+    "Significado": "Logo que possível"
+  },
+  {
+    "Abreviatura": "SAR",
+    "Significado": "Busca e salvamento"
+  },
+  {
+    "Abreviatura": "SARPS",
+    "Significado": "Normas e métodos recomendados (OACI)"
+  },
+  {
+    "Abreviatura": "SAT",
+    "Significado": "Sábado"
+  },
+  {
+    "Abreviatura": "SATA*",
+    "Significado": "Serviços Auxiliares de Transportes Aéreos"
+  },
+  {
+    "Abreviatura": "SATCOM",
+    "Significado": "Comunicação por satélite"
+  },
+  {
+    "Abreviatura": "SB",
+    "Significado": "Direção sul"
+  },
+  {
+    "Abreviatura": "SC",
+    "Significado": "Stratocumulus"
+  },
+  {
+    "Abreviatura": "SC*",
+    "Significado": "Previsão para pouso na forma completa"
+  },
+  {
+    "Abreviatura": "SCOAM*",
+    "Significado": "Seção de Controle de Operações Aéreas Militares"
+  },
+  {
+    "Abreviatura": "SCT",
+    "Significado": "Nuvens dispersas (3 e 4 oitavos)"
+  },
+  {
+    "Abreviatura": "SDBY",
+    "Significado": "Permanecer na escuta ou de reserva"
+  },
+  {
+    "Abreviatura": "SE",
+    "Significado": "Sudeste"
+  },
+  {
+    "Abreviatura": "SEB",
+    "Significado": "Direção sudeste"
+  },
+  {
+    "Abreviatura": "SEC",
+    "Significado": "Segundos"
+  },
+  {
+    "Abreviatura": "SECN",
+    "Significado": "Seção"
+  },
+  {
+    "Abreviatura": "SECT",
+    "Significado": "Setor"
+  },
+  {
+    "Abreviatura": "SECTRAN*",
+    "Significado": "Departamento Geral de Sistema de Transporte do Estado do Rio de Janeiro"
+  },
+  {
+    "Abreviatura": "SELCAL",
+    "Significado": "Sistema de chamada seletiva"
+  },
+  {
+    "Abreviatura": "SEP",
+    "Significado": "Setembro"
+  },
+  {
+    "Abreviatura": "SER",
+    "Significado": "Serviço ou prestando"
+  },
+  {
+    "Abreviatura": "SETAERO*",
+    "Significado": "Serviço especial de Telecomunicações Aeronáuticas prestado pela INFRAERO"
+  },
+  {
+    "Abreviatura": "SETO*",
+    "Significado": "Secretaria de Estado dos Transportes e Obras"
+  },
+  {
+    "Abreviatura": "SEV",
+    "Significado": "Forte (usado para qualificar formação de gelo ou turbulência)"
+  },
+  {
+    "Abreviatura": "SFC",
+    "Significado": "Superfície"
+  },
+  {
+    "Abreviatura": "SG",
+    "Significado": "Grãos de neve"
+  },
+  {
+    "Abreviatura": "SGL",
+    "Significado": "Sinal"
+  },
+  {
+    "Abreviatura": "SH",
+    "Significado": "Pancadas (Seguida de RA=Chuva, SN=Neve, PE=Gelo granulado, GR=Granizo, GS= Granizo pequeno e/ou neve granulada ou combinações disso; Ex: SHRASN= pancadas de chuva e neve"
+  },
+  {
+    "Abreviatura": "SHF",
+    "Significado": "Freqüência super alta (3000 a 30000 Mhz)"
+  },
+  {
+    "Abreviatura": "SID",
+    "Significado": "Saída padrão por instrumentos"
+  },
+  {
+    "Abreviatura": "SIF",
+    "Significado": "Dispositivo seletor de identificação"
+  },
+  {
+    "Abreviatura": "SIG",
+    "Significado": "Significativo"
+  },
+  {
+    "Abreviatura": "SIGMET",
+    "Significado": "Informação relativa à fenômenos meteorológicos em rota que possam afetar a segurança operacional das aeronaves"
+  },
+  {
+    "Abreviatura": "SIGWX*",
+    "Significado": "Tempo significativo"
+  },
+  {
+    "Abreviatura": "SIL*",
+    "Significado": "Sílica"
+  },
+  {
+    "Abreviatura": "SIMUL",
+    "Significado": "Simultâneo ou simultaneamente"
+  },
+  {
+    "Abreviatura": "SYNOP",
+    "Significado": "Informação meteorológica de observação em superfície regular para fins de análise sinótica"
+  },
+  {
+    "Abreviatura": "SISCEAB*",
+    "Significado": "Sistema de Controle de Espaço Aéreo Brasileiro"
+  },
+  {
+    "Abreviatura": "SIWL",
+    "Significado": "Carga sobre roda simples isolada"
+  },
+  {
+    "Abreviatura": "SKC",
+    "Significado": "Céu claro"
+  },
+  {
+    "Abreviatura": "SKED",
+    "Significado": "Horário ou sujeito a horário ou regular"
+  },
+  {
+    "Abreviatura": "SLP",
+    "Significado": "Ponto de limitação de velocidade"
+  },
+  {
+    "Abreviatura": "SLW",
+    "Significado": "Devagar"
+  },
+  {
+    "Abreviatura": "SMC",
+    "Significado": "Controle de movimento na superfície"
+  },
+  {
+    "Abreviatura": "SMO*",
+    "Significado": "Centro Meteorológico Classe III"
+  },
+  {
+    "Abreviatura": "SMR",
+    "Significado": "Radar de movimento na superfície"
+  },
+  {
+    "Abreviatura": "SN",
+    "Significado": "Neve"
+  },
+  {
+    "Abreviatura": "SNOWTAM",
+    "Significado": "Uma série especial de NOTAM que notifica a presence ou eliminação de condições perigosas, devido a neve, gelo, neve liquefeita ou água estagnada, associada a neve, neve liquefeita ou gelo na área de movimento por meio de um formato definido"
+  },
+  {
+    "Abreviatura": "SOC*",
+    "Significado": "Ponto de início de subida"
+  },
+  {
+    "Abreviatura": "SPECI",
+    "Significado": "Informe meteorológico aeronáutico especial selecionado"
+  },
+  {
+    "Abreviatura": "SPECIAL",
+    "Significado": "Informe meteorológico especial (em linguagem clara abreviada)"
+  },
+  {
+    "Abreviatura": "SPL",
+    "Significado": "Plano de vôo suplementar (designador do tipo de mensagem)"
+  },
+  {
+    "Abreviatura": "SPOC",
+    "Significado": "Ponto de contato SAR"
+  },
+  {
+    "Abreviatura": "SPOT",
+    "Significado": "Vento instantâneo"
+  },
+  {
+    "Abreviatura": "SQ",
+    "Significado": "Tempestade"
+  },
+  {
+    "Abreviatura": "SQL",
+    "Significado": "Linha de tempestade"
+  },
+  {
+    "Abreviatura": "SR",
+    "Significado": "Nascer-do-sol"
+  },
+  {
+    "Abreviatura": "SRA",
+    "Significado": "Radar de vigilância para aproximação"
+  },
+  {
+    "Abreviatura": "SER",
+    "Significado": "Radar de vigilância que faz parte do sistema de radar para aproximação de precisão"
+  },
+  {
+    "Abreviatura": "SS",
+    "Significado": "Tempestade de areia"
+  },
+  {
+    "Abreviatura": "SSB",
+    "Significado": "Banda lateral única"
+  },
+  {
+    "Abreviatura": "SSE",
+    "Significado": "Su-sudeste"
+  },
+  {
+    "Abreviatura": "SSR",
+    "Significado": "Radar secundário de vigilância"
+  },
+  {
+    "Abreviatura": "SST",
+    "Significado": "Avião supersônico de transporte"
+  },
+  {
+    "Abreviatura": "SSW",
+    "Significado": "Su-sudoeste"
+  },
+  {
+    "Abreviatura": "ST",
+    "Significado": "Stratus"
+  },
+  {
+    "Abreviatura": "STA",
+    "Significado": "Aproximação direta"
+  },
+  {
+    "Abreviatura": "STAR",
+    "Significado": "Chegada padrão por instrumento"
+  },
+  {
+    "Abreviatura": "STD",
+    "Significado": "Padrão"
+  },
+  {
+    "Abreviatura": "STF",
+    "Significado": "Estratiforme"
+  },
+  {
+    "Abreviatura": "STN",
+    "Significado": "Estação"
+  },
+  {
+    "Abreviatura": "STNR",
+    "Significado": "Estacionário"
+  },
+  {
+    "Abreviatura": "STOL",
+    "Significado": "Decolagem e pouso curtos"
+  },
+  {
+    "Abreviatura": "STRIP*",
+    "Significado": "Faixa de pista"
+  },
+  {
+    "Abreviatura": "STS",
+    "Significado": "“Stratus”"
+  },
+  {
+    "Abreviatura": "STWL",
+    "Significado": "Luz de zona de parade"
+  },
+  {
+    "Abreviatura": "SUBJ",
+    "Significado": "Sujeito a"
+  },
+  {
+    "Abreviatura": "SUN",
+    "Significado": "Domingo"
+  },
+  {
+    "Abreviatura": "SUP",
+    "Significado": "Suplemento (Suplemento AIP)"
+  },
+  {
+    "Abreviatura": "SUPPS",
+    "Significado": "Procedimentos suplementares regionais"
+  },
+  {
+    "Abreviatura": "SVC",
+    "Significado": "Mensagem de serviço"
+  },
+  {
+    "Abreviatura": "SVCBL",
+    "Significado": "Praticável ou em condições de serviço"
+  },
+  {
+    "Abreviatura": "SVH*",
+    "Significado": "Salvamento de vidas humanas"
+  },
+  {
+    "Abreviatura": "SVR*",
+    "Significado": "Alcance visual oblíquo"
+  },
+  {
+    "Abreviatura": "SW",
+    "Significado": "Sudoeste"
+  },
+  {
+    "Abreviatura": "SWB",
+    "Significado": "Direção sudoeste"
+  },
+  {
+    "Abreviatura": "SWY",
+    "Significado": "Zona de parada"
+  },
+  {
+    "Abreviatura": "T",
+    "Significado": "Temperatura"
+  },
+  {
+    "Abreviatura": "T*",
+    "Significado": "Transmite"
+  },
+  {
+    "Abreviatura": "T*",
+    "Significado": "Carta da Tropopausa"
+  },
+  {
+    "Abreviatura": "T*",
+    "Significado": "Avaliação Técnica"
+  },
+  {
+    "Abreviatura": "TA",
+    "Significado": "Altitude de transição"
+  },
+  {
+    "Abreviatura": "TACAN",
+    "Significado": "Auxílio à navegação aérea tática em UHF"
+  },
+  {
+    "Abreviatura": "TAF",
+    "Significado": "Previsão de aeródromo"
+  },
+  {
+    "Abreviatura": "TAIL",
+    "Significado": "Vento de cauda"
+  },
+  {
+    "Abreviatura": "TAM",
+    "Significado": "Mensagem de confirmação de recebimento de instrução técnica"
+  },
+  {
+    "Abreviatura": "TAM*",
+    "Significado": "Transporte Aéreo Marília (Regional)"
+  },
+  {
+    "Abreviatura": "TAR",
+    "Significado": "Radar de vigilância de área terminal"
+  },
+  {
+    "Abreviatura": "TAS",
+    "Significado": "Velocidade verdadeira"
+  },
+  {
+    "Abreviatura": "TAX",
+    "Significado": "Taxiamento ou táxi"
+  },
+  {
+    "Abreviatura": "TB*",
+    "Significado": "Tabular"
+  },
+  {
+    "Abreviatura": "TC",
+    "Significado": "Ciclone tropical"
+  },
+  {
+    "Abreviatura": "TCH*",
+    "Significado": "Altura de cruzamento de cabeceira"
+  },
+  {
+    "Abreviatura": "TCU",
+    "Significado": "Cumulus encastelados"
+  },
+  {
+    "Abreviatura": "TDO",
+    "Significado": "Tornado"
+  },
+  {
+    "Abreviatura": "TDW*",
+    "Significado": "Roda dupla em tandem"
+  },
+  {
+    "Abreviatura": "TDZ",
+    "Significado": "Zona de contato"
+  },
+  {
+    "Abreviatura": "TDZE*",
+    "Significado": "Elevação da zona de contato"
+  },
+  {
+    "Abreviatura": "TECR",
+    "Significado": "Motivo técnico"
+  },
+  {
+    "Abreviatura": "TEL",
+    "Significado": "Telefone"
+  },
+  {
+    "Abreviatura": "TELEMIG*",
+    "Significado": "Telecomunicações de Minas Gerais"
+  },
+  {
+    "Abreviatura": "TEMP",
+    "Significado": "Informação meteorológica de observação em altitude regular contendo pressão, temperatura, direção e velocidade do vento"
+  },
+  {
+    "Abreviatura": "TEMPO",
+    "Significado": "Temporário ou temporariamente"
+  },
+  {
+    "Abreviatura": "TEND",
+    "Significado": "Previsão do tipo tendência"
+  },
+  {
+    "Abreviatura": "TER*",
+    "Significado": "Terra"
+  },
+  {
+    "Abreviatura": "TF*",
+    "Significado": "Combustível para aeronaves de turbina"
+  },
+  {
+    "Abreviatura": "TFC",
+    "Significado": "Tráfego"
+  },
+  {
+    "Abreviatura": "TGL",
+    "Significado": "Toque e arremetida"
+  },
+  {
+    "Abreviatura": "TGS",
+    "Significado": "Sistema de orientação para taxiamento"
+  },
+  {
+    "Abreviatura": "TH*",
+    "Significado": "Altura de curva"
+  },
+  {
+    "Abreviatura": "THR",
+    "Significado": "Cabeceira"
+  },
+  {
+    "Abreviatura": "THRU",
+    "Significado": "Através de, até"
+  },
+  {
+    "Abreviatura": "THU",
+    "Significado": "Quinta-feira"
+  },
+  {
+    "Abreviatura": "TIL",
+    "Significado": "Até"
+  },
+  {
+    "Abreviatura": "TIP",
+    "Significado": "Até passar ... (lugar)"
+  },
+  {
+    "Abreviatura": "TKOF",
+    "Significado": "Decolagem"
+  },
+  {
+    "Abreviatura": "TL",
+    "Significado": "... Até (seguido da hora em que se prevê que terminará a mudança meteorológica)"
+  },
+  {
+    "Abreviatura": "TLOF",
+    "Significado": "Área de toque e de elevação inicial"
+  },
+  {
+    "Abreviatura": "TMA",
+    "Significado": "Área de controle terminal"
+  },
+  {
+    "Abreviatura": "TNA",
+    "Significado": "Altitude de curva"
+  },
+  {
+    "Abreviatura": "TNH",
+    "Significado": "Altura de curva"
+  },
+  {
+    "Abreviatura": "TO",
+    "Significado": "Para (lugar)"
+  },
+  {
+    "Abreviatura": "TOC",
+    "Significado": "No topo da subida"
+  },
+  {
+    "Abreviatura": "TODA",
+    "Significado": "Distância utilizável para decolagem"
+  },
+  {
+    "Abreviatura": "TODAH",
+    "Significado": "Distância utilizável para decolagem de helicóptero"
+  },
+  {
+    "Abreviatura": "TOP",
+    "Significado": "No topo da nuvem"
+  },
+  {
+    "Abreviatura": "TORA",
+    "Significado": "Superfície utilizável para decolagem"
+  },
+  {
+    "Abreviatura": "TP",
+    "Significado": "Ponto de curva"
+  },
+  {
+    "Abreviatura": "TR",
+    "Significado": "Rota"
+  },
+  {
+    "Abreviatura": "TRA",
+    "Significado": "Espaço aéreo reservado temporariamente"
+  },
+  {
+    "Abreviatura": "TRANS",
+    "Significado": "Transmite ou transmissor"
+  },
+  {
+    "Abreviatura": "TRL",
+    "Significado": "Nível de transição"
+  },
+  {
+    "Abreviatura": "TT",
+    "Significado": "Teletipo"
+  },
+  {
+    "Abreviatura": "TUE",
+    "Significado": "Terça-feira"
+  },
+  {
+    "Abreviatura": "TURB",
+    "Significado": "Turbulência"
+  },
+  {
+    "Abreviatura": "TVE*",
+    "Significado": "Erro total vertical"
+  },
+  {
+    "Abreviatura": "TVOR",
+    "Significado": "VOR terminal"
+  },
+  {
+    "Abreviatura": "TWR",
+    "Significado": "Torre de controle de aeródromo ou controle de aeródromo"
+  },
+  {
+    "Abreviatura": "TWYL",
+    "Significado": "Junção de pista de táxi"
+  },
+  {
+    "Abreviatura": "TYP",
+    "Significado": "Tipo de aeronave"
+  },
+  {
+    "Abreviatura": "TYPH",
+    "Significado": "Tufão"
+  },
+  {
+    "Abreviatura": "U",
+    "Significado": "Em aumento (tendência do RVR durante os 10 minutos anteriores)"
+  },
+  {
+    "Abreviatura": "U*",
+    "Significado": "Cartas de vento de altitude e Aproveitamento de experiência na utilização de aeronave (resistência de pavimento)"
+  },
+  {
+    "Abreviatura": "UAB",
+    "Significado": "Até ser avisado por..."
+  },
+  {
+    "Abreviatura": "UAR",
+    "Significado": "Rota aérea no espaço aéreo superior"
+  },
+  {
+    "Abreviatura": "UDF",
+    "Significado": "Estação rediogoniométrica de ultr alta freqüência"
+  },
+  {
+    "Abreviatura": "UFN",
+    "Significado": "Até novo aviso"
+  },
+  {
+    "Abreviatura": "UHDT",
+    "Significado": "Impossível subir devido ao tráfego"
+  },
+  {
+    "Abreviatura": "UHF",
+    "Significado": "Freqüência ultra-alta (300 a 3000 Mhz)"
+  },
+  {
+    "Abreviatura": "UIC",
+    "Significado": "Centro de informação de vôo no espaço aéreo superior"
+  },
+  {
+    "Abreviatura": "UIR",
+    "Significado": "Região superior de informação de vôo"
+  },
+  {
+    "Abreviatura": "ULR",
+    "Significado": "Raio de ação ultra longo"
+  },
+  {
+    "Abreviatura": "UNA",
+    "Significado": "Impossível"
+  },
+  {
+    "Abreviatura": "UNAP",
+    "Significado": "Impossível aprovar"
+  },
+  {
+    "Abreviatura": "UNL",
+    "Significado": "Limitado"
+  },
+  {
+    "Abreviatura": "UNREP",
+    "Significado": "Inseguro, não confiável"
+  },
+  {
+    "Abreviatura": "U/S",
+    "Significado": "Não utilizável"
+  },
+  {
+    "Abreviatura": "USB*",
+    "Significado": "Banda lateral superior"
+  },
+  {
+    "Abreviatura": "UTA",
+    "Significado": "Área de controle de espaço aéreo superior"
+  },
+  {
+    "Abreviatura": "UTC",
+    "Significado": "Tempo Universal Coordenado"
+  },
+  {
+    "Abreviatura": "V*",
+    "Significado": "Freqüência de emergência em VHF (121.50MHz)"
+  },
+  {
+    "Abreviatura": "VA",
+    "Significado": "Cinza vulcânica"
+  },
+  {
+    "Abreviatura": "VAAC",
+    "Significado": "Centro de avisos de cinzas vulcânicas"
+  },
+  {
+    "Abreviatura": "VAC",
+    "Significado": "Carta de aproximação visual"
+  },
+  {
+    "Abreviatura": "VAL",
+    "Significado": "Nos vales"
+  },
+  {
+    "Abreviatura": "VAN",
+    "Significado": "Viatura de controle de pista"
+  },
+  {
+    "Abreviatura": "VAPI*",
+    "Significado": "Indicador visual de trajetória de aproximação"
+  },
+  {
+    "Abreviatura": "VAR",
+    "Significado": "Radiofarol direcional audiovisual"
+  },
+  {
+    "Abreviatura": "VARIG*",
+    "Significado": "Viação Aérea Riograndense"
+  },
+  {
+    "Abreviatura": "VASIS",
+    "Significado": "Sistema indicador de rampa da aproximação visual"
+  },
+  {
+    "Abreviatura": "VASP*",
+    "Significado": "Viação Aérea São Paulo"
+  },
+  {
+    "Abreviatura": "VC",
+    "Significado": "Vizinhança do aeródromo (Seguido de FG = Névoa, FC = Nuvem em forma de funil, PO = Redemoinhos de poeira/areia, BLDU = Vento alto de poeira, BLSA = Vento alto de areia ou BLSN = Vento alto de neve, TS = Trovoada; Ex: VCFG = Névea na vizinhança"
+  },
+  {
+    "Abreviatura": "VCY",
+    "Significado": "Vizinhança, imediações"
+  },
+  {
+    "Abreviatura": "VDF",
+    "Significado": "Estação radiogoniométrica de freqüência muito alta"
+  },
+  {
+    "Abreviatura": "VE*",
+    "Significado": "Exceto visual"
+  },
+  {
+    "Abreviatura": "VER",
+    "Significado": "Vertical"
+  },
+  {
+    "Abreviatura": "VFR",
+    "Significado": "Regras de vôo visual"
+  },
+  {
+    "Abreviatura": "VHF",
+    "Significado": "Freqüência muio alta (30 a 300 MHz)"
+  },
+  {
+    "Abreviatura": "VIBASA*",
+    "Significado": "Vilares Indústria de Base S/A"
+  },
+  {
+    "Abreviatura": "VIP",
+    "Significado": "Pessoa muito importante"
+  },
+  {
+    "Abreviatura": "VIS",
+    "Significado": "Visibilidade"
+  },
+  {
+    "Abreviatura": "VLF",
+    "Significado": "Freqüência muito baixa (3 a 30 KHz)"
+  },
+  {
+    "Abreviatura": "VLR",
+    "Significado": "Alcance muito longo"
+  },
+  {
+    "Abreviatura": "VMC",
+    "Significado": "Condições meteorológicas de vôo visual"
+  },
+  {
+    "Abreviatura": "VOLMET",
+    "Significado": "Informação meteorológica para aeronave em vôo"
+  },
+  {
+    "Abreviatura": "VOR",
+    "Significado": "Radiofarol onidirecional em VHF"
+  },
+  {
+    "Abreviatura": "VORTAC",
+    "Significado": "VOR e TACAN combinados"
+  },
+  {
+    "Abreviatura": "VOT",
+    "Significado": "Equipamento de teste de VOR a bordo"
+  },
+  {
+    "Abreviatura": "VRB",
+    "Significado": "Variável"
+  },
+  {
+    "Abreviatura": "VSA",
+    "Significado": "Por referência visual ao solo"
+  },
+  {
+    "Abreviatura": "VSP",
+    "Significado": "Velocidade vertical"
+  },
+  {
+    "Abreviatura": "VTOL",
+    "Significado": "Decolagem e pouso vertical"
+  },
+  {
+    "Abreviatura": "VWS*",
+    "Significado": "Cortante vertical do vento"
+  },
+  {
+    "Abreviatura": "W",
+    "Significado": "Oeste ou longitude oeste"
+  },
+  {
+    "Abreviatura": "W",
+    "Significado": "Branco"
+  },
+  {
+    "Abreviatura": "W*",
+    "Significado": "Pressão alta (pneus)"
+  },
+  {
+    "Abreviatura": "W*",
+    "Significado": "Carta de tempo significativo"
+  },
+  {
+    "Abreviatura": "WAC",
+    "Significado": "Carta aeronáutica mundial OACI 1:1.000.000"
+  },
+  {
+    "Abreviatura": "WAFC",
+    "Significado": "Centro Mundial de Previsão de Área"
+  },
+  {
+    "Abreviatura": "WB",
+    "Significado": "Direção oeste"
+  },
+  {
+    "Abreviatura": "WBAR",
+    "Significado": "Luzes da ponta da asa"
+  },
+  {
+    "Abreviatura": "WDI",
+    "Significado": "Indicador de direção do vento"
+  },
+  {
+    "Abreviatura": "WDSPR",
+    "Significado": "Generalizado, difundido"
+  },
+  {
+    "Abreviatura": "WEB",
+    "Significado": "Quarta-feira"
+  },
+  {
+    "Abreviatura": "WEF",
+    "Significado": "Efetivado a partir de..."
+  },
+  {
+    "Abreviatura": "WI",
+    "Significado": "Dentro ou dentro de uma margem de..."
+  },
+  {
+    "Abreviatura": "WID",
+    "Significado": "Largura"
+  },
+  {
+    "Abreviatura": "WINTEM",
+    "Significado": "Informação meteorologica regular contendo prognóstico de vento e temperatura em altitude"
+  },
+  {
+    "Abreviatura": "WIP",
+    "Significado": "Obras em andamento"
+  },
+  {
+    "Abreviatura": "WKN",
+    "Significado": "Enfraquecer ou enfraquecendo"
+  },
+  {
+    "Abreviatura": "WNW",
+    "Significado": "Oés-noroeste"
+  },
+  {
+    "Abreviatura": "WO",
+    "Significado": "Sem"
+  },
+  {
+    "Abreviatura": "WPT",
+    "Significado": "Ponto significativo"
+  },
+  {
+    "Abreviatura": "WRNG",
+    "Significado": "Aviso"
+  },
+  {
+    "Abreviatura": "WS",
+    "Significado": "Cortante do vento"
+  },
+  {
+    "Abreviatura": "WSPD",
+    "Significado": "Extenso"
+  },
+  {
+    "Abreviatura": "WSW",
+    "Significado": "Oés-sudoeste"
+  },
+  {
+    "Abreviatura": "WT",
+    "Significado": "Peso"
+  },
+  {
+    "Abreviatura": "WTSPT",
+    "Significado": "Tromba d’água"
+  },
+  {
+    "Abreviatura": "WX",
+    "Significado": "Condições meteorológicas"
+  },
+  {
+    "Abreviatura": "WXR*",
+    "Significado": "Radar meteorológico"
+  },
+  {
+    "Abreviatura": "X",
+    "Significado": "Cruzar"
+  },
+  {
+    "Abreviatura": "X*",
+    "Significado": "Pressão média (pneus)"
+  },
+  {
+    "Abreviatura": "XBAR",
+    "Significado": "Barra transversal (do sistema de luzes de aproximação)"
+  },
+  {
+    "Abreviatura": "XNG",
+    "Significado": "Cruzeiro"
+  },
+  {
+    "Abreviatura": "XS",
+    "Significado": "Estática"
+  },
+  {
+    "Abreviatura": "Y",
+    "Significado": "Amarelo"
+  },
+  {
+    "Abreviatura": "Y*",
+    "Significado": "Pressão baixa (pneus)"
+  },
+  {
+    "Abreviatura": "YCZ",
+    "Significado": "Área amarela de precaução de pista (iluminação de pista)"
+  },
+  {
+    "Abreviatura": "YES",
+    "Significado": "Sim"
+  },
+  {
+    "Abreviatura": "YR",
+    "Significado": "Seu"
+  },
+  {
+    "Abreviatura": "Z",
+    "Significado": "Tempo universal coordenado (em mensagens meteorológicas)"
+  },
+  {
+    "Abreviatura": "Z*",
+    "Significado": "Pressão muito baixa (pneus)"
+  }
+]

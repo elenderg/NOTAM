@@ -1,0 +1,5338 @@
+{
+   "A": [
+      {
+         "Significado": "Âmbar"
+      }
+   ],
+   "A*": [
+      {
+         "Significado": "Grande resistência (pavimentos)"
+      }
+   ],
+   "A/A": [
+      {
+         "Significado": "Ar-ar"
+      }
+   ],
+   "A/G": [
+      {
+         "Significado": "Ar-terra"
+      }
+   ],
+   "A2A*": [
+      {
+         "Significado": "Telegrafia como manipulação por interrupção de uma ou mais audiofreqüências moduladoras, ou com manipulação por interrupção da emissão modulada (caso particular, emissão não manipulada, modulada em amplitude)"
+      }
+   ],
+   "A3A": [
+      {
+         "Significado": "Telefonia – dupla banda lateral"
+      }
+   ],
+   "AAA": [
+      {
+         "Significado": "(ou AAB, AAC... etc., em seqüência) Mensagem meteorológica emendada (designador de tipo de mensagem)"
+      }
+   ],
+   "AAD": [
+      {
+         "Significado": "Desvio de altitude assinalada"
+      }
+   ],
+   "AAL": [
+      {
+         "Significado": "Acima do nível do aeródromo"
+      }
+   ],
+   "ABI": [
+      {
+         "Significado": "Informação antecipada sobre limite"
+      }
+   ],
+   "ABM": [
+      {
+         "Significado": "Través"
+      }
+   ],
+   "ABN": [
+      {
+         "Significado": "Farol de aeródromo"
+      }
+   ],
+   "ABT": [
+      {
+         "Significado": "Acerca de"
+      }
+   ],
+   "ABV": [
+      {
+         "Significado": "Acima de..."
+      }
+   ],
+   "AC": [
+      {
+         "Significado": "Altocumulus"
+      }
+   ],
+   "AC*": [
+      {
+         "Significado": "Carta de Aeródromo"
+      }
+   ],
+   "ACARS": [
+      {
+         "Significado": "Sistema de direcionamento e informe para comunicações de aeronaves"
+      }
+   ],
+   "ACAS": [
+      {
+         "Significado": "Sistema de anticolisão em vôo"
+      }
+   ],
+   "ACC": [
+      {
+         "Significado": "Centro de controle de área ou controle de área"
+      }
+   ],
+   "ACCID": [
+      {
+         "Significado": "Notificação de acidente de aeronave"
+      }
+   ],
+   "ACD*": [
+      {
+         "Significado": "Acordo"
+      }
+   ],
+   "ACFT": [
+      {
+         "Significado": "Aeronave"
+      }
+   ],
+   "ACK": [
+      {
+         "Significado": "Notificação de recebimento"
+      }
+   ],
+   "ACL": [
+      {
+         "Significado": "Local para teste de altímetro"
+      }
+   ],
+   "ACN": [
+      {
+         "Significado": "Número de classificação de aeronaves"
+      }
+   ],
+   "ACP": [
+      {
+         "Significado": "Aceitação (designador do tipo de mensagem)"
+      }
+   ],
+   "ACPT": [
+      {
+         "Significado": "Aceitar ou aceitado"
+      }
+   ],
+   "ACT": [
+      {
+         "Significado": "Ativo ou ativado ou atividade"
+      }
+   ],
+   "AD": [
+      {
+         "Significado": "Aeródromo"
+      }
+   ],
+   "ADA": [
+      {
+         "Significado": "Área com serviço de assessoramento"
+      }
+   ],
+   "ADC*": [
+      {
+         "Significado": "Carta de aeródromo"
+      }
+   ],
+   "ADDN": [
+      {
+         "Significado": "Adição ou adicional"
+      }
+   ],
+   "ADF": [
+      {
+         "Significado": "Equipamento radiogoniométrico automático"
+      }
+   ],
+   "ADIZ": [
+      {
+         "Significado": "Zona de identificação de defesa aérea"
+      }
+   ],
+   "ADJ": [
+      {
+         "Significado": "Adjacente"
+      }
+   ],
+   "ADO": [
+      {
+         "Significado": "Oficina de aeródromo"
+      }
+   ],
+   "ADR": [
+      {
+         "Significado": "Rota com serviço de assessoramento"
+      }
+   ],
+   "ADS": [
+      {
+         "Significado": "Vigilância dependente automática"
+      }
+   ],
+   "ADVS": [
+      {
+         "Significado": "Serviço de assessoramento"
+      }
+   ],
+   "ADZ": [
+      {
+         "Significado": "Aviso"
+      }
+   ],
+   "AES": [
+      {
+         "Significado": "Estação terrestre de aeronave"
+      }
+   ],
+   "AFA*": [
+      {
+         "Significado": "Academia da Força Aérea"
+      }
+   ],
+   "AFC*": [
+      {
+         "Significado": "Centro de Previsão de Área"
+      }
+   ],
+   "AFIL": [
+      {
+         "Significado": "Plano de Vôo apresentado em vôo"
+      }
+   ],
+   "AFIS": [
+      {
+         "Significado": "Serviço de informação de vôo de aeródromo"
+      }
+   ],
+   "AFM": [
+      {
+         "Significado": "Sim ou afirmativo ou correto"
+      }
+   ],
+   "AFS": [
+      {
+         "Significado": "Serviço fixo aeronáutico"
+      }
+   ],
+   "AFT": [
+      {
+         "Significado": "Depois de ... (hora ou lugar)"
+      }
+   ],
+   "AFTN": [
+      {
+         "Significado": "Rede de telecomunicações fixas aeronáuticas"
+      }
+   ],
+   "AGA": [
+      {
+         "Significado": "Aeródromos, rotas aéreas e auxílios terrestres"
+      }
+   ],
+   "AGL": [
+      {
+         "Significado": "Acima do nível do solo"
+      }
+   ],
+   "AGN": [
+      {
+         "Significado": "Outra vez"
+      }
+   ],
+   "AIC": [
+      {
+         "Significado": "Circular de informação aeronáutica"
+      }
+   ],
+   "AIDC": [
+      {
+         "Significado": "Comunicações de dados entre instalações de serviços de tráfego aéreo"
+      }
+   ],
+   "AIP": [
+      {
+         "Significado": "Publicação de informação aeronáutica"
+      }
+   ],
+   "AIRAC": [
+      {
+         "Significado": "Regulamentação e controle de informação aeronáutica"
+      }
+   ],
+   "AIREP": [
+      {
+         "Significado": "Aeronotificação"
+      }
+   ],
+   "AIRMET": [
+      {
+         "Significado": "Informação relativa a fenômenos meteorológicos em rota que possam afetar a segurança operacional das aeronaves em níveis baixos"
+      }
+   ],
+   "AIS": [
+      {
+         "Significado": "Serviços de informação aeronáutica"
+      }
+   ],
+   "ALA": [
+      {
+         "Significado": "Área de pouso na água"
+      }
+   ],
+   "ALERFA": [
+      {
+         "Significado": "Fase de alerta"
+      }
+   ],
+   "ALL*": [
+      {
+         "Significado": "Todos(as)"
+      }
+   ],
+   "ALR": [
+      {
+         "Significado": "Alerta (designador do tipo de mensagem)"
+      }
+   ],
+   "ALRS": [
+      {
+         "Significado": "Serviço de alerta"
+      }
+   ],
+   "ALS": [
+      {
+         "Significado": "Sistema de luzes de aproximação"
+      }
+   ],
+   "ALT": [
+      {
+         "Significado": "Altitude"
+      }
+   ],
+   "ALTN": [
+      {
+         "Significado": "Alternar ou alternante (luz que muda de cor) e Alternativa (aeródromo)"
+      }
+   ],
+   "AMA": [
+      {
+         "Significado": "Altitude mínima de área"
+      }
+   ],
+   "AMD": [
+      {
+         "Significado": "Emendar ou emendado e Mensagem meteorológica emendada; designador de tipo de mensagem"
+      }
+   ],
+   "AMDT": [
+      {
+         "Significado": "Emenda (emenda à AIP)"
+      }
+   ],
+   "AMS": [
+      {
+         "Significado": "Serviço móvel aeronáutico"
+      }
+   ],
+   "AMSL": [
+      {
+         "Significado": "Acima do nível médio do mar"
+      }
+   ],
+   "AMSS": [
+      {
+         "Significado": "Serviço móvel aeronáutico por satélite"
+      }
+   ],
+   "ANC": [
+      {
+         "Significado": "Carta aeronáutica – 3,513888889 0 (seguido pelo nome/título)"
+      }
+   ],
+   "ANCS": [
+      {
+         "Significado": "Carta de Navegação Aeronáutica – escala pequena (seguida do nome/título) e escala"
+      }
+   ],
+   "ANS": [
+      {
+         "Significado": "Resposta ou responder"
+      }
+   ],
+   "ANV*": [
+      {
+         "Significado": "Aeronave"
+      }
+   ],
+   "AOC": [
+      {
+         "Significado": "Carta de obstáculo de aeródromo"
+      }
+   ],
+   "AP": [
+      {
+         "Significado": "Aeroporto"
+      }
+   ],
+   "APAPI*": [
+      {
+         "Significado": "Indicador abreviado de trajetória de aproximação de precisão"
+      }
+   ],
+   "APCH": [
+      {
+         "Significado": "Aproximação, descida"
+      }
+   ],
+   "APN": [
+      {
+         "Significado": "Rampa"
+      }
+   ],
+   "APP": [
+      {
+         "Significado": "Centro de controle de aproximação ou serviço de controle de aproximação"
+      }
+   ],
+   "APR": [
+      {
+         "Significado": "Abril"
+      }
+   ],
+   "APRX": [
+      {
+         "Significado": "Aproximação ou aproximadamente"
+      }
+   ],
+   "APSG": [
+      {
+         "Significado": "Depois de passar"
+      }
+   ],
+   "APT": [
+      {
+         "Significado": "Receptor de fotografias transmitidas automaticamente por satélites"
+      }
+   ],
+   "APV": [
+      {
+         "Significado": "Aprovar ou aprovado ou aprovação"
+      }
+   ],
+   "ARC": [
+      {
+         "Significado": "Carta de Área"
+      }
+   ],
+   "ARE*": [
+      {
+         "Significado": "Areia"
+      }
+   ],
+   "ARQ": [
+      {
+         "Significado": "Correção automática de erros"
+      }
+   ],
+   "ARR": [
+      {
+         "Significado": "Chegar ou chegada (designador do tipo de mensagem)"
+      }
+   ],
+   "ARS": [
+      {
+         "Significado": "Aeronotificação especial (designador do tipo de mensagem)"
+      }
+   ],
+   "ARST": [
+      {
+         "Significado": "Dispositivo de parada da aeronave na pista (especificar tipo)"
+      }
+   ],
+   "AS": [
+      {
+         "Significado": "Altostratus"
+      }
+   ],
+   "ASC": [
+      {
+         "Significado": "Subir para ou subindo para"
+      }
+   ],
+   "ASDA": [
+      {
+         "Significado": "Distância utilizável para parada de decolagem"
+      }
+   ],
+   "ASE": [
+      {
+         "Significado": "Erro de sistema de altimetria"
+      }
+   ],
+   "ASPH": [
+      {
+         "Significado": "Asfalto"
+      }
+   ],
+   "ASR*": [
+      {
+         "Significado": "Radar de vigilância de aeroporto"
+      }
+   ],
+   "AT": [
+      {
+         "Significado": "... Às ... (seguido da hora em que se prevê que ocorrerá a mudança meteorológica)"
+      }
+   ],
+   "ATA": [
+      {
+         "Significado": "Hora real de chegada"
+      }
+   ],
+   "ATC": [
+      {
+         "Significado": "Controle de tráfego aéreo (em geral)"
+      }
+   ],
+   "ATD": [
+      {
+         "Significado": "Hora real de saída"
+      }
+   ],
+   "ATFM": [
+      {
+         "Significado": "Gerência de fluxo de tráfego aéreo"
+      }
+   ],
+   "ATIS": [
+      {
+         "Significado": "Serviço automático de informação em terminal"
+      }
+   ],
+   "ATM": [
+      {
+         "Significado": "Gerência de tráfego aéreo"
+      }
+   ],
+   "ATN": [
+      {
+         "Significado": "Rede de telecomunicação aeronáutica"
+      }
+   ],
+   "ATP": [
+      {
+         "Significado": "Às (horas ou lugar)"
+      }
+   ],
+   "ATS": [
+      {
+         "Significado": "Serviço de tráfego aéreo"
+      }
+   ],
+   "ATTN": [
+      {
+         "Significado": "Atenção"
+      }
+   ],
+   "ATZ": [
+      {
+         "Significado": "Zona de tráfego de aeródromo"
+      }
+   ],
+   "AUG": [
+      {
+         "Significado": "Agosto"
+      }
+   ],
+   "AUTH": [
+      {
+         "Significado": "Autorizado ou autorização"
+      }
+   ],
+   "AUW": [
+      {
+         "Significado": "Peso total de decolagem"
+      }
+   ],
+   "AUX": [
+      {
+         "Significado": "Auxiliar"
+      }
+   ],
+   "AV*": [
+      {
+         "Significado": "Avenida"
+      }
+   ],
+   "AVASIS": [
+      {
+         "Significado": "Sistema visual abreviado da rampa de aproximação"
+      }
+   ],
+   "AVBL": [
+      {
+         "Significado": "Disponível, praticável ou disponibilidade, praticabilidade"
+      }
+   ],
+   "AVG": [
+      {
+         "Significado": "Média"
+      }
+   ],
+   "AVGAS": [
+      {
+         "Significado": "Gasolina de aviação"
+      }
+   ],
+   "AWTA": [
+      {
+         "Significado": "Avise a hora em que poderá"
+      }
+   ],
+   "AWY": [
+      {
+         "Significado": "Aerovia"
+      }
+   ],
+   "AZM": [
+      {
+         "Significado": "Azimute"
+      }
+   ],
+   "B": [
+      {
+         "Significado": "Azul"
+      }
+   ],
+   "B*": [
+      {
+         "Significado": "Resistência média (pavimentos)"
+      }
+   ],
+   "BA": [
+      {
+         "Significado": "Eficiência dos freios"
+      }
+   ],
+   "BAR*": [
+      {
+         "Significado": "Barro"
+      }
+   ],
+   "BASE": [
+      {
+         "Significado": "Base das nuvens"
+      }
+   ],
+   "BAVT*": [
+      {
+         "Significado": "Base de Aviação de Taubaté"
+      }
+   ],
+   "BC*": [
+      {
+         "Significado": "Rumo posterior"
+      }
+   ],
+   "BCFG": [
+      {
+         "Significado": "Bancos de nevoeiro"
+      }
+   ],
+   "BCN": [
+      {
+         "Significado": "Farol (luz aeronáutica de superficie)"
+      }
+   ],
+   "BCST": [
+      {
+         "Significado": "Radiodifusão"
+      }
+   ],
+   "BDRY": [
+      {
+         "Significado": "Limite"
+      }
+   ],
+   "BECMG": [
+      {
+         "Significado": "Transformando-se"
+      }
+   ],
+   "BFR": [
+      {
+         "Significado": "Antes de"
+      }
+   ],
+   "BKN": [
+      {
+         "Significado": "Nublado (5 a 7 oitavos)"
+      }
+   ],
+   "BL": [
+      {
+         "Significado": "... Soprando (seguido de DU= areia ou SN= neve)"
+      }
+   ],
+   "BLDG": [
+      {
+         "Significado": "Edifício"
+      }
+   ],
+   "BLDU*": [
+      {
+         "Significado": "Poeira Soprada"
+      }
+   ],
+   "BLO": [
+      {
+         "Significado": "Abaixo das nuvens"
+      }
+   ],
+   "BLSA*": [
+      {
+         "Significado": "Areia Soprada"
+      }
+   ],
+   "BLW": [
+      {
+         "Significado": "Abaixo de ..."
+      }
+   ],
+   "BOMB": [
+      {
+         "Significado": "Bombardeio"
+      }
+   ],
+   "BR": [
+      {
+         "Significado": "Névoa úmida"
+      }
+   ],
+   "BRF": [
+      {
+         "Significado": "Curto (usado para indicar o tipo de aproximação desejada ou requerida)"
+      }
+   ],
+   "BRG": [
+      {
+         "Significado": "Marcação"
+      }
+   ],
+   "BRKG": [
+      {
+         "Significado": "Freada"
+      }
+   ],
+   "BS": [
+      {
+         "Significado": "Estação comercial de radiodifusão"
+      }
+   ],
+   "BTL": [
+      {
+         "Significado": "Entre camadas"
+      }
+   ],
+   "BTN": [
+      {
+         "Significado": "Entre"
+      }
+   ],
+   "C": [
+      {
+         "Significado": "Graus Celsius e Centro (identificação de pista)"
+      },
+      {
+         "Significado": "U Cumulus"
+      }
+   ],
+   "C*": [
+      {
+         "Significado": "Cartas e pequena resistência (pavimentos)"
+      }
+   ],
+   "CAT": [
+      {
+         "Significado": "Categoria e Turbulência em céu claro"
+      }
+   ],
+   "CAVOK": [
+      {
+         "Significado": "Visibilidade, 10 Km ou mais, nenhuma nuvem abaixo de 1500m ou abaixo da altura mínima do setor mais elevado, qualquer que seja o maior, nem CB; nenhuma condição de tempo significativa para a aviação"
+      }
+   ],
+   "CB": [
+      {
+         "Significado": "Cumulonimbus"
+      }
+   ],
+   "CC": [
+      {
+         "Significado": "Cirroculumbus"
+      }
+   ],
+   "CCA": [
+      {
+         "Significado": "(ou CCB, CCC ... etc., em ordem) Mensagem meteorológica corrigida (designador de tipo de mensagem)"
+      }
+   ],
+   "CCV*": [
+      {
+         "Significado": "Carta de corredores visuais"
+      }
+   ],
+   "CD": [
+      {
+         "Significado": "Candela"
+      }
+   ],
+   "CDN": [
+      {
+         "Significado": "Coordenação (designador ou tipo de mensagem)"
+      }
+   ],
+   "CEMIG*": [
+      {
+         "Significado": "Centrais Elétricas Minas Gerais"
+      }
+   ],
+   "CESP*": [
+      {
+         "Significado": "Companhia Energética de São Paulo"
+      }
+   ],
+   "CF": [
+      {
+         "Significado": "Mude a freqüência para ..."
+      }
+   ],
+   "CFM": [
+      {
+         "Significado": "Confirme ou confirmo"
+      }
+   ],
+   "CGL": [
+      {
+         "Significado": "Luzes de orientação para circular"
+      }
+   ],
+   "CH": [
+      {
+         "Significado": "Canal"
+      }
+   ],
+   "CHESF*": [
+      {
+         "Significado": "Companhia Hidroelétrica do São Francisco"
+      }
+   ],
+   "CHG": [
+      {
+         "Significado": "Modificação (designador do tipo de mensagem)"
+      }
+   ],
+   "CI": [
+      {
+         "Significado": "Cirrus"
+      }
+   ],
+   "CIDIN": [
+      {
+         "Significado": "Rede comum de intercâmbio de dados da OACI"
+      }
+   ],
+   "CIN*": [
+      {
+         "Significado": "Cinza"
+      }
+   ],
+   "CIT": [
+      {
+         "Significado": "Perto de ou sobre cidades grandes"
+      }
+   ],
+   "CIV": [
+      {
+         "Significado": "Civil"
+      }
+   ],
+   "CK": [
+      {
+         "Significado": "Verificar, verificação"
+      }
+   ],
+   "CL": [
+      {
+         "Significado": "(linha de) eixo de pista"
+      }
+   ],
+   "CLA": [
+      {
+         "Significado": "Formação de gelo de tipo cristalino"
+      }
+   ],
+   "CLA*": [
+      {
+         "Significado": "Centro de lançamento de Alcântara"
+      }
+   ],
+   "CLBR": [
+      {
+         "Significado": "Calibragem"
+      }
+   ],
+   "CLD": [
+      {
+         "Significado": "Nuvem"
+      }
+   ],
+   "CLG": [
+      {
+         "Significado": "Chamando"
+      }
+   ],
+   "CLR": [
+      {
+         "Significado": "Autorizar ou autorizado a ... ou autorização"
+      }
+   ],
+   "CLRD*": [
+      {
+         "Significado": "Autorização de tráfego"
+      }
+   ],
+   "CLSD": [
+      {
+         "Significado": "Fechar ou fechado ou fechando"
+      }
+   ],
+   "CM": [
+      {
+         "Significado": "Centímetro"
+      }
+   ],
+   "CMA*": [
+      {
+         "Significado": "Centro Meteorológico Aeródromo"
+      }
+   ],
+   "CMB": [
+      {
+         "Significado": "Suba"
+      }
+   ],
+   "CMB*": [
+      {
+         "Significado": "Combustível"
+      }
+   ],
+   "CMM*": [
+      {
+         "Significado": "Centro Meteorológico Militar"
+      }
+   ],
+   "COM": [
+      {
+         "Significado": "Comunicações"
+      }
+   ],
+   "COMAR*": [
+      {
+         "Significado": "Comando Aéreo Regional"
+      }
+   ],
+   "COMDA*": [
+      {
+         "Significado": "Comando de Defesa Aérea"
+      }
+   ],
+   "COMP*": [
+      {
+         "Significado": "Construção composta"
+      }
+   ],
+   "CONC": [
+      {
+         "Significado": "Concreto"
+      }
+   ],
+   "COND": [
+      {
+         "Significado": "Condição"
+      }
+   ],
+   "CONS": [
+      {
+         "Significado": "Contínuo"
+      }
+   ],
+   "CONST": [
+      {
+         "Significado": "Construção ou constrído"
+      }
+   ],
+   "Cont": [
+      {
+         "Significado": "Continuar ou continuação"
+      }
+   ],
+   "COOR": [
+      {
+         "Significado": "Coordenar ou coordenação"
+      }
+   ],
+   "COORD": [
+      {
+         "Significado": "Coordenadas"
+      }
+   ],
+   "COP": [
+      {
+         "Significado": "Ponto de Troca (VOR)"
+      }
+   ],
+   "COR": [
+      {
+         "Significado": "Corrigir ou correção ou corrigido (usado para indicar uma mensagem meteorológica corrigida; designador do tipo de mensagem)"
+      }
+   ],
+   "COT": [
+      {
+         "Significado": "Na costa"
+      }
+   ],
+   "COV": [
+      {
+         "Significado": "Cobrir ou coberto ou cobrindo"
+      }
+   ],
+   "CP*": [
+      {
+         "Significado": "Carta de pouso"
+      }
+   ],
+   "CPA*": [
+      {
+         "Significado": "Camada Porosa de Atrito"
+      }
+   ],
+   "CPDLC": [
+      {
+         "Significado": "Comunicações por ligação de dados controlador-piloto"
+      }
+   ],
+   "CPL": [
+      {
+         "Significado": "Plano de vôo em vigor (designador do tipo de mensagem)"
+      }
+   ],
+   "CPOR*": [
+      {
+         "Significado": "Carta dos padrões de orientação radar"
+      }
+   ],
+   "CRM*": [
+      {
+         "Significado": "Modelo de risco de colisão"
+      }
+   ],
+   "CRZ": [
+      {
+         "Significado": "Cruzeiro"
+      }
+   ],
+   "CS": [
+      {
+         "Significado": "Cirrostratus"
+      }
+   ],
+   "CS*": [
+      {
+         "Significado": "Estação de Comunicação"
+      }
+   ],
+   "CTA": [
+      {
+         "Significado": "Área de controle"
+      }
+   ],
+   "CTAM": [
+      {
+         "Significado": "Subir até ... e manter"
+      }
+   ],
+   "CTC": [
+      {
+         "Significado": "Contato, comunique-se"
+      }
+   ],
+   "CTL": [
+      {
+         "Significado": "Controle"
+      }
+   ],
+   "CTN": [
+      {
+         "Significado": "Cuidado"
+      }
+   ],
+   "CTR": [
+      {
+         "Significado": "Zona de controle"
+      }
+   ],
+   "CUF": [
+      {
+         "Significado": "Cuculiforme"
+      }
+   ],
+   "CUST": [
+      {
+         "Significado": "Alfândega"
+      }
+   ],
+   "CVR": [
+      {
+         "Significado": "Gravador de voz na cabine"
+      }
+   ],
+   "CVRD*": [
+      {
+         "Significado": "Companhia Vale do Rio Doce"
+      }
+   ],
+   "CW": [
+      {
+         "Significado": "Onda contínua"
+      }
+   ],
+   "CWY": [
+      {
+         "Significado": "Zona livre de obstáculo"
+      }
+   ],
+   "D": [
+      {
+         "Significado": "Em diminuição (tendência do RVR durante os 10 minutos anteriores)"
+      },
+      {
+         "Significado": "... Área perigosa (seguida de identificação)"
+      }
+   ],
+   "D*": [
+      {
+         "Significado": "Resistência ultrabaixa (pavimentos)"
+      }
+   ],
+   "DA": [
+      {
+         "Significado": "Altitude de decisão"
+      }
+   ],
+   "DAC*": [
+      {
+         "Significado": "Departamento de Aviação Civil"
+      }
+   ],
+   "DAE*": [
+      {
+         "Significado": "Departamento Aeroviário do Estado do Rio Grande do Sul"
+      }
+   ],
+   "DAP-RS*": [
+      {
+         "Significado": "Departamento Aeroportuário do Estado do Rio Grande do Sul"
+      },
+      {
+         "Significado": "Departamento Aeroportuário do Estado do Rio Grande do Sul"
+      }
+   ],
+   "DAESP*": [
+      {
+         "Significado": "Departamento Aeroviário do Estado de São Paulo"
+      }
+   ],
+   "DCD": [
+      {
+         "Significado": "Dúplex de canal duplo"
+      }
+   ],
+   "DCKG": [
+      {
+         "Significado": "Acoplamento"
+      }
+   ],
+   "DCS": [
+      {
+         "Significado": "Simplex de canal duplo"
+      }
+   ],
+   "DCT": [
+      {
+         "Significado": "Direto (com relação às autorizações para plano de vôo e tipo de aproximação)"
+      }
+   ],
+   "DEC": [
+      {
+         "Significado": "Dezembro"
+      }
+   ],
+   "DECEA*": [
+      {
+         "Significado": "Departamento de Controle de Espaço Aéreo"
+      }
+   ],
+   "DEG": [
+      {
+         "Significado": "Graus"
+      }
+   ],
+   "DENEB*": [
+      {
+         "Significado": "Operações de dispersão de nevoeiro"
+      }
+   ],
+   "DEP": [
+      {
+         "Significado": "Partida (designador do tipo de mensagem) e Partir, partida, saída"
+      }
+   ],
+   "DEPED*": [
+      {
+         "Significado": "Departamento de Pesquisa e Desenvolvimento"
+      }
+   ],
+   "DES": [
+      {
+         "Significado": "Descer para ou descendo para"
+      }
+   ],
+   "DEST": [
+      {
+         "Significado": "Destino"
+      }
+   ],
+   "DETRESFA": [
+      {
+         "Significado": "Fase de perigo"
+      }
+   ],
+   "DEV": [
+      {
+         "Significado": "Desvio ou desviando-se"
+      }
+   ],
+   "DFDR": [
+      {
+         "Significado": "Gravador de dados de vôo digital"
+      }
+   ],
+   "DFTI": [
+      {
+         "Significado": "Distância do indicador do ponto de toque"
+      }
+   ],
+   "DH": [
+      {
+         "Significado": "Altura de decisão"
+      }
+   ],
+   "DIF": [
+      {
+         "Significado": "Difusas (nuvens)"
+      }
+   ],
+   "DIST": [
+      {
+         "Significado": "Distância"
+      }
+   ],
+   "DIV": [
+      {
+         "Significado": "Desvie-se ou desviando-se"
+      }
+   ],
+   "DLA": [
+      {
+         "Significado": "Atraso (designador do tipo de mensagem) e Atraso ou atrasado"
+      }
+   ],
+   "DLCI": [
+      {
+         "Significado": "Capacidade de inicialização de ligação de dados"
+      }
+   ],
+   "DLY": [
+      {
+         "Significado": "Diariamente"
+      }
+   ],
+   "DME": [
+      {
+         "Significado": "Equipamento radiotelemétrico"
+      }
+   ],
+   "DNER*": [
+      {
+         "Significado": "Departamento Nacional de Estrada de Rodagem"
+      }
+   ],
+   "DNG": [
+      {
+         "Significado": "Perigo ou perigoso"
+      }
+   ],
+   "DOM": [
+      {
+         "Significado": "Doméstico"
+      }
+   ],
+   "DP": [
+      {
+         "Significado": "Temperatura do ponto de orvalho"
+      }
+   ],
+   "DPT": [
+      {
+         "Significado": "Profundidade"
+      }
+   ],
+   "DR": [
+      {
+         "Significado": "Navegação estimada"
+      },
+      {
+         "Significado": "... Vento calmo com neve (seguido de DU = poeira, AS = areia ou SN = neve)"
+      }
+   ],
+   "DRG": [
+      {
+         "Significado": "Durante"
+      }
+   ],
+   "DRSA*": [
+      {
+         "Significado": "Areia flutuante"
+      }
+   ],
+   "DS": [
+      {
+         "Significado": "Tempestade de poeira"
+      }
+   ],
+   "DSB": [
+      {
+         "Significado": "Banda lateral dupla"
+      }
+   ],
+   "DTAM": [
+      {
+         "Significado": "Descer até ... e mantenha"
+      }
+   ],
+   "DTG": [
+      {
+         "Significado": "Grupo data-hora"
+      }
+   ],
+   "DTHR": [
+      {
+         "Significado": "Cabeceira de pista deslocada"
+      }
+   ],
+   "DTRT": [
+      {
+         "Significado": "Piorar ou piorando"
+      }
+   ],
+   "DTT*": [
+      {
+         "Significado": "Departamento de Transporte e Terminais"
+      }
+   ],
+   "DTW": [
+      {
+         "Significado": "Rodas duplas em tandem"
+      }
+   ],
+   "DU": [
+      {
+         "Significado": "Poeira, pó"
+      }
+   ],
+   "DUC": [
+      {
+         "Significado": "Nuvem densa em altitude"
+      }
+   ],
+   "DUPE": [
+      {
+         "Significado": "Essa é uma mensagem duplicada"
+      }
+   ],
+   "DUR": [
+      {
+         "Significado": "Duração"
+      }
+   ],
+   "DVOR": [
+      {
+         "Significado": "VOR Doppler"
+      }
+   ],
+   "DW": [
+      {
+         "Significado": "Rodas duplas"
+      }
+   ],
+   "DZ": [
+      {
+         "Significado": "Chuvisco"
+      }
+   ],
+   "E": [
+      {
+         "Significado": "Leste ou longitude leste"
+      }
+   ],
+   "EAC*": [
+      {
+         "Significado": "Espaço aéreo condicionado"
+      }
+   ],
+   "EAT": [
+      {
+         "Significado": "Hora estimada de aproximação"
+      }
+   ],
+   "EB": [
+      {
+         "Significado": "Direção leste"
+      }
+   ],
+   "EB*": [
+      {
+         "Significado": "Exército Brasileiro"
+      }
+   ],
+   "EEE": [
+      {
+         "Significado": "Erro"
+      }
+   ],
+   "EET": [
+      {
+         "Significado": "Tempo decorrido estimado"
+      }
+   ],
+   "ELETRONORTE*": [
+      {
+         "Significado": "Centrais Elétricas Norte do Brasil S/A"
+      }
+   ],
+   "ELEV": [
+      {
+         "Significado": "Elevação"
+      }
+   ],
+   "ELR": [
+      {
+         "Significado": "Raio de ação muito longo"
+      }
+   ],
+   "EM": [
+      {
+         "Significado": "Emissão"
+      }
+   ],
+   "EM*": [
+      {
+         "Significado": "Estação de Meteorogia"
+      }
+   ],
+   "EMBD": [
+      {
+         "Significado": "Oculto numa camada (para indicar o cumulonimbus oculto em camadas de outras nuvens"
+      }
+   ],
+   "EMERG": [
+      {
+         "Significado": "Emergência"
+      }
+   ],
+   "EMS": [
+      {
+         "Significado": "Estação Meteorológica de Superfície"
+      }
+   ],
+   "EN*": [
+      {
+         "Significado": "Inglès"
+      }
+   ],
+   "END": [
+      {
+         "Significado": "Extremidade"
+      }
+   ],
+   "ENE": [
+      {
+         "Significado": "Este-Nordeste"
+      }
+   ],
+   "ENG": [
+      {
+         "Significado": "Motor"
+      }
+   ],
+   "ENR": [
+      {
+         "Significado": "Em rota"
+      }
+   ],
+   "ENRC": [
+      {
+         "Significado": "Carta de rota (seguida pelo nome/título)"
+      }
+   ],
+   "EOBT": [
+      {
+         "Significado": "Hora Estimada de Calços Fora"
+      }
+   ],
+   "EPCF": [
+      {
+         "Significado": "Especificar"
+      }
+   ],
+   "EQPT": [
+      {
+         "Significado": "Equipamento"
+      }
+   ],
+   "ER": [
+      {
+         "Significado": "Aqui ... ou junto"
+      }
+   ],
+   "ER*": [
+      {
+         "Significado": "Longo alcance"
+      }
+   ],
+   "ERC*": [
+      {
+         "Significado": "Carta de Rota"
+      }
+   ],
+   "ESE": [
+      {
+         "Significado": "Este-sudeste"
+      }
+   ],
+   "ESG*": [
+      {
+         "Significado": "Esgotado (a)"
+      }
+   ],
+   "ESPECIAL*": [
+      {
+         "Significado": "Informação meteorológica, quando há mudanças significativas"
+      }
+   ],
+   "EST": [
+      {
+         "Significado": "Estimar ou estimado ou estimação (como um designador de mensagem)"
+      }
+   ],
+   "ETA": [
+      {
+         "Significado": "Hora estimada de chegada ou estimada a chegada"
+      }
+   ],
+   "ETD": [
+      {
+         "Significado": "Hora estimada de partida ou estimo partir às ..."
+      }
+   ],
+   "ETO": [
+      {
+         "Significado": "Hora estimada sobre ponto significativo"
+      }
+   ],
+   "EV": [
+      {
+         "Significado": "Cada um, todo"
+      }
+   ],
+   "EXC": [
+      {
+         "Significado": "Exceto"
+      }
+   ],
+   "EXER": [
+      {
+         "Significado": "Exercícios ou exercendo ou exercer"
+      }
+   ],
+   "EXP": [
+      {
+         "Significado": "Esperar ou esperado ou esperando"
+      }
+   ],
+   "EXTD": [
+      {
+         "Significado": "Estender-se ou estendendo-se"
+      }
+   ],
+   "F": [
+      {
+         "Significado": "Fixo"
+      }
+   ],
+   "F*": [
+      {
+         "Significado": "Pavimento flexível"
+      }
+   ],
+   "FAC": [
+      {
+         "Significado": "Instalações e serviços"
+      }
+   ],
+   "FAF": [
+      {
+         "Significado": "Fixo de aproximação final"
+      }
+   ],
+   "FAL": [
+      {
+         "Significado": "Facilitação do transporte aéreo internacional"
+      }
+   ],
+   "FAP": [
+      {
+         "Significado": "Ponto de aproximação final"
+      }
+   ],
+   "FATO": [
+      {
+         "Significado": "Área, no solo, sobre a qual é executada a fase final de aproximação e a fase inicial de decolagem"
+      }
+   ],
+   "FAX": [
+      {
+         "Significado": "Transmissão por fac-símile"
+      }
+   ],
+   "FAZ*": [
+      {
+         "Significado": "Fazenda"
+      }
+   ],
+   "FBL": [
+      {
+         "Significado": "Leve (usado nos informes para indicar intensidade dos fenômenos meteorológicos, interferências ou estática. Ex.: FBL RA = chuva leve)"
+      }
+   ],
+   "FC": [
+      {
+         "Significado": "Nuvem em forma de funil"
+      }
+   ],
+   "FCST": [
+      {
+         "Significado": "Previsão"
+      }
+   ],
+   "FCT": [
+      {
+         "Significado": "Coeficiente de atrito"
+      }
+   ],
+   "FDPS": [
+      {
+         "Significado": "Sistema de processamento de dados de vôo"
+      }
+   ],
+   "FEB": [
+      {
+         "Significado": "Fevereiro"
+      }
+   ],
+   "FEW": [
+      {
+         "Significado": "Pouco (1 e 2 oitavos)"
+      }
+   ],
+   "FG": [
+      {
+         "Significado": "Nevoeiro"
+      }
+   ],
+   "FIC": [
+      {
+         "Significado": "Centro de informação de vôo"
+      }
+   ],
+   "FIR": [
+      {
+         "Significado": "Região de informação de vôo"
+      }
+   ],
+   "FIS": [
+      {
+         "Significado": "Serviço de informação de vôo"
+      }
+   ],
+   "FISA": [
+      {
+         "Significado": "Serviço automatizado de informação de vôo"
+      }
+   ],
+   "FL": [
+      {
+         "Significado": "Nível de vôo"
+      }
+   ],
+   "FLD": [
+      {
+         "Significado": "Campo de aviação"
+      }
+   ],
+   "FLG": [
+      {
+         "Significado": "Lampejos (pisca-pisca)"
+      }
+   ],
+   "FLR": [
+      {
+         "Significado": "Foguetes de sinalização"
+      }
+   ],
+   "FLT": [
+      {
+         "Significado": "Vôo"
+      }
+   ],
+   "FLTCK": [
+      {
+         "Significado": "Teste de vôo"
+      }
+   ],
+   "FLUC": [
+      {
+         "Significado": "Flutuante ou flutuação ou flutuado"
+      }
+   ],
+   "FLW": [
+      {
+         "Significado": "Seguir, segue ou seguindo"
+      }
+   ],
+   "FLY": [
+      {
+         "Significado": "Voar ou voando"
+      }
+   ],
+   "FM": [
+      {
+         "Significado": "De"
+      },
+      {
+         "Significado": "... De (seguido da hora e minuto UTC em que se prevê que ocorrerá a mudança meteorológica)"
+      }
+   ],
+   "FMS": [
+      {
+         "Significado": "Órgão de gerência de vôo"
+      }
+   ],
+   "FMU": [
+      {
+         "Significado": "Órgão de gerência de fluxo"
+      }
+   ],
+   "FNA": [
+      {
+         "Significado": "Aproximação final"
+      }
+   ],
+   "FPC*": [
+      {
+         "Significado": "Carta de Planejamento de Vôo e Rotas Oceânicas"
+      }
+   ],
+   "FPL": [
+      {
+         "Significado": "Plano de vôo apresentado (designador do tipo de mensagem)"
+      }
+   ],
+   "FPM": [
+      {
+         "Significado": "Pés por minuto"
+      }
+   ],
+   "FPR": [
+      {
+         "Significado": "Rota de palno de vôo"
+      }
+   ],
+   "FR": [
+      {
+         "Significado": "Combustível restante, autonomia"
+      }
+   ],
+   "FREQ": [
+      {
+         "Significado": "Freqüência"
+      }
+   ],
+   "FRI": [
+      {
+         "Significado": "Sexta-feira"
+      }
+   ],
+   "FRING": [
+      {
+         "Significado": "Tiros"
+      }
+   ],
+   "FRONT": [
+      {
+         "Significado": "Frente (meteorologia)"
+      }
+   ],
+   "FRQ": [
+      {
+         "Significado": "Freqüente"
+      }
+   ],
+   "FSL": [
+      {
+         "Significado": "Pouso completo"
+      }
+   ],
+   "FSS": [
+      {
+         "Significado": "Estação de serviço de vôo"
+      }
+   ],
+   "FST": [
+      {
+         "Significado": "Primeiro"
+      }
+   ],
+   "FT": [
+      {
+         "Significado": "Pés (unidade de medida)"
+      }
+   ],
+   "FU": [
+      {
+         "Significado": "Fumaça"
+      }
+   ],
+   "FZ": [
+      {
+         "Significado": "Enregelante, congelante"
+      }
+   ],
+   "FZDZ": [
+      {
+         "Significado": "Chuvisco congelante ou chuvisco intenso congelante"
+      }
+   ],
+   "FZFG": [
+      {
+         "Significado": "Nevoeiro congelante"
+      }
+   ],
+   "FZRA": [
+      {
+         "Significado": "Chuva congelante"
+      }
+   ],
+   "G": [
+      {
+         "Significado": "Verde"
+      }
+   ],
+   "G/A": [
+      {
+         "Significado": "Terra-ar"
+      }
+   ],
+   "G/A/G": [
+      {
+         "Significado": "Terra-ar e ar-terra"
+      }
+   ],
+   "GA": [
+      {
+         "Significado": "Siga em frente"
+      }
+   ],
+   "GAMET": [
+      {
+         "Significado": "Previsão de área em linguagem clara abreviada para vôos em níveis baixos, para uma FIR ou subárea dela"
+      }
+   ],
+   "GCA": [
+      {
+         "Significado": "Sistema de aproximação controlada do solo ou aproximação controlada do solo"
+      }
+   ],
+   "GEICAMP": [
+      {
+         "Significado": "Grupo Executivo para implantação do Campo de Provas de Cachimbo"
+      }
+   ],
+   "GEN": [
+      {
+         "Significado": "Generalidades"
+      }
+   ],
+   "GEO": [
+      {
+         "Significado": "Geográfico ou VERDADEIRO"
+      }
+   ],
+   "GES": [
+      {
+         "Significado": "Estação terrestre em terra"
+      }
+   ],
+   "GLD": [
+      {
+         "Significado": "Planador"
+      }
+   ],
+   "GLONASS": [
+      {
+         "Significado": "Sistema mundial de navegação por satélite"
+      }
+   ],
+   "GMC": [
+      {
+         "Significado": "Carta de movimento no solo (seguida por nome/título)"
+      }
+   ],
+   "GND": [
+      {
+         "Significado": "Solo"
+      }
+   ],
+   "GNDC*": [
+      {
+         "Significado": "Controle solo"
+      }
+   ],
+   "GP.flg*": [
+      {
+         "Significado": "Grupo de lampejo (pisca-pisca)"
+      }
+   ],
+   "GPS": [
+      {
+         "Significado": "Sistema mundial de determinação de posição"
+      }
+   ],
+   "GPS*": [
+      {
+         "Significado": "Sistema de comunicações para fins gerais"
+      }
+   ],
+   "GR": [
+      {
+         "Significado": "Granizo"
+      }
+   ],
+   "GRASS": [
+      {
+         "Significado": "Área de pouso coberta de grama"
+      }
+   ],
+   "GRIB": [
+      {
+         "Significado": "Dados meteorológicos processados na forma de valores de pontos de quadrícula (no código meteorológico aeronáutico)"
+      }
+   ],
+   "GRVL": [
+      {
+         "Significado": "Cascalho"
+      }
+   ],
+   "GS": [
+      {
+         "Significado": "Velocidade em relação ao solo e Granizo miúdo e/ou neve granulada"
+      }
+   ],
+   "GUND": [
+      {
+         "Significado": "Ondulação geóide"
+      }
+   ],
+   "h*": [
+      {
+         "Significado": "Observações semi-horárias"
+      }
+   ],
+   "H*": [
+      {
+         "Significado": "Observações horárias"
+      }
+   ],
+   "H24": [
+      {
+         "Significado": "Serviço contínuo de dia e de noite"
+      }
+   ],
+   "HAPI": [
+      {
+         "Significado": "Indicador visual da trajetória de aproximação para helicóptero"
+      }
+   ],
+   "HBN": [
+      {
+         "Significado": "Farol de perigo"
+      }
+   ],
+   "HDF": [
+      {
+         "Significado": "Estação radiogoniométrica de alta freqüência"
+      }
+   ],
+   "HDG": [
+      {
+         "Significado": "Rumo"
+      }
+   ],
+   "HEL": [
+      {
+         "Significado": "Helicóptero"
+      }
+   ],
+   "HELPN*": [
+      {
+         "Significado": "Heliponto"
+      }
+   ],
+   "HELPR*": [
+      {
+         "Significado": "Heliporto"
+      }
+   ],
+   "HF": [
+      {
+         "Significado": "Alta freqüência (3000 a 30.000Khz)"
+      }
+   ],
+   "HGT": [
+      {
+         "Significado": "Altura ou altura sobre"
+      }
+   ],
+   "HIRL*": [
+      {
+         "Significado": "Luzes de pista de alta intensidade"
+      }
+   ],
+   "HJ": [
+      {
+         "Significado": "Horário diurno (do nascer ao pôr-do-sol)"
+      }
+   ],
+   "HL*": [
+      {
+         "Significado": "Altura perdida"
+      }
+   ],
+   "HLDG": [
+      {
+         "Significado": "Espera"
+      }
+   ],
+   "HN": [
+      {
+         "Significado": "Horário noturno (do pôr-do-sol)"
+      }
+   ],
+   "HO": [
+      {
+         "Significado": "Serviço disponível para atender às necessidades das operações"
+      }
+   ],
+   "HOL": [
+      {
+         "Significado": "Feriado"
+      }
+   ],
+   "HOSP": [
+      {
+         "Significado": "Aeronave-hospital"
+      }
+   ],
+   "HOTRAN*": [
+      {
+         "Significado": "Horários de transporte aéreo"
+      }
+   ],
+   "HOTREG*": [
+      {
+         "Significado": "Horários de transporte aéreo regional"
+      }
+   ],
+   "HPA": [
+      {
+         "Significado": "Hectopascal"
+      }
+   ],
+   "HR": [
+      {
+         "Significado": "Horas"
+      }
+   ],
+   "HS": [
+      {
+         "Significado": "Serviço disponível durante as horas dos vôos regulares"
+      }
+   ],
+   "HURCN": [
+      {
+         "Significado": "Furacão"
+      }
+   ],
+   "HVDF": [
+      {
+         "Significado": "Estações radiogoniométricas de alta e muito alta freqüência (situadas no mesmo lugar)"
+      }
+   ],
+   "HVY": [
+      {
+         "Significado": "Pesado (usado para indicar a intensidade dos fenômenos meteorológicos, ex: HVY RA = chuva forte)"
+      }
+   ],
+   "HX": [
+      {
+         "Significado": "Horas de serviço não determinadas"
+      }
+   ],
+   "HYR": [
+      {
+         "Significado": "Mais elevado"
+      }
+   ],
+   "HZ": [
+      {
+         "Significado": "Névoa"
+      }
+   ],
+   "IAC": [
+      {
+         "Significado": "Carta de aproximação por instrumento"
+      }
+   ],
+   "IAC*": [
+      {
+         "Significado": "Carta de aproximação e pouso por instrumentos"
+      }
+   ],
+   "IAF": [
+      {
+         "Significado": "Fixo de aproximação inicial"
+      }
+   ],
+   "IAL*": [
+      {
+         "Significado": "Carta de aproximação e uso por instrumentos"
+      }
+   ],
+   "IAO": [
+      {
+         "Significado": "Dentro e fora das nuvens"
+      }
+   ],
+   "IAR": [
+      {
+         "Significado": "Inspeção de rotas aéreas"
+      }
+   ],
+   "IAS": [
+      {
+         "Significado": "Velocidade indicada"
+      }
+   ],
+   "IBAMA*": [
+      {
+         "Significado": "Instituto Brasileiro do Meio Ambiente"
+      }
+   ],
+   "IBN": [
+      {
+         "Significado": "Farol de identificação"
+      }
+   ],
+   "IC": [
+      {
+         "Significado": "Prismas de gelo (cristais de gelo muito pequenos em suspensão)"
+      }
+   ],
+   "ICE": [
+      {
+         "Significado": "Formação de gelo"
+      }
+   ],
+   "ID": [
+      {
+         "Significado": "Identificador ou identificar"
+      }
+   ],
+   "IDENT": [
+      {
+         "Significado": "Identificação"
+      }
+   ],
+   "IF": [
+      {
+         "Significado": "Fixo de aproximação intermediário"
+      }
+   ],
+   "IFF": [
+      {
+         "Significado": "Identificação amigo/inimigo"
+      }
+   ],
+   "IFR": [
+      {
+         "Significado": "Regras de vôo por instrumentos"
+      }
+   ],
+   "IGA": [
+      {
+         "Significado": "Aviação geral internacional"
+      }
+   ],
+   "ILS": [
+      {
+         "Significado": "Sistema de pouso por instrumentos"
+      }
+   ],
+   "IM": [
+      {
+         "Significado": "Marcador interno"
+      }
+   ],
+   "IMC": [
+      {
+         "Significado": "Condições meteorológicas de vôo por instrumentos"
+      }
+   ],
+   "IMG": [
+      {
+         "Significado": "Imigração"
+      }
+   ],
+   "IMPR": [
+      {
+         "Significado": "Melhorar ou melhorando"
+      }
+   ],
+   "IMT": [
+      {
+         "Significado": "Imediato ou imediatamente"
+      }
+   ],
+   "INA": [
+      {
+         "Significado": "Aproximação inicial"
+      }
+   ],
+   "INBD": [
+      {
+         "Significado": "De entrada, de chegada"
+      }
+   ],
+   "INC": [
+      {
+         "Significado": "Dentro da nuvem"
+      }
+   ],
+   "INCERFA": [
+      {
+         "Significado": "Fase de incerteza"
+      }
+   ],
+   "IND*": [
+      {
+         "Significado": "Indicativo de chamada"
+      }
+   ],
+   "INDIC*": [
+      {
+         "Significado": "Indicador, indicativo"
+      }
+   ],
+   "INFO": [
+      {
+         "Significado": "Informação"
+      }
+   ],
+   "INFRAERO*": [
+      {
+         "Significado": "Empresa Brasileira de Infra-estrutura Aeroportuária"
+      }
+   ],
+   "INOP": [
+      {
+         "Significado": "Inoperante"
+      }
+   ],
+   "INP": [
+      {
+         "Significado": "Se não for possível"
+      }
+   ],
+   "INPR": [
+      {
+         "Significado": "Em andamento"
+      }
+   ],
+   "INS": [
+      {
+         "Significado": "Sistema de navegação inercial"
+      }
+   ],
+   "INSTL": [
+      {
+         "Significado": "Instalar ou instalado ou instalação"
+      }
+   ],
+   "INSTR": [
+      {
+         "Significado": "Instrumento"
+      }
+   ],
+   "INT": [
+      {
+         "Significado": "Interseção"
+      }
+   ],
+   "INTL": [
+      {
+         "Significado": "Internacional"
+      }
+   ],
+   "INTRG": [
+      {
+         "Significado": "Interrogador"
+      }
+   ],
+   "INTRP": [
+      {
+         "Significado": "Interromper ou interrupção ou interrompido"
+      }
+   ],
+   "INTSF": [
+      {
+         "Significado": "Intensificar ou intensificado"
+      }
+   ],
+   "INTST": [
+      {
+         "Significado": "Intensidade"
+      }
+   ],
+   "IR": [
+      {
+         "Significado": "Gelo na pista"
+      }
+   ],
+   "ISA": [
+      {
+         "Significado": "Atmosfera padrão internacional"
+      }
+   ],
+   "ISB": [
+      {
+         "Significado": "Banda lateral independente"
+      }
+   ],
+   "ISOL": [
+      {
+         "Significado": "Isolado"
+      }
+   ],
+   "JAN": [
+      {
+         "Significado": "Janeiro"
+      }
+   ],
+   "JBE*": [
+      {
+         "Significado": "Telefonia – banda lateral única, portadoras suprimida"
+      }
+   ],
+   "JTST": [
+      {
+         "Significado": "Corrente de jato"
+      }
+   ],
+   "JUL": [
+      {
+         "Significado": "Julho"
+      }
+   ],
+   "JUN": [
+      {
+         "Significado": "Junho"
+      }
+   ],
+   "KG": [
+      {
+         "Significado": "Quilogramas"
+      }
+   ],
+   "KHz": [
+      {
+         "Significado": "Quilohertz"
+      }
+   ],
+   "KM": [
+      {
+         "Significado": "Quilômetros"
+      }
+   ],
+   "KMH": [
+      {
+         "Significado": "Quilômetros por hora"
+      }
+   ],
+   "KPA": [
+      {
+         "Significado": "Quilopascal"
+      }
+   ],
+   "L": [
+      {
+         "Significado": "Esquerda (identificação da pista) e Radiofarol de localização (veja LM e LO)"
+      }
+   ],
+   "LAM": [
+      {
+         "Significado": "Acusação de recebimento lógico (designador de tipo de mensagem)"
+      }
+   ],
+   "LAN": [
+      {
+         "Significado": "Terra a dentro"
+      }
+   ],
+   "LAT": [
+      {
+         "Significado": "Latitude"
+      }
+   ],
+   "LDA": [
+      {
+         "Significado": "Distância utilizável para pouso"
+      }
+   ],
+   "LDAH": [
+      {
+         "Significado": "Distância utilizável para pouso de helicóptero"
+      }
+   ],
+   "LDG": [
+      {
+         "Significado": "Pouso"
+      }
+   ],
+   "LDI": [
+      {
+         "Significado": "Indicador de direção de pouso"
+      }
+   ],
+   "LEN": [
+      {
+         "Significado": "Extensão, comprimento"
+      }
+   ],
+   "LF": [
+      {
+         "Significado": "Baixa freqüência (30 a 300 KHz)"
+      }
+   ],
+   "LGT": [
+      {
+         "Significado": "Luz ou iluminação"
+      }
+   ],
+   "LGTD": [
+      {
+         "Significado": "Iluminado"
+      }
+   ],
+   "LIH": [
+      {
+         "Significado": "Luz de alta intensidade"
+      }
+   ],
+   "LIL": [
+      {
+         "Significado": "Luz de baixa intensidade"
+      }
+   ],
+   "LIM": [
+      {
+         "Significado": "Luz de média intensidade"
+      }
+   ],
+   "LLZ": [
+      {
+         "Significado": "Localizador"
+      }
+   ],
+   "LM": [
+      {
+         "Significado": "Radiofarol de localização intermediária"
+      }
+   ],
+   "LMT": [
+      {
+         "Significado": "Hora média local"
+      }
+   ],
+   "LNG": [
+      {
+         "Significado": "Longa (usado para indicar o tipo de aproximação desejada ou requerida)"
+      }
+   ],
+   "LO": [
+      {
+         "Significado": "Radiofarol de localização exterior"
+      }
+   ],
+   "LOC": [
+      {
+         "Significado": "Local ou localmente ou localização ou situado"
+      }
+   ],
+   "LONG": [
+      {
+         "Significado": "Longitude"
+      }
+   ],
+   "LORAN": [
+      {
+         "Significado": "(sistema de navegação aérea de longo alcance)"
+      }
+   ],
+   "LR": [
+      {
+         "Significado": "A última mensagem que recebida foi ..."
+      }
+   ],
+   "LRG": [
+      {
+         "Significado": "Longo alcance"
+      }
+   ],
+   "LS": [
+      {
+         "Significado": "A última mensagem enviada por mim foi ..."
+      }
+   ],
+   "LT*": [
+      {
+         "Significado": "Lateral"
+      }
+   ],
+   "LTD": [
+      {
+         "Significado": "Imitado"
+      }
+   ],
+   "LTT": [
+      {
+         "Significado": "Teletipo de linha física"
+      }
+   ],
+   "LV": [
+      {
+         "Significado": "Leve e variável (relativo a vento)"
+      }
+   ],
+   "LVE": [
+      {
+         "Significado": "Abandonar ou abandonado"
+      }
+   ],
+   "LVL": [
+      {
+         "Significado": "Nível"
+      }
+   ],
+   "LYR": [
+      {
+         "Significado": "Camada ou em camada"
+      }
+   ],
+   "M": [
+      {
+         "Significado": "Metros (precedido de algarismos) e Número mach (seguido de algarismos)"
+      }
+   ],
+   "MAA": [
+      {
+         "Significado": "Altitude máxima autorizada"
+      }
+   ],
+   "MAC*": [
+      {
+         "Significado": "Macadame"
+      }
+   ],
+   "MAG": [
+      {
+         "Significado": "Magnético"
+      }
+   ],
+   "MAINT": [
+      {
+         "Significado": "Manutenção"
+      }
+   ],
+   "MAL*": [
+      {
+         "Significado": "Marechal"
+      }
+   ],
+   "MALS*": [
+      {
+         "Significado": "Sistema de luzes para aproximação de intensidade média"
+      }
+   ],
+   "MAP": [
+      {
+         "Significado": "Mapas e cartas aeronáuticas"
+      }
+   ],
+   "MAPT": [
+      {
+         "Significado": "Ponto de aproximação perdida"
+      }
+   ],
+   "MAR": [
+      {
+         "Significado": "Março e No mar"
+      }
+   ],
+   "MAR*": [
+      {
+         "Significado": "Marinha do Brasil"
+      }
+   ],
+   "MAS": [
+      {
+         "Significado": "Simplex A1 manual"
+      }
+   ],
+   "MASPS": [
+      {
+         "Significado": "Especificações mínimas de performance dos sistemas de aeronaves"
+      }
+   ],
+   "MAX": [
+      {
+         "Significado": "Máximo"
+      }
+   ],
+   "MAY": [
+      {
+         "Significado": "Maio"
+      }
+   ],
+   "MBST": [
+      {
+         "Significado": "Microburst"
+      }
+   ],
+   "MCA": [
+      {
+         "Significado": "Altitude minima de cruzamento"
+      }
+   ],
+   "MCW": [
+      {
+         "Significado": "Onda contínua modulado"
+      }
+   ],
+   "MDA": [
+      {
+         "Significado": "Altitude mínima de descida"
+      }
+   ],
+   "MDF": [
+      {
+         "Significado": "Estação radiogoniométrica de média"
+      }
+   ],
+   "MDH": [
+      {
+         "Significado": "Altura mínima de descida"
+      }
+   ],
+   "MEA": [
+      {
+         "Significado": "Altitude mínima em rota"
+      }
+   ],
+   "MEHT": [
+      {
+         "Significado": "Altura mínima dos olhos (do piloto) sobre a cabeceira (para sistemas indicadores de trajetória de apromaximação visual)"
+      }
+   ],
+   "MET": [
+      {
+         "Significado": "Meteorológico ou meteorologia"
+      }
+   ],
+   "METAR": [
+      {
+         "Significado": "Informe meteorológico aeronáutico regular (no código meteorológico)"
+      }
+   ],
+   "MF": [
+      {
+         "Significado": "Freqüência média (300 a 3000 KHz)"
+      }
+   ],
+   "MHVDF": [
+      {
+         "Significado": "Estações radiogoniométricas de média, alta e muito alta freqüência (situadas no mesmo lugar)"
+      }
+   ],
+   "MHZ": [
+      {
+         "Significado": "Megahertz"
+      }
+   ],
+   "MI*": [
+      {
+         "Significado": "Baixo"
+      }
+   ],
+   "MID": [
+      {
+         "Significado": "Ponto médio (relativo ao RVR)"
+      }
+   ],
+   "MIFG": [
+      {
+         "Significado": "Nevoeiro de superfície"
+      }
+   ],
+   "MIL": [
+      {
+         "Significado": "Militar"
+      }
+   ],
+   "MIN": [
+      {
+         "Significado": "Minutos"
+      }
+   ],
+   "MIS": [
+      {
+         "Significado": "Falta"
+      }
+   ],
+   "MKR": [
+      {
+         "Significado": "Radiobaliza"
+      }
+   ],
+   "MLS": [
+      {
+         "Significado": "Sistema de pouso por microondas"
+      }
+   ],
+   "MM": [
+      {
+         "Significado": "Marcador médio"
+      }
+   ],
+   "MMO*": [
+      {
+         "Significado": "Centro Meteorológico Classe I"
+      }
+   ],
+   "MNM": [
+      {
+         "Significado": "Mínimo"
+      }
+   ],
+   "MNPS": [
+      {
+         "Significado": "Especificações mínimas de desempenho de navegação"
+      }
+   ],
+   "MNT": [
+      {
+         "Significado": "Monitorar, monitorando ou monitorado"
+      }
+   ],
+   "MNTN": [
+      {
+         "Significado": "Manter"
+      }
+   ],
+   "MOA": [
+      {
+         "Significado": "Área de operação militar"
+      }
+   ],
+   "MOC": [
+      {
+         "Significado": "Mínimo livre de obstáculos"
+      }
+   ],
+   "MOD": [
+      {
+         "Significado": "Moderado (usado nos informes para indicar intensidade dos fenômenos meteorológicos, interferência ou estática (ex. MOD RA=chuva moderada)"
+      }
+   ],
+   "MON": [
+      {
+         "Significado": "Acima de montanhas e segunda-feira"
+      }
+   ],
+   "MOPS": [
+      {
+         "Significado": "Normas de desempenho mínimo operacional"
+      }
+   ],
+   "MOTNE": [
+      {
+         "Significado": "Rede de Telecomunicações Meteorológicas para as Operações na Europa"
+      }
+   ],
+   "MOV": [
+      {
+         "Significado": "Mover ou movendo ou movimento"
+      }
+   ],
+   "MPa*": [
+      {
+         "Significado": "Mega-Pascal (medida de pressão do Sistema Internacional de Medidas)"
+      }
+   ],
+   "MPS": [
+      {
+         "Significado": "Metros por segundo"
+      }
+   ],
+   "MRA": [
+      {
+         "Significado": "Altitude mínima de recepção"
+      }
+   ],
+   "MRG": [
+      {
+         "Significado": "Alcance médio"
+      }
+   ],
+   "MRN*": [
+      {
+         "Significado": "Mineração Rio do Norte"
+      }
+   ],
+   "MRP": [
+      {
+         "Significado": "Ponto de notificação ATS/MET"
+      }
+   ],
+   "MS": [
+      {
+         "Significado": "Menos"
+      }
+   ],
+   "MSA": [
+      {
+         "Significado": "Altitude mínima de setor"
+      }
+   ],
+   "MSG": [
+      {
+         "Significado": "Mensagem"
+      }
+   ],
+   "MSL": [
+      {
+         "Significado": "Nível médio do mar"
+      }
+   ],
+   "MSR": [
+      {
+         "Significado": "Mensagem"
+      }
+   ],
+   "MSRR": [
+      {
+         "Significado": "Radar secundário de vigilância de monopulso"
+      }
+   ],
+   "MT": [
+      {
+         "Significado": "Montanha"
+      }
+   ],
+   "MTAL*": [
+      {
+         "Significado": "Metálico"
+      }
+   ],
+   "MTU": [
+      {
+         "Significado": "Unidades do sistema métrico"
+      }
+   ],
+   "MTW": [
+      {
+         "Significado": "Ondas orográficas"
+      }
+   ],
+   "MVDF": [
+      {
+         "Significado": "Estações radiogoniométricas de média e muito alta freqüência (situado no mesmo local)"
+      }
+   ],
+   "MWO": [
+      {
+         "Significado": "Centro de vigilância meteorológica"
+      }
+   ],
+   "MX": [
+      {
+         "Significado": "Tipo de formação de gelo (branco e cristalino)"
+      }
+   ],
+   "NASC": [
+      {
+         "Significado": "Centro nacional de sistema AIS"
+      }
+   ],
+   "NAT": [
+      {
+         "Significado": "Atlântico Norte"
+      }
+   ],
+   "NAV": [
+      {
+         "Significado": "Navegação"
+      }
+   ],
+   "NB": [
+      {
+         "Significado": "Direção norte"
+      }
+   ],
+   "NBFR": [
+      {
+         "Significado": "Não antes de"
+      }
+   ],
+   "NC": [
+      {
+         "Significado": "Sem mudanças"
+      }
+   ],
+   "NDB": [
+      {
+         "Significado": "Radiofarol não-direcional"
+      }
+   ],
+   "NE": [
+      {
+         "Significado": "Nordeste"
+      }
+   ],
+   "NEB": [
+      {
+         "Significado": "Direção nordeste"
+      }
+   ],
+   "NEG": [
+      {
+         "Significado": "Não ou negativo ou permissão não concedida ou incorreta"
+      }
+   ],
+   "NGT": [
+      {
+         "Significado": "Noite"
+      }
+   ],
+   "NIL": [
+      {
+         "Significado": "Nada ou nada tenho a transmitir-lhe"
+      }
+   ],
+   "NINST*": [
+      {
+         "Significado": "Pista de Vôo Visual"
+      }
+   ],
+   "NM": [
+      {
+         "Significado": "Milhas náuticas"
+      }
+   ],
+   "NML": [
+      {
+         "Significado": "Normal"
+      }
+   ],
+   "NNE": [
+      {
+         "Significado": "Nor-nordeste"
+      }
+   ],
+   "NNW": [
+      {
+         "Significado": "Nor-noroeste"
+      }
+   ],
+   "NO": [
+      {
+         "Significado": "Não"
+      }
+   ],
+   "NOF": [
+      {
+         "Significado": "Centro internacional de NOTAM"
+      }
+   ],
+   "NON*": [
+      {
+         "Significado": "Ausência de toda modulação"
+      }
+   ],
+   "NOSIG": [
+      {
+         "Significado": "Sem mudança importante (para uso nas previsões de pouso de tipo tendência)"
+      }
+   ],
+   "NOTAM": [
+      {
+         "Significado": "Aviso que contém informação relativa ao estabelecimento, condição ou modificação de quaisquer instalações, serviços, procedimentos ou perigos aeronáuticos, cujo pronto conhecimento seja indispensável ao pessoal ligado à operações de vôo"
+      }
+   ],
+   "NOV": [
+      {
+         "Significado": "Novembro"
+      }
+   ],
+   "NOZ": [
+      {
+         "Significado": "Zona normal de operações"
+      }
+   ],
+   "NPA*": [
+      {
+         "Significado": "Pistas para aproximações que não sejam de precisão"
+      }
+   ],
+   "NR": [
+      {
+         "Significado": "Número"
+      }
+   ],
+   "NRH": [
+      {
+         "Significado": "Não se ouviu nenhuma resposta"
+      }
+   ],
+   "NS": [
+      {
+         "Significado": "Nimbostratus"
+      }
+   ],
+   "NSC": [
+      {
+         "Significado": "Sem nuvens significativas"
+      }
+   ],
+   "NSW": [
+      {
+         "Significado": "Nenhum tempo significativo"
+      }
+   ],
+   "NTL": [
+      {
+         "Significado": "Nacional"
+      }
+   ],
+   "NTZ": [
+      {
+         "Significado": "Zona inviolável"
+      }
+   ],
+   "NW": [
+      {
+         "Significado": "Noroeste"
+      }
+   ],
+   "NWB": [
+      {
+         "Significado": "Direção noroeste"
+      }
+   ],
+   "NXT": [
+      {
+         "Significado": "Seguinte"
+      }
+   ],
+   "O*": [
+      {
+         "Significado": "Óleo lubrificante"
+      }
+   ],
+   "O/R": [
+      {
+         "Significado": "A pedido"
+      }
+   ],
+   "OAC": [
+      {
+         "Significado": "Centro de Controle de Área Oceânica"
+      }
+   ],
+   "OAS": [
+      {
+         "Significado": "Superfície de fixação de obstáculos"
+      }
+   ],
+   "OBS": [
+      {
+         "Significado": "Observar ou observado ou observação"
+      }
+   ],
+   "OBSC": [
+      {
+         "Significado": "Escurecer ou escurecido ou escurecendo"
+      }
+   ],
+   "OBST": [
+      {
+         "Significado": "Obstáculo"
+      }
+   ],
+   "OCA": [
+      {
+         "Significado": "Área de controle oceânico e Altitude livre de obstáculos"
+      }
+   ],
+   "OCC": [
+      {
+         "Significado": "Intermitente (luz)"
+      }
+   ],
+   "OCH": [
+      {
+         "Significado": "Altura livre de obstáculos"
+      }
+   ],
+   "OCNL": [
+      {
+         "Significado": "Ocasional ou ocasionalmente"
+      }
+   ],
+   "OCS": [
+      {
+         "Significado": "Superfície livre de obstáculo"
+      }
+   ],
+   "OCT": [
+      {
+         "Significado": "Outubro"
+      }
+   ],
+   "OFZ": [
+      {
+         "Significado": "Zona livre de obstáculos"
+      }
+   ],
+   "OGN": [
+      {
+         "Significado": "Originar"
+      }
+   ],
+   "OHD": [
+      {
+         "Significado": "Bloqueio"
+      }
+   ],
+   "OK": [
+      {
+         "Significado": "Estamos de acordo ou está correto"
+      }
+   ],
+   "OLDI": [
+      {
+         "Significado": "Intercâmbio direto de dados"
+      }
+   ],
+   "OM": [
+      {
+         "Significado": "Marcador externo"
+      }
+   ],
+   "OPA": [
+      {
+         "Significado": "Formação de gelo do tipo branco opaco"
+      }
+   ],
+   "OPC": [
+      {
+         "Significado": "O controle indicado é o de operações"
+      }
+   ],
+   "OPMET": [
+      {
+         "Significado": "Informação meteorológica relativa às operações"
+      }
+   ],
+   "OPN": [
+      {
+         "Significado": "Abrir ou abrindo ou aberto"
+      }
+   ],
+   "OPR": [
+      {
+         "Significado": "Operador ou operar, ou operante ou operado ou operacional"
+      }
+   ],
+   "OPS": [
+      {
+         "Significado": "Operações"
+      }
+   ],
+   "ORD": [
+      {
+         "Significado": "Indicação de uma ordem"
+      }
+   ],
+   "OSV": [
+      {
+         "Significado": "Navio-estação oceânica"
+      }
+   ],
+   "OTLK": [
+      {
+         "Significado": "Projeção (usado nas mensagens SIGMET para as cinzas vulcânicas e ciclones tropicais)"
+      }
+   ],
+   "OTP": [
+      {
+         "Significado": "No topo"
+      }
+   ],
+   "OTS": [
+      {
+         "Significado": "Sistema organizado de rota"
+      }
+   ],
+   "OUBD": [
+      {
+         "Significado": "Sentido de saída, de afastamento"
+      }
+   ],
+   "OVC": [
+      {
+         "Significado": "Encoberto (8 oitavos)"
+      }
+   ],
+   "P": [
+      {
+         "Significado": "... Área proibida (seguida de identificação)"
+      }
+   ],
+   "P*": [
+      {
+         "Significado": "Expositor oral ou carta prognosticada de ar superior"
+      }
+   ],
+   "PA-1*": [
+      {
+         "Significado": "Pista para aproximações de precisão CAT I"
+      }
+   ],
+   "PA-2*": [
+      {
+         "Significado": "Pista para aproximações de precisão CAT II"
+      }
+   ],
+   "PA-3*": [
+      {
+         "Significado": "Pista para aproximações de precisão CAT III"
+      }
+   ],
+   "PAG*": [
+      {
+         "Significado": "Página"
+      }
+   ],
+   "PALS": [
+      {
+         "Significado": "Sistema de iluminação para aproximação de precisão (especificar a categoria)"
+      }
+   ],
+   "PANS": [
+      {
+         "Significado": "Procedimentos para os serviços de navegação aérea"
+      }
+   ],
+   "PAPI": [
+      {
+         "Significado": "Indicador de trajetória de aproximação de precisão"
+      }
+   ],
+   "PAR": [
+      {
+         "Significado": "Radar para aproximação de precisão"
+      }
+   ],
+   "PARL": [
+      {
+         "Significado": "Paralelo"
+      }
+   ],
+   "PATC*": [
+      {
+         "Significado": "Carta topográfica para aproximações de precisão (seguida pelo nome/título)"
+      }
+   ],
+   "PAX": [
+      {
+         "Significado": "Passageiro(a)"
+      }
+   ],
+   "PCD": [
+      {
+         "Significado": "Prosseguir ou procedendo"
+      }
+   ],
+   "PCN": [
+      {
+         "Significado": "Número de classificação de pavimento"
+      }
+   ],
+   "PDC": [
+      {
+         "Significado": "Carta de estacionamento de aeronave"
+      }
+   ],
+   "PE*": [
+      {
+         "Significado": "Grãos de gelo"
+      }
+   ],
+   "PER": [
+      {
+         "Significado": "Desempenho, rendimento"
+      }
+   ],
+   "PERM": [
+      {
+         "Significado": "Permanente"
+      }
+   ],
+   "PETROBRÁS*Petróleo": [
+      {
+         "Significado": "Brasileiro S/A"
+      }
+   ],
+   "PF*": [
+      {
+         "Significado": "Combustível para aeronaves de motor a explosão"
+      }
+   ],
+   "PIB": [
+      {
+         "Significado": "Boletim de informação prévia ao vôo"
+      }
+   ],
+   "PIÇ*": [
+      {
+         "Significado": "Piçarra"
+      }
+   ],
+   "PILOT": [
+      {
+         "Significado": "Informação meteorológica de observação em altitude regular contendo direção e velocidade de vento"
+      }
+   ],
+   "PJE": [
+      {
+         "Significado": "Exercício de salto de pára-quedista"
+      }
+   ],
+   "PL": [
+      {
+         "Significado": "Grãos de gelo"
+      }
+   ],
+   "PL*": [
+      {
+         "Significado": "Linguagem"
+      }
+   ],
+   "PLA": [
+      {
+         "Significado": "Execute a aproximação baixa"
+      }
+   ],
+   "PLN": [
+      {
+         "Significado": "Plano de vôo"
+      }
+   ],
+   "PLVL": [
+      {
+         "Significado": "Presente nível"
+      }
+   ],
+   "PMD": [
+      {
+         "Significado": "Peso máximo de decolagem"
+      }
+   ],
+   "POSS": [
+      {
+         "Significado": "Possível"
+      }
+   ],
+   "PPI": [
+      {
+         "Significado": "Indicador de posição no plano"
+      }
+   ],
+   "PPR": [
+      {
+         "Significado": "Precisa de autorização prévia"
+      }
+   ],
+   "PPSN": [
+      {
+         "Significado": "Presente posição"
+      }
+   ],
+   "PRB*": [
+      {
+         "Significado": "Proibido (a) Proibir"
+      }
+   ],
+   "PRES*": [
+      {
+         "Significado": "Presidente"
+      }
+   ],
+   "PRFG": [
+      {
+         "Significado": "Nevoeiro parcial"
+      }
+   ],
+   "PRGO*": [
+      {
+         "Significado": "Perigoso (a)"
+      }
+   ],
+   "PRI": [
+      {
+         "Significado": "Primário"
+      }
+   ],
+   "PRIV*": [
+      {
+         "Significado": "Privado"
+      }
+   ],
+   "PRKG": [
+      {
+         "Significado": "Estacionamento"
+      }
+   ],
+   "PROB": [
+      {
+         "Significado": "Probabilidade"
+      }
+   ],
+   "PROC": [
+      {
+         "Significado": "Procedimento"
+      }
+   ],
+   "PROV": [
+      {
+         "Significado": "Provisório"
+      }
+   ],
+   "PS": [
+      {
+         "Significado": "Mais"
+      }
+   ],
+   "PSG": [
+      {
+         "Significado": "Passando por"
+      }
+   ],
+   "PSN": [
+      {
+         "Significado": "Posição"
+      }
+   ],
+   "PSP": [
+      {
+         "Significado": "Chapa de aço perfurada"
+      }
+   ],
+   "PSR": [
+      {
+         "Significado": "Radar de vigilância primária"
+      }
+   ],
+   "PT*": [
+      {
+         "Significado": "Português"
+      }
+   ],
+   "PTN": [
+      {
+         "Significado": "Curva padrão"
+      }
+   ],
+   "PTS": [
+      {
+         "Significado": "Estrutura de rotas polares"
+      }
+   ],
+   "PUB*": [
+      {
+         "Significado": "Público"
+      }
+   ],
+   "PUB": [
+      {
+         "Significado": "REST* Público Restrito"
+      }
+   ],
+   "PWR": [
+      {
+         "Significado": "Potência"
+      }
+   ],
+   "QBI": [
+      {
+         "Significado": "Vôo por instrumentos obrigatório"
+      }
+   ],
+   "QDL": [
+      {
+         "Significado": "Você gostaria de solicitar uma série de marcações?"
+      }
+   ],
+   "QDM": [
+      {
+         "Significado": "Proa magnética (vento nulo)"
+      }
+   ],
+   "QDR": [
+      {
+         "Significado": "Marcação magnética"
+      }
+   ],
+   "QFE": [
+      {
+         "Significado": "Pressão atmosférica ao nível de elevação do aeródromo (ou na cabeceira da pista)"
+      }
+   ],
+   "QFI*": [
+      {
+         "Significado": "Luzes de aeródromo"
+      }
+   ],
+   "QFU": [
+      {
+         "Significado": "Direção magnética da pista"
+      }
+   ],
+   "QGE": [
+      {
+         "Significado": "Qual é a minha distância da sua estação? (código Q)"
+      }
+   ],
+   "QJH": [
+      {
+         "Significado": "Devo passar minha fita de teste/uma frase de teste? (código Q)"
+      }
+   ],
+   "QNE*": [
+      {
+         "Significado": "Pressão padrão ao nível do mar (1013,2 hPa)"
+      }
+   ],
+   "QNH": [
+      {
+         "Significado": "Pressão reduzida ao nível do mar pelo gradiente vertical da atmosfera padrão"
+      }
+   ],
+   "QSP": [
+      {
+         "Significado": "Você quer transmitir...gratuitamente? ou irei transmitir...Gratuitamente (código Q)"
+      }
+   ],
+   "QTA": [
+      {
+         "Significado": "Devo cancelar o telegrama número...? ou Cancele o telegrama número... (código Q)"
+      }
+   ],
+   "QTE": [
+      {
+         "Significado": "Marcação verdadeira"
+      }
+   ],
+   "QTF": [
+      {
+         "Significado": "Rumo VERDADEIRO"
+      }
+   ],
+   "QUAD": [
+      {
+         "Significado": "Quadrante"
+      }
+   ],
+   "R*": [
+      {
+         "Significado": "Pavimento rígido"
+      }
+   ],
+   "R": [
+      {
+         "Significado": "Vermelho"
+      },
+      {
+         "Significado": "Direita (identificação de pista)"
+      }
+   ],
+   "R...": [
+      {
+         "Significado": "Área restrita (seguido da identificação)"
+      }
+   ],
+   "RA": [
+      {
+         "Significado": "Chuva"
+      }
+   ],
+   "RA*": [
+      {
+         "Significado": "Radioaltímetro"
+      }
+   ],
+   "RAB*": [
+      {
+         "Significado": "Registro Aeronáutico Brasileiro"
+      }
+   ],
+   "RAC": [
+      {
+         "Significado": "Regras do ar e serviços de tráfego aéreo"
+      }
+   ],
+   "RAG": [
+      {
+         "Significado": "Dispositivo de parada na pista"
+      }
+   ],
+   "RAI": [
+      {
+         "Significado": "Indicador de alinhamento da pista"
+      }
+   ],
+   "RAIM": [
+      {
+         "Significado": "Vigilância autônoma da integridade do receptor"
+      }
+   ],
+   "RASC": [
+      {
+         "Significado": "Centro Regional de Sistemas AIS"
+      }
+   ],
+   "RB": [
+      {
+         "Significado": "Lancha de salvamento"
+      }
+   ],
+   "RCA": [
+      {
+         "Significado": "Atinja a altitude de cruzeiro"
+      }
+   ],
+   "RCC": [
+      {
+         "Significado": "Centro de Coordenação de Salvamento"
+      }
+   ],
+   "RCD*": [
+      {
+         "Significado": "Código de referência"
+      }
+   ],
+   "RCF": [
+      {
+         "Significado": "Falha de comunicação (designador do tipo de mensagem)"
+      }
+   ],
+   "RCH": [
+      {
+         "Significado": "Atingir ou atingindo"
+      }
+   ],
+   "RCL": [
+      {
+         "Significado": "Eixo da pista"
+      }
+   ],
+   "RCLL": [
+      {
+         "Significado": "Luz(es) de eixo de pista"
+      }
+   ],
+   "RCLR": [
+      {
+         "Significado": "Nova autorização"
+      }
+   ],
+   "RDH": [
+      {
+         "Significado": "Altura do dado de referência (para ILS)"
+      }
+   ],
+   "RDL": [
+      {
+         "Significado": "Radial"
+      }
+   ],
+   "RDO": [
+      {
+         "Significado": "Rádio"
+      }
+   ],
+   "RDODIF*": [
+      {
+         "Significado": "Radiodifusora"
+      }
+   ],
+   "RDONAV*": [
+      {
+         "Significado": "Radionavegação"
+      }
+   ],
+   "RE...": [
+      {
+         "Significado": "Recente (usado para qualificar fenômenos meteorológicos;EX: RERA = Chuva recente)"
+      }
+   ],
+   "REA": [
+      {
+         "Significado": "Rota especial de aeronaves"
+      }
+   ],
+   "REC": [
+      {
+         "Significado": "Receber ou receptor"
+      }
+   ],
+   "REDEMET*": [
+      {
+         "Significado": "Rede de dados meteorológicos"
+      }
+   ],
+   "REDL": [
+      {
+         "Significado": "Luz lateral de pista"
+      }
+   ],
+   "REF": [
+      {
+         "Significado": "Referente a ... ou consulte a ..."
+      }
+   ],
+   "REG": [
+      {
+         "Significado": "Matrícula (de aeronave)"
+      }
+   ],
+   "REH": [
+      {
+         "Significado": "Rota especial de helicópteros"
+      }
+   ],
+   "RENL": [
+      {
+         "Significado": "Luz(es) de final de pista"
+      }
+   ],
+   "REP": [
+      {
+         "Significado": "Ponto de notificação; ou notificar ou notificando"
+      }
+   ],
+   "REQ": [
+      {
+         "Significado": "Solicitar ou solicitado"
+      }
+   ],
+   "RERTE": [
+      {
+         "Significado": "Mudança de rota"
+      }
+   ],
+   "RESA*": [
+      {
+         "Significado": "Área de segurança de final de pista"
+      }
+   ],
+   "RFC*": [
+      {
+         "Significado": "Coeficiente de atrito da pista"
+      }
+   ],
+   "RFFS*": [
+      {
+         "Significado": "Serviço de Salvamento e Combate a Incêndio"
+      }
+   ],
+   "RG": [
+      {
+         "Significado": "Luzes de alinhamento"
+      }
+   ],
+   "RGC*": [
+      {
+         "Significado": "Centro Geral de Coordenação de Salvamento"
+      }
+   ],
+   "RHC": [
+      {
+         "Significado": "Circuito de lado direito"
+      }
+   ],
+   "RIF": [
+      {
+         "Significado": "Renovação em vôo da autorização"
+      }
+   ],
+   "RITE": [
+      {
+         "Significado": "Direita (direção da curva)"
+      }
+   ],
+   "RL": [
+      {
+         "Significado": "Informar o abandono de"
+      }
+   ],
+   "RLA": [
+      {
+         "Significado": "Retransmissão para"
+      }
+   ],
+   "RLCE": [
+      {
+         "Significado": "Solicitação de mudança de nível em rota"
+      }
+   ],
+   "RLLS": [
+      {
+         "Significado": "Sistema de iluminação de orientação para a pista"
+      }
+   ],
+   "RLNA": [
+      {
+         "Significado": "Nível solicitado não utilizável"
+      }
+   ],
+   "RMK": [
+      {
+         "Significado": "Observação"
+      }
+   ],
+   "RNAV": [
+      {
+         "Significado": "Rota de Navegação de Aérea"
+      }
+   ],
+   "RNG": [
+      {
+         "Significado": "Radiofarol direcional"
+      }
+   ],
+   "RNP": [
+      {
+         "Significado": "Performance de navegação exigida"
+      }
+   ],
+   "ROBEX": [
+      {
+         "Significado": "Sistema regional de intercâmbio de boletim OPMET"
+      }
+   ],
+   "ROS*": [
+      {
+         "Significado": "Solicitação de plano de vôo suplementar (designador do tipo de mensagem)"
+      }
+   ],
+   "RPI": [
+      {
+         "Significado": "Indicador de posição de radar"
+      }
+   ],
+   "RPL": [
+      {
+         "Significado": "Plano de vôo repetitivo"
+      }
+   ],
+   "RPLC": [
+      {
+         "Significado": "Substituir ou substituído"
+      }
+   ],
+   "RPS": [
+      {
+         "Significado": "Símbolo de posição radar"
+      }
+   ],
+   "RPT": [
+      {
+         "Significado": "Repita ou eu repito"
+      }
+   ],
+   "RQ": [
+      {
+         "Significado": "Indicação de solicitação"
+      }
+   ],
+   "RQMNTS": [
+      {
+         "Significado": "Exigências"
+      }
+   ],
+   "RQP": [
+      {
+         "Significado": "Solicitação de plano de vôo (designador do tipo de mensagem)"
+      }
+   ],
+   "RQS": [
+      {
+         "Significado": "Solicitação de plano de vôo suplementar (designador do tipo de mensagem)"
+      }
+   ],
+   "RR": [
+      {
+         "Significado": "Informe atingido"
+      }
+   ],
+   "RRA": [
+      {
+         "Significado": "(ou RRB, RRC, ... etc., em ordem) mensagem meteorológica atrasada (designador do tipo de mensagem)"
+      }
+   ],
+   "RSC": [
+      {
+         "Significado": "Subcentro de salvamento"
+      }
+   ],
+   "RSCD": [
+      {
+         "Significado": "Estado de superfície da pista"
+      }
+   ],
+   "RSP": [
+      {
+         "Significado": "Radiofarol respondedor"
+      }
+   ],
+   "RSR": [
+      {
+         "Significado": "Radar de vigilância em rota"
+      }
+   ],
+   "RTD": [
+      {
+         "Significado": "Atrasado (usado para indicar uma mensagem meteorológica atrasada; designador do tipo de mensagem)"
+      }
+   ],
+   "RTE": [
+      {
+         "Significado": "Rota"
+      }
+   ],
+   "RTF": [
+      {
+         "Significado": "Radiotelefone"
+      }
+   ],
+   "RTG": [
+      {
+         "Significado": "Radiotelégrafo"
+      }
+   ],
+   "RTHL": [
+      {
+         "Significado": "Luz(es) de cabeceira de pista"
+      }
+   ],
+   "RTN": [
+      {
+         "Significado": "Regressar, regressado ou regressando"
+      }
+   ],
+   "RTO*": [
+      {
+         "Significado": "Restrito(a)"
+      }
+   ],
+   "RTODAH": [
+      {
+         "Significado": "Distância de decolagem interrompida utilizável para helicóptero"
+      }
+   ],
+   "RTS": [
+      {
+         "Significado": "Novamente em serviço"
+      }
+   ],
+   "RTT": [
+      {
+         "Significado": "Radioteletipo"
+      }
+   ],
+   "RTZL": [
+      {
+         "Significado": "Luz(es) de zona de toque"
+      }
+   ],
+   "RUT": [
+      {
+         "Significado": "Freqüências padrão de transmissão em rota regional"
+      }
+   ],
+   "RV": [
+      {
+         "Significado": "Barco de salvamento"
+      }
+   ],
+   "RVR": [
+      {
+         "Significado": "Alcance visual da pista"
+      }
+   ],
+   "RVSM": [
+      {
+         "Significado": "Separação vertical mínima reduzida"
+      }
+   ],
+   "RWY": [
+      {
+         "Significado": "Pista"
+      }
+   ],
+   "S": [
+      {
+         "Significado": "Sul ou latitude sul"
+      }
+   ],
+   "S*": [
+      {
+         "Significado": "As comunicações poderão ser em inglês"
+      },
+      {
+         "Significado": "Observações meteorológicas especiais ou carta sinótica de superfície"
+      }
+   ],
+   "S1*": [
+      {
+         "Significado": "Espaço em hangar"
+      }
+   ],
+   "S2*": [
+      {
+         "Significado": "Espaço em hangar e pequenos reparos em aeronaves"
+      }
+   ],
+   "S3*": [
+      {
+         "Significado": "Espaço em hangar e pequenos reparos em aeronaves e motores"
+      }
+   ],
+   "S4*": [
+      {
+         "Significado": "Espaço em hangar e grandes reparos em aeronaves e pequenos reparos em motores"
+      }
+   ],
+   "S5*": [
+      {
+         "Significado": "Espaço em hangar e grandes reparos em aeronaves e motores"
+      }
+   ],
+   "SA": [
+      {
+         "Significado": "Areia"
+      }
+   ],
+   "SAI*": [
+      {
+         "Significado": "Saibro"
+      }
+   ],
+   "SALS": [
+      {
+         "Significado": "Sistema de iluminação para aproximação (simples)"
+      }
+   ],
+   "SAN": [
+      {
+         "Significado": "Sanitário"
+      }
+   ],
+   "SAP": [
+      {
+         "Significado": "Logo que possível"
+      }
+   ],
+   "SAR": [
+      {
+         "Significado": "Busca e salvamento"
+      }
+   ],
+   "SARPS": [
+      {
+         "Significado": "Normas e métodos recomendados (OACI)"
+      }
+   ],
+   "SAT": [
+      {
+         "Significado": "Sábado"
+      }
+   ],
+   "SATA*": [
+      {
+         "Significado": "Serviços Auxiliares de Transportes Aéreos"
+      }
+   ],
+   "SATCOM": [
+      {
+         "Significado": "Comunicação por satélite"
+      }
+   ],
+   "SB": [
+      {
+         "Significado": "Direção sul"
+      }
+   ],
+   "SC": [
+      {
+         "Significado": "Stratocumulus"
+      }
+   ],
+   "SC*": [
+      {
+         "Significado": "Previsão para pouso na forma completa"
+      }
+   ],
+   "SCOAM*": [
+      {
+         "Significado": "Seção de Controle de Operações Aéreas Militares"
+      }
+   ],
+   "SCT": [
+      {
+         "Significado": "Nuvens dispersas (3 e 4 oitavos)"
+      }
+   ],
+   "SDBY": [
+      {
+         "Significado": "Permanecer na escuta ou de reserva"
+      }
+   ],
+   "SE": [
+      {
+         "Significado": "Sudeste"
+      }
+   ],
+   "SEB": [
+      {
+         "Significado": "Direção sudeste"
+      }
+   ],
+   "SEC": [
+      {
+         "Significado": "Segundos"
+      }
+   ],
+   "SECN": [
+      {
+         "Significado": "Seção"
+      }
+   ],
+   "SECT": [
+      {
+         "Significado": "Setor"
+      }
+   ],
+   "SECTRAN*": [
+      {
+         "Significado": "Departamento Geral de Sistema de Transporte do Estado do Rio de Janeiro"
+      }
+   ],
+   "SELCAL": [
+      {
+         "Significado": "Sistema de chamada seletiva"
+      }
+   ],
+   "SEP": [
+      {
+         "Significado": "Setembro"
+      }
+   ],
+   "SER": [
+      {
+         "Significado": "Serviço ou prestando"
+      },
+      {
+         "Significado": "Radar de vigilância que faz parte do sistema de radar para aproximação de precisão"
+      }
+   ],
+   "SETAERO*": [
+      {
+         "Significado": "Serviço especial de Telecomunicações Aeronáuticas prestado pela INFRAERO"
+      }
+   ],
+   "SETO*": [
+      {
+         "Significado": "Secretaria de Estado dos Transportes e Obras"
+      }
+   ],
+   "SEV": [
+      {
+         "Significado": "Forte (usado para qualificar formação de gelo ou turbulência)"
+      }
+   ],
+   "SFC": [
+      {
+         "Significado": "Superfície"
+      }
+   ],
+   "SG": [
+      {
+         "Significado": "Grãos de neve"
+      }
+   ],
+   "SGL": [
+      {
+         "Significado": "Sinal"
+      }
+   ],
+   "SH": [
+      {
+         "Significado": "Pancadas (Seguida de RA=Chuva, SN=Neve, PE=Gelo granulado, GR=Granizo, GS= Granizo pequeno e/ou neve granulada ou combinações disso; Ex: SHRASN= pancadas de chuva e neve"
+      }
+   ],
+   "SHF": [
+      {
+         "Significado": "Freqüência super alta (3000 a 30000 Mhz)"
+      }
+   ],
+   "SID": [
+      {
+         "Significado": "Saída padrão por instrumentos"
+      }
+   ],
+   "SIF": [
+      {
+         "Significado": "Dispositivo seletor de identificação"
+      }
+   ],
+   "SIG": [
+      {
+         "Significado": "Significativo"
+      }
+   ],
+   "SIGMET": [
+      {
+         "Significado": "Informação relativa à fenômenos meteorológicos em rota que possam afetar a segurança operacional das aeronaves"
+      }
+   ],
+   "SIGWX*": [
+      {
+         "Significado": "Tempo significativo"
+      }
+   ],
+   "SIL*": [
+      {
+         "Significado": "Sílica"
+      }
+   ],
+   "SIMUL": [
+      {
+         "Significado": "Simultâneo ou simultaneamente"
+      }
+   ],
+   "SYNOP": [
+      {
+         "Significado": "Informação meteorológica de observação em superfície regular para fins de análise sinótica"
+      }
+   ],
+   "SISCEAB*": [
+      {
+         "Significado": "Sistema de Controle de Espaço Aéreo Brasileiro"
+      }
+   ],
+   "SIWL": [
+      {
+         "Significado": "Carga sobre roda simples isolada"
+      }
+   ],
+   "SKC": [
+      {
+         "Significado": "Céu claro"
+      }
+   ],
+   "SKED": [
+      {
+         "Significado": "Horário ou sujeito a horário ou regular"
+      }
+   ],
+   "SLP": [
+      {
+         "Significado": "Ponto de limitação de velocidade"
+      }
+   ],
+   "SLW": [
+      {
+         "Significado": "Devagar"
+      }
+   ],
+   "SMC": [
+      {
+         "Significado": "Controle de movimento na superfície"
+      }
+   ],
+   "SMO*": [
+      {
+         "Significado": "Centro Meteorológico Classe III"
+      }
+   ],
+   "SMR": [
+      {
+         "Significado": "Radar de movimento na superfície"
+      }
+   ],
+   "SN": [
+      {
+         "Significado": "Neve"
+      }
+   ],
+   "SNOWTAM": [
+      {
+         "Significado": "Uma série especial de NOTAM que notifica a presence ou eliminação de condições perigosas, devido a neve, gelo, neve liquefeita ou água estagnada, associada a neve, neve liquefeita ou gelo na área de movimento por meio de um formato definido"
+      }
+   ],
+   "SOC*": [
+      {
+         "Significado": "Ponto de início de subida"
+      }
+   ],
+   "SPECI": [
+      {
+         "Significado": "Informe meteorológico aeronáutico especial selecionado"
+      }
+   ],
+   "SPECIAL": [
+      {
+         "Significado": "Informe meteorológico especial (em linguagem clara abreviada)"
+      }
+   ],
+   "SPL": [
+      {
+         "Significado": "Plano de vôo suplementar (designador do tipo de mensagem)"
+      }
+   ],
+   "SPOC": [
+      {
+         "Significado": "Ponto de contato SAR"
+      }
+   ],
+   "SPOT": [
+      {
+         "Significado": "Vento instantâneo"
+      }
+   ],
+   "SQ": [
+      {
+         "Significado": "Tempestade"
+      }
+   ],
+   "SQL": [
+      {
+         "Significado": "Linha de tempestade"
+      }
+   ],
+   "SR": [
+      {
+         "Significado": "Nascer-do-sol"
+      }
+   ],
+   "SRA": [
+      {
+         "Significado": "Radar de vigilância para aproximação"
+      }
+   ],
+   "SS": [
+      {
+         "Significado": "Tempestade de areia"
+      }
+   ],
+   "SSB": [
+      {
+         "Significado": "Banda lateral única"
+      }
+   ],
+   "SSE": [
+      {
+         "Significado": "Su-sudeste"
+      }
+   ],
+   "SSR": [
+      {
+         "Significado": "Radar secundário de vigilância"
+      }
+   ],
+   "SST": [
+      {
+         "Significado": "Avião supersônico de transporte"
+      }
+   ],
+   "SSW": [
+      {
+         "Significado": "Su-sudoeste"
+      }
+   ],
+   "ST": [
+      {
+         "Significado": "Stratus"
+      }
+   ],
+   "STA": [
+      {
+         "Significado": "Aproximação direta"
+      }
+   ],
+   "STAR": [
+      {
+         "Significado": "Chegada padrão por instrumento"
+      }
+   ],
+   "STD": [
+      {
+         "Significado": "Padrão"
+      }
+   ],
+   "STF": [
+      {
+         "Significado": "Estratiforme"
+      }
+   ],
+   "STN": [
+      {
+         "Significado": "Estação"
+      }
+   ],
+   "STNR": [
+      {
+         "Significado": "Estacionário"
+      }
+   ],
+   "STOL": [
+      {
+         "Significado": "Decolagem e pouso curtos"
+      }
+   ],
+   "STRIP*": [
+      {
+         "Significado": "Faixa de pista"
+      }
+   ],
+   "STS": [
+      {
+         "Significado": "“Stratus”"
+      }
+   ],
+   "STWL": [
+      {
+         "Significado": "Luz de zona de parade"
+      }
+   ],
+   "SUBJ": [
+      {
+         "Significado": "Sujeito a"
+      }
+   ],
+   "SUN": [
+      {
+         "Significado": "Domingo"
+      }
+   ],
+   "SUP": [
+      {
+         "Significado": "Suplemento (Suplemento AIP)"
+      }
+   ],
+   "SUPPS": [
+      {
+         "Significado": "Procedimentos suplementares regionais"
+      }
+   ],
+   "SVC": [
+      {
+         "Significado": "Mensagem de serviço"
+      }
+   ],
+   "SVCBL": [
+      {
+         "Significado": "Praticável ou em condições de serviço"
+      }
+   ],
+   "SVH*": [
+      {
+         "Significado": "Salvamento de vidas humanas"
+      }
+   ],
+   "SVR*": [
+      {
+         "Significado": "Alcance visual oblíquo"
+      }
+   ],
+   "SW": [
+      {
+         "Significado": "Sudoeste"
+      }
+   ],
+   "SWB": [
+      {
+         "Significado": "Direção sudoeste"
+      }
+   ],
+   "SWY": [
+      {
+         "Significado": "Zona de parada"
+      }
+   ],
+   "T": [
+      {
+         "Significado": "Temperatura"
+      }
+   ],
+   "T*": [
+      {
+         "Significado": "Transmite"
+      },
+      {
+         "Significado": "Carta da Tropopausa"
+      },
+      {
+         "Significado": "Avaliação Técnica"
+      }
+   ],
+   "TA": [
+      {
+         "Significado": "Altitude de transição"
+      }
+   ],
+   "TACAN": [
+      {
+         "Significado": "Auxílio à navegação aérea tática em UHF"
+      }
+   ],
+   "TAF": [
+      {
+         "Significado": "Previsão de aeródromo"
+      }
+   ],
+   "TAIL": [
+      {
+         "Significado": "Vento de cauda"
+      }
+   ],
+   "TAM": [
+      {
+         "Significado": "Mensagem de confirmação de recebimento de instrução técnica"
+      }
+   ],
+   "TAM*": [
+      {
+         "Significado": "Transporte Aéreo Marília (Regional)"
+      }
+   ],
+   "TAR": [
+      {
+         "Significado": "Radar de vigilância de área terminal"
+      }
+   ],
+   "TAS": [
+      {
+         "Significado": "Velocidade verdadeira"
+      }
+   ],
+   "TAX": [
+      {
+         "Significado": "Taxiamento ou táxi"
+      }
+   ],
+   "TB*": [
+      {
+         "Significado": "Tabular"
+      }
+   ],
+   "TC": [
+      {
+         "Significado": "Ciclone tropical"
+      }
+   ],
+   "TCH*": [
+      {
+         "Significado": "Altura de cruzamento de cabeceira"
+      }
+   ],
+   "TCU": [
+      {
+         "Significado": "Cumulus encastelados"
+      }
+   ],
+   "TDO": [
+      {
+         "Significado": "Tornado"
+      }
+   ],
+   "TDW*": [
+      {
+         "Significado": "Roda dupla em tandem"
+      }
+   ],
+   "TDZ": [
+      {
+         "Significado": "Zona de contato"
+      }
+   ],
+   "TDZE*": [
+      {
+         "Significado": "Elevação da zona de contato"
+      }
+   ],
+   "TECR": [
+      {
+         "Significado": "Motivo técnico"
+      }
+   ],
+   "TEL": [
+      {
+         "Significado": "Telefone"
+      }
+   ],
+   "TELEMIG*": [
+      {
+         "Significado": "Telecomunicações de Minas Gerais"
+      }
+   ],
+   "TEMP": [
+      {
+         "Significado": "Informação meteorológica de observação em altitude regular contendo pressão, temperatura, direção e velocidade do vento"
+      }
+   ],
+   "TEMPO": [
+      {
+         "Significado": "Temporário ou temporariamente"
+      }
+   ],
+   "TEND": [
+      {
+         "Significado": "Previsão do tipo tendência"
+      }
+   ],
+   "TER*": [
+      {
+         "Significado": "Terra"
+      }
+   ],
+   "TF*": [
+      {
+         "Significado": "Combustível para aeronaves de turbina"
+      }
+   ],
+   "TFC": [
+      {
+         "Significado": "Tráfego"
+      }
+   ],
+   "TGL": [
+      {
+         "Significado": "Toque e arremetida"
+      }
+   ],
+   "TGS": [
+      {
+         "Significado": "Sistema de orientação para taxiamento"
+      }
+   ],
+   "TH*": [
+      {
+         "Significado": "Altura de curva"
+      }
+   ],
+   "THR": [
+      {
+         "Significado": "Cabeceira"
+      }
+   ],
+   "THRU": [
+      {
+         "Significado": "Através de, até"
+      }
+   ],
+   "THU": [
+      {
+         "Significado": "Quinta-feira"
+      }
+   ],
+   "TIL": [
+      {
+         "Significado": "Até"
+      }
+   ],
+   "TIP": [
+      {
+         "Significado": "Até passar ... (lugar)"
+      }
+   ],
+   "TKOF": [
+      {
+         "Significado": "Decolagem"
+      }
+   ],
+   "TL": [
+      {
+         "Significado": "... Até (seguido da hora em que se prevê que terminará a mudança meteorológica)"
+      }
+   ],
+   "TLOF": [
+      {
+         "Significado": "Área de toque e de elevação inicial"
+      }
+   ],
+   "TMA": [
+      {
+         "Significado": "Área de controle terminal"
+      }
+   ],
+   "TNA": [
+      {
+         "Significado": "Altitude de curva"
+      }
+   ],
+   "TNH": [
+      {
+         "Significado": "Altura de curva"
+      }
+   ],
+   "TO": [
+      {
+         "Significado": "Para (lugar)"
+      }
+   ],
+   "TOC": [
+      {
+         "Significado": "No topo da subida"
+      }
+   ],
+   "TODA": [
+      {
+         "Significado": "Distância utilizável para decolagem"
+      }
+   ],
+   "TODAH": [
+      {
+         "Significado": "Distância utilizável para decolagem de helicóptero"
+      }
+   ],
+   "TOP": [
+      {
+         "Significado": "No topo da nuvem"
+      }
+   ],
+   "TORA": [
+      {
+         "Significado": "Superfície utilizável para decolagem"
+      }
+   ],
+   "TP": [
+      {
+         "Significado": "Ponto de curva"
+      }
+   ],
+   "TR": [
+      {
+         "Significado": "Rota"
+      }
+   ],
+   "TRA": [
+      {
+         "Significado": "Espaço aéreo reservado temporariamente"
+      }
+   ],
+   "TRANS": [
+      {
+         "Significado": "Transmite ou transmissor"
+      }
+   ],
+   "TRL": [
+      {
+         "Significado": "Nível de transição"
+      }
+   ],
+   "TT": [
+      {
+         "Significado": "Teletipo"
+      }
+   ],
+   "TUE": [
+      {
+         "Significado": "Terça-feira"
+      }
+   ],
+   "TURB": [
+      {
+         "Significado": "Turbulência"
+      }
+   ],
+   "TVE*": [
+      {
+         "Significado": "Erro total vertical"
+      }
+   ],
+   "TVOR": [
+      {
+         "Significado": "VOR terminal"
+      }
+   ],
+   "TWR": [
+      {
+         "Significado": "Torre de controle de aeródromo ou controle de aeródromo"
+      }
+   ],
+   "TWYL": [
+      {
+         "Significado": "Junção de pista de táxi"
+      }
+   ],
+   "TYP": [
+      {
+         "Significado": "Tipo de aeronave"
+      }
+   ],
+   "TYPH": [
+      {
+         "Significado": "Tufão"
+      }
+   ],
+   "U": [
+      {
+         "Significado": "Em aumento (tendência do RVR durante os 10 minutos anteriores)"
+      }
+   ],
+   "U*": [
+      {
+         "Significado": "Cartas de vento de altitude e Aproveitamento de experiência na utilização de aeronave (resistência de pavimento)"
+      }
+   ],
+   "UAB": [
+      {
+         "Significado": "Até ser avisado por..."
+      }
+   ],
+   "UAR": [
+      {
+         "Significado": "Rota aérea no espaço aéreo superior"
+      }
+   ],
+   "UDF": [
+      {
+         "Significado": "Estação rediogoniométrica de ultr alta freqüência"
+      }
+   ],
+   "UFN": [
+      {
+         "Significado": "Até novo aviso"
+      }
+   ],
+   "UHDT": [
+      {
+         "Significado": "Impossível subir devido ao tráfego"
+      }
+   ],
+   "UHF": [
+      {
+         "Significado": "Freqüência ultra-alta (300 a 3000 Mhz)"
+      }
+   ],
+   "UIC": [
+      {
+         "Significado": "Centro de informação de vôo no espaço aéreo superior"
+      }
+   ],
+   "UIR": [
+      {
+         "Significado": "Região superior de informação de vôo"
+      }
+   ],
+   "ULR": [
+      {
+         "Significado": "Raio de ação ultra longo"
+      }
+   ],
+   "UNA": [
+      {
+         "Significado": "Impossível"
+      }
+   ],
+   "UNAP": [
+      {
+         "Significado": "Impossível aprovar"
+      }
+   ],
+   "UNL": [
+      {
+         "Significado": "Limitado"
+      }
+   ],
+   "UNREP": [
+      {
+         "Significado": "Inseguro, não confiável"
+      }
+   ],
+   "U/S": [
+      {
+         "Significado": "Não utilizável"
+      }
+   ],
+   "USB*": [
+      {
+         "Significado": "Banda lateral superior"
+      }
+   ],
+   "UTA": [
+      {
+         "Significado": "Área de controle de espaço aéreo superior"
+      }
+   ],
+   "UTC": [
+      {
+         "Significado": "Tempo Universal Coordenado"
+      }
+   ],
+   "V*": [
+      {
+         "Significado": "Freqüência de emergência em VHF (121.50MHz)"
+      }
+   ],
+   "VA": [
+      {
+         "Significado": "Cinza vulcânica"
+      }
+   ],
+   "VAAC": [
+      {
+         "Significado": "Centro de avisos de cinzas vulcânicas"
+      }
+   ],
+   "VAC": [
+      {
+         "Significado": "Carta de aproximação visual"
+      }
+   ],
+   "VAL": [
+      {
+         "Significado": "Nos vales"
+      }
+   ],
+   "VAN": [
+      {
+         "Significado": "Viatura de controle de pista"
+      }
+   ],
+   "VAPI*": [
+      {
+         "Significado": "Indicador visual de trajetória de aproximação"
+      }
+   ],
+   "VAR": [
+      {
+         "Significado": "Radiofarol direcional audiovisual"
+      }
+   ],
+   "VARIG*": [
+      {
+         "Significado": "Viação Aérea Riograndense"
+      }
+   ],
+   "VASIS": [
+      {
+         "Significado": "Sistema indicador de rampa da aproximação visual"
+      }
+   ],
+   "VASP*": [
+      {
+         "Significado": "Viação Aérea São Paulo"
+      }
+   ],
+   "VC": [
+      {
+         "Significado": "Vizinhança do aeródromo (Seguido de FG = Névoa, FC = Nuvem em forma de funil, PO = Redemoinhos de poeira/areia, BLDU = Vento alto de poeira, BLSA = Vento alto de areia ou BLSN = Vento alto de neve, TS = Trovoada; Ex: VCFG = Névea na vizinhança"
+      }
+   ],
+   "VCY": [
+      {
+         "Significado": "Vizinhança, imediações"
+      }
+   ],
+   "VDF": [
+      {
+         "Significado": "Estação radiogoniométrica de freqüência muito alta"
+      }
+   ],
+   "VE*": [
+      {
+         "Significado": "Exceto visual"
+      }
+   ],
+   "VER": [
+      {
+         "Significado": "Vertical"
+      }
+   ],
+   "VFR": [
+      {
+         "Significado": "Regras de vôo visual"
+      }
+   ],
+   "VHF": [
+      {
+         "Significado": "Freqüência muio alta (30 a 300 MHz)"
+      }
+   ],
+   "VIBASA*": [
+      {
+         "Significado": "Vilares Indústria de Base S/A"
+      }
+   ],
+   "VIP": [
+      {
+         "Significado": "Pessoa muito importante"
+      }
+   ],
+   "VIS": [
+      {
+         "Significado": "Visibilidade"
+      }
+   ],
+   "VLF": [
+      {
+         "Significado": "Freqüência muito baixa (3 a 30 KHz)"
+      }
+   ],
+   "VLR": [
+      {
+         "Significado": "Alcance muito longo"
+      }
+   ],
+   "VMC": [
+      {
+         "Significado": "Condições meteorológicas de vôo visual"
+      }
+   ],
+   "VOLMET": [
+      {
+         "Significado": "Informação meteorológica para aeronave em vôo"
+      }
+   ],
+   "VOR": [
+      {
+         "Significado": "Radiofarol onidirecional em VHF"
+      }
+   ],
+   "VORTAC": [
+      {
+         "Significado": "VOR e TACAN combinados"
+      }
+   ],
+   "VOT": [
+      {
+         "Significado": "Equipamento de teste de VOR a bordo"
+      }
+   ],
+   "VRB": [
+      {
+         "Significado": "Variável"
+      }
+   ],
+   "VSA": [
+      {
+         "Significado": "Por referência visual ao solo"
+      }
+   ],
+   "VSP": [
+      {
+         "Significado": "Velocidade vertical"
+      }
+   ],
+   "VTOL": [
+      {
+         "Significado": "Decolagem e pouso vertical"
+      }
+   ],
+   "VWS*": [
+      {
+         "Significado": "Cortante vertical do vento"
+      }
+   ],
+   "W": [
+      {
+         "Significado": "Oeste ou longitude oeste"
+      },
+      {
+         "Significado": "Branco"
+      }
+   ],
+   "W*": [
+      {
+         "Significado": "Pressão alta (pneus)"
+      },
+      {
+         "Significado": "Carta de tempo significativo"
+      }
+   ],
+   "WAC": [
+      {
+         "Significado": "Carta aeronáutica mundial OACI 1:1.000.000"
+      }
+   ],
+   "WAFC": [
+      {
+         "Significado": "Centro Mundial de Previsão de Área"
+      }
+   ],
+   "WB": [
+      {
+         "Significado": "Direção oeste"
+      }
+   ],
+   "WBAR": [
+      {
+         "Significado": "Luzes da ponta da asa"
+      }
+   ],
+   "WDI": [
+      {
+         "Significado": "Indicador de direção do vento"
+      }
+   ],
+   "WDSPR": [
+      {
+         "Significado": "Generalizado, difundido"
+      }
+   ],
+   "WEB": [
+      {
+         "Significado": "Quarta-feira"
+      }
+   ],
+   "WEF": [
+      {
+         "Significado": "Efetivado a partir de..."
+      }
+   ],
+   "WI": [
+      {
+         "Significado": "Dentro ou dentro de uma margem de..."
+      }
+   ],
+   "WID": [
+      {
+         "Significado": "Largura"
+      }
+   ],
+   "WINTEM": [
+      {
+         "Significado": "Informação meteorologica regular contendo prognóstico de vento e temperatura em altitude"
+      }
+   ],
+   "WIP": [
+      {
+         "Significado": "Obras em andamento"
+      }
+   ],
+   "WKN": [
+      {
+         "Significado": "Enfraquecer ou enfraquecendo"
+      }
+   ],
+   "WNW": [
+      {
+         "Significado": "Oés-noroeste"
+      }
+   ],
+   "WO": [
+      {
+         "Significado": "Sem"
+      }
+   ],
+   "WPT": [
+      {
+         "Significado": "Ponto significativo"
+      }
+   ],
+   "WRNG": [
+      {
+         "Significado": "Aviso"
+      }
+   ],
+   "WS": [
+      {
+         "Significado": "Cortante do vento"
+      }
+   ],
+   "WSPD": [
+      {
+         "Significado": "Extenso"
+      }
+   ],
+   "WSW": [
+      {
+         "Significado": "Oés-sudoeste"
+      }
+   ],
+   "WT": [
+      {
+         "Significado": "Peso"
+      }
+   ],
+   "WTSPT": [
+      {
+         "Significado": "Tromba d’água"
+      }
+   ],
+   "WX": [
+      {
+         "Significado": "Condições meteorológicas"
+      }
+   ],
+   "WXR*": [
+      {
+         "Significado": "Radar meteorológico"
+      }
+   ],
+   "X": [
+      {
+         "Significado": "Cruzar"
+      }
+   ],
+   "X*": [
+      {
+         "Significado": "Pressão média (pneus)"
+      }
+   ],
+   "XBAR": [
+      {
+         "Significado": "Barra transversal (do sistema de luzes de aproximação)"
+      }
+   ],
+   "XNG": [
+      {
+         "Significado": "Cruzeiro"
+      }
+   ],
+   "XS": [
+      {
+         "Significado": "Estática"
+      }
+   ],
+   "Y": [
+      {
+         "Significado": "Amarelo"
+      }
+   ],
+   "Y*": [
+      {
+         "Significado": "Pressão baixa (pneus)"
+      }
+   ],
+   "YCZ": [
+      {
+         "Significado": "Área amarela de precaução de pista (iluminação de pista)"
+      }
+   ],
+   "YES": [
+      {
+         "Significado": "Sim"
+      }
+   ],
+   "YR": [
+      {
+         "Significado": "Seu"
+      }
+   ],
+   "Z": [
+      {
+         "Significado": "Tempo universal coordenado (em mensagens meteorológicas)"
+      }
+   ],
+   "Z*": [
+      {
+         "Significado": "Pressão muito baixa (pneus)"
+      }
+   ]
+}

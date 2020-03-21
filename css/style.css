@@ -1,0 +1,13 @@
+body{
+    background-color: dodgerblue;
+    color: floralwhite;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 30px;
+}
+label.negrito{
+    font-weight: 700;
+    display: block;
+}
+.inline{
+    display: inline !important;
+}

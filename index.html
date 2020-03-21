@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-br" class="negrito">
+<head>
+    <meta charset="UTF-8" class="negrito">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" class="negrito">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" class="negrito">
+    <link rel="stylesheet" href="css/style.css" class="negrito">
+    <script src="js/script.js" class="negrito"></script>
+    <title>Document</title>
+</head>
+<body>
+    <h1>Decodificador de NOTAM</h1>
+    <p>Insira abaixo o texto do NOTAM de acordo com cada campo</p>
+    <form action="">
+    
+    <label for="campoQ" class="negrito">Q)</label>
+    <textarea name="campoQ" id="campoQ" cols="45" rows="1" class="negrito">SBAO/WWXX/IV/NBO/W/000/220/3023S03419W353</textarea>
+
+    <label for="campoA" class="negrito">A)</label>
+    <textarea name="campoA" id="campoA" cols="4" rows="1" class="negrito">SBHT</textarea>
+
+    <label for=campoB" class="negrito">B)</label>
+    <input type="datetime-local" name="campoB" id="campoB" class="negrito inline">    
+    <input type="checkbox" name="wie" id="wie" class="inline"> 
+    <label for="wie" class="inline">WIE</label> &emsp;
+
+    <label for="campoC" class="negrito inline">C)</label>
+    <input type="datetime-local" name="campoC" id="campoC" class="negrito">
+    <input type="checkbox" name="perm" id="perm"> 
+    <label for="wie">PERM</label>
+
+    <label for="campoD" class="negrito">D)</label>
+    <textarea name="campoD" id="campoD" cols="50" rows="1" class="negrito">JUL 28 1438-SS 29 TIL OCT 27 SR-SS </textarea>
+
+    <label for="campoE" class="negrito">E)</label>
+    <textarea name="campoE" id="campoE" cols="70" rows="10" class="negrito"></textarea>
+    <br><br>
+
+    <label for="campoF" class="negrito inline">F)</label> <!-- Limite Inferior-->
+    <textarea name="campoF" id="campoF" cols="15" rows="1" class="negrito inline">SFC</textarea>&emsp;
+
+    <label for="campoG" class="negrito inline">G)</label>
+    <textarea name="campoG" id="campoG" cols="15" rows="1" class="negrito">TOP</textarea>
+
+    </form>
+
+    <div id="resultado">
+        <p id="A"></p>
+        <p id="B"></p>
+        <p id="C"></p>
+        <p id="D"></p>
+        <p id="E"></p>
+        <p id="F"></p>
+        <p id="G"></p>
+
+    </div>
+    
+</body>
+</html>
