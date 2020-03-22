@@ -22,3 +22,12 @@ button.negrito{
     color: black;
     background-color: whitesmoke;
 }
+#resultado{
+    color: black;
+    background-color: whitesmoke;
+    WIDTH: 40%;
+    float: right;
+    margin-right: 6%;
+    margin-top: 120px;
+}
+
