@@ -1,14 +1,14 @@
 // chamar todas as funções
 function chamarFuncoes(){
-DecodificarCampoQ();
-DecodificarCampoA();
-DecodificarCampoB();
-DecodificarCampoC();
-DecodificarCampoD();
-ValidarCampoE();
-DecodificarCampoE();
-DecodificarCampoF();
-DecodificarCampoG();
+  DecodificarCampoF();
+  DecodificarCampoG();
+  DecodificarCampoQ();
+  DecodificarCampoA();
+  DecodificarCampoB();
+  DecodificarCampoC();
+  DecodificarCampoD();
+  ValidarCampoE();
+  DecodificarCampoE();
 }
 
 function LimparForm(){

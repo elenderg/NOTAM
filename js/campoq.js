@@ -2,7 +2,7 @@ function DecodificarCampoQ(){
     var campoQ = document.getElementById("campoQ").value;
     var Q = document.getElementById("Q");
     console.log(campoQ);
- 
+    //SBAO/WWXX/IV/NBO/W/000/220/3023S03419W353
     var x = campoQ.toUpperCase();
     console.log(x);
     var texto = x.split("/");
@@ -24,12 +24,12 @@ function DecodificarCampoQ(){
         
         var p = document.createElement("p");            // Create a <p> node        
         var t1 = document.createTextNode("FIR: " + FIR);// Create a text node        
-        p.appendChild(t1);                              // Append the textnode to <li>
+        p.appendChild(t1);                              // Append the textnode to <p>
         document.getElementById("Q").appendChild(p);    // Append another <p> to <p> with id="Q"
 
         var p2 = document.createElement("p");            // Create a <p> node        
         var t2 = document.createTextNode("CÓDIGO: " + CODIGO); // Create a text node        
-        p2.appendChild(t2);                              // Append the textnode to <li>
+        p2.appendChild(t2);                              // Append the textnode to <p>
         document.getElementById("Q").appendChild(p2);    // Append another <p> to <p> with id="Q"
 
         switch (texto[2]) {
@@ -52,7 +52,7 @@ function DecodificarCampoQ(){
           if (TRAFEGO) {
             var p3 = document.createElement("p");            // Create a <p> node        
             var t3 = document.createTextNode(TRAFEGO);       // Create a text node        
-            p3.appendChild(t3);                              // Append the textnode to <li>
+            p3.appendChild(t3);                              // Append the textnode to <p>
             document.getElementById("Q").appendChild(p3);    // Append another <p> to <p> with id="Q"
           }         
 
@@ -88,7 +88,7 @@ function DecodificarCampoQ(){
             
             var p4 = document.createElement("p");            // Create a <p> node        
             var t4 = document.createTextNode(PROPOSITO);       // Create a text node        
-            p4.appendChild(t4);                              // Append the textnode to <li>
+            p4.appendChild(t4);                              // Append the textnode to <p>
             document.getElementById("Q").appendChild(p4);    // Append another <p> to <p> with id="Q"
           }
 
@@ -118,12 +118,47 @@ function DecodificarCampoQ(){
             
             var p5 = document.createElement("p");            // Create a <p> node        
             var t5 = document.createTextNode(AMBITO);       // Create a text node        
-            p5.appendChild(t5);                              // Append the textnode to <li>
+            p5.appendChild(t5);                              // Append the textnode to <p>
             document.getElementById("Q").appendChild(p5);    // Append another <p> to <p> with id="Q"
+          }
+          console.log(campoF);
+
+          if (campoF != "") {
+            if(LIMITE_INFERIOR != "000"){
+              var p6 = document.createElement("p");            // Create a <p> node        
+              var t6 = document.createTextNode("LIMITE INFERIOR: F" + LIMITE_INFERIOR);       // Create a text node
+              p6.appendChild(t6);                              // Append the textnode to <p>
+              document.getElementById("Q").appendChild(p6);    // Append another <p> to <p> with id="Q"
+              }
+            else{
+              var p6 = document.createElement("p");            // Create a <p> node        
+              var t6 = document.createTextNode("LIMITE INFERIOR: SOLO" );       // Create a text node
+              p6.appendChild(t6);                              // Append the textnode to <p>
+              document.getElementById("Q").appendChild(p6);    // Append another <p> to <p> with id="Q"
+            }
+          }
+          else{
+            LIMITE_INFERIOR = "O ASSUNTO DIVULGADO NÃO ESTÁ RELACIONADO A LIMITES VERTICAIS";
+            LIMITE_SUPERIOR = "";   
+          }
+          console.log(campoG);
+          if (campoG != "") {
+            if (LIMITE_SUPERIOR != "999") {
+              var p7 = document.createElement("p");            // Create a <p> node        
+              var t7 = document.createTextNode(" LIMITE SUPERIOR: F" + LIMITE_SUPERIOR);       // Create a text node        
+              p6.appendChild(t7);                              // Append the textnode to <p>
+              document.getElementById("Q").appendChild(p7);    // Append another <p> to <p> with id="Q"
+            }
+            else{
+              var p7 = document.createElement("p");            // Create a <p> node        
+              var t7 = document.createTextNode(" LIMITE SUPERIOR: ILIMITADO");       // Create a text node        
+              p6.appendChild(t7);                              // Append the textnode to <p>
+              document.getElementById("Q").appendChild(p7);    // Append another <p> to <p> with id="Q"
+            }
           }
 
           
-
+/*
           if(texto[5] == "000" && texto[6] == "999"){
               LIMITE_INFERIOR = "O ASSUNTO DIVULGADO NÃO ESTÁ RELACIONADO A LIMITES VERTICAIS";
               LIMITE_SUPERIOR = "";              
@@ -136,41 +171,41 @@ function DecodificarCampoQ(){
             if(LIMITE_INFERIOR == "000"){
                 var p6 = document.createElement("p");            // Create a <p> node        
                 var t6 = document.createTextNode("LIMITE INFERIOR: SOLO" );       // Create a text node
-                p6.appendChild(t6);                              // Append the textnode to <li>
+                p6.appendChild(t6);                              // Append the textnode to <p>
                 document.getElementById("Q").appendChild(p6);    // Append another <p> to <p> with id="Q"
             }
             else if(LIMITE_INFERIOR != "000"){
             var p6 = document.createElement("p");            // Create a <p> node        
             var t6 = document.createTextNode("LIMITE INFERIOR: F" + LIMITE_INFERIOR);       // Create a text node
-            p6.appendChild(t6);                              // Append the textnode to <li>
+            p6.appendChild(t6);                              // Append the textnode to <p>
             document.getElementById("Q").appendChild(p6);    // Append another <p> to <p> with id="Q"
             }
           }
           else if (LIMITE_INFERIOR) {                   
             var p6 = document.createElement("p");              // Create a <p> node        
             var t6 = document.createTextNode(LIMITE_INFERIOR); // Create a text node        
-            p6.appendChild(t6);                                // Append the textnode to <li>
+            p6.appendChild(t6);                                // Append the textnode to <p>
             document.getElementById("Q").appendChild(p6);      // Append another <p> to <p> with id="Q"
           }
 
           if (LIMITE_SUPERIOR && LIMITE_SUPERIOR != "999"){              
             var p7 = document.createElement("p");            // Create a <p> node        
             var t7 = document.createTextNode(" LIMITE SUPERIOR: F" + LIMITE_SUPERIOR);       // Create a text node        
-            p6.appendChild(t7);                              // Append the textnode to <li>
+            p6.appendChild(t7);                              // Append the textnode to <p>
             document.getElementById("Q").appendChild(p7);    // Append another <p> to <p> with id="Q"
           }
           else if (LIMITE_INFERIOR != "000" && LIMITE_SUPERIOR == "999"){
             var p7 = document.createElement("p");            // Create a <p> node        
             var t7 = document.createTextNode(" LIMITE SUPERIOR: ILIMITADO");       // Create a text node        
-            p6.appendChild(t7);                              // Append the textnode to <li>
+            p6.appendChild(t7);                              // Append the textnode to <p>
             document.getElementById("Q").appendChild(p7);    // Append another <p> to <p> with id="Q"
-          }
+          } */
 
           if (COORDENADAS){
             var C = COORDENADAS;
             var p8 = document.createElement("p");            // Create a <p> node        
             var t8 = document.createTextNode("COORDENADAS: " + C[0]+C[1]+"°"+C[2]+C[3]+"'"+C[4]+" "+C[6]+C[7]+"°"+C[8]+C[9]+"'"+C[10]+" RAIO: "+C[11]+C[12]+C[13]+" MILHAS NÁUTICAS");       // Create a text node        
-            p8.appendChild(t8);                              // Append the textnode to <li>
+            p8.appendChild(t8);                              // Append the textnode to <p>
             document.getElementById("Q").appendChild(p8);    // Append another <p> to <p> with id="Q"
 
           }
