@@ -1,11 +1,13 @@
 var campoG;
-function DecodificarCampoG(){
-    campoG = "Limite Superior: "
-    campoG = campoG + document.getElementById("campoG").value;
+function DecodificarCampoG(){    
+    campoG = document.getElementById("campoG").value;
     if (campoG != "") {
+        campoG = "Limite Superior: ";
+        campoG = campoG + document.getElementById("campoG").value;
         var texto = campoG;
         texto = texto.replace(/M/g, "METROS");
         texto = texto.replace(/UNL/gi, "ILIMITADO");
+        texto = texto.replace(/TOP/gi, "ILIMITADO");
         texto = texto.replace(/AMSL/gi, "AO NÍVEL DO MAR");
         texto = texto.replace(/AGL/gi, "AO NÍVEL DO SOLO");        
         texto = texto.replace(/FT/gi, " PÉS");

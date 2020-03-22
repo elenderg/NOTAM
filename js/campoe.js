@@ -85,13 +85,13 @@ function DecodificarCampoE() {
                });
                if(resultado.length){
                console.log(resultado);
-                  t1 =  "Abreviatura: " + resultado[0].Abreviatura ;
-                  t2 = "Significado: " + resultado[0].Significado ;
-
-                  var paragrafo = document.createElement("p");                 
-                  var abreviatura = document.createTextNode(t1);         
-                  paragrafo.appendChild(abreviatura);         
-                  document.getElementById("E").appendChild(paragrafo);
+                  // t1 =  "Abreviatura: " + resultado[0].Abreviatura ;
+                  //t2 = "Significado: " + resultado[0].Significado ;
+                  t2 = " " + resultado[0].Significado ;
+                  //var paragrafo = document.createElement("p");                 
+                  //var abreviatura = document.createTextNode(t1);         
+                  //paragrafo.appendChild(abreviatura);         
+                  //document.getElementById("E").appendChild(paragrafo);
                   //document.getElementById("E").appendChild(br);
                   var paragrafo2 = document.createElement("p");   
                   var significado = document.createTextNode(t2); 

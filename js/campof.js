@@ -1,10 +1,11 @@
 var campoF;
 function DecodificarCampoF(){
-    campoF = "Limite Inferior: "
-    campoF = campoF + document.getElementById("campoF").value;
-    if (campoF) {
+    campoF = document.getElementById("campoF").value;    
+    if (campoF != "") {
+        campoF = "Limite Inferior: "
+        campoF = campoF + document.getElementById("campoF").value;
         var texto = campoF;
-        texto = texto.replace(/M/i, " METROS");
+        texto = texto.replace(/M/g, " METROS");
         texto = texto.replace(/SFC/gi, "SUPERFÍCIE");
         texto = texto.replace(/GND/gi, "SOLO");
         texto = texto.replace(/AMSL/gi, "AO NÍVEL DO MAR");

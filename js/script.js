@@ -1,5 +1,15 @@
 // chamar todas as funções
 function chamarFuncoes(){
+  document.getElementById("Q").innerText = "";
+  document.getElementById("A").innerText = "";
+  document.getElementById("A2").innerText = "";
+  document.getElementById("B").innerText = "";
+  document.getElementById("C").innerText = "";
+  document.getElementById("D").innerText = "";
+  document.getElementById("E").innerText = "";
+  document.getElementById("E2").innerText = "";
+  document.getElementById("F").innerText = "";
+  document.getElementById("G").innerText = "";  
   DecodificarCampoF();
   DecodificarCampoG();
   DecodificarCampoQ();
