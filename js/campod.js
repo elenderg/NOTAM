@@ -26,6 +26,7 @@ function DecodificarCampoD(){
     texto = texto.replace(/TIL/gi, "ATÉ");
     texto = texto.replace(/SR/gi, "NASCER DO SOL");
     texto = texto.replace(/SS/gi, "PÔR DO SOL");
+    texto = texto.replace(/DLY/gi, "DIARIAMENTE");
 
     console.log(texto);
 
