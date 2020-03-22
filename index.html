@@ -17,7 +17,7 @@
 
     <title>Document</title>
 </head>
-<body>
+<body><div style="float: left;">
     <h1>Decodificador de NOTAM</h1>
     <p>Insira abaixo o texto do NOTAM de acordo com cada campo</p>
     <form action="" id="myForm">
@@ -39,7 +39,7 @@
     <label for="wie">PERM</label>
     <br><br>
     <label for="campoD" class="negrito">D)</label> <!-- Dias e Horarios -->
-    <textarea name="campoD" id="campoD" cols="50" rows="1" class="negrito" placeholder="JUL 28 1438-SS 29 TIL OCT 27 SR-SS"></textarea>
+    <textarea name="campoD" id="campoD" cols="70" rows="2" class="negrito" placeholder="JUL 28 1438-SS 29 TIL OCT 27 SR-SS"></textarea>
 
     <label for="campoE" class="negrito">E)</label> <!-- Texto do NOTAM-->
     <textarea name="campoE" id="campoE" cols="70" rows="10" class="negrito" placeholder="Campo Obrigatório"></textarea>
@@ -53,7 +53,7 @@
     <br><br>
     <button class="negrito" type="button" onclick="LimparForm()">Limpar</button> &emsp;
     <button class="negrito" type="button" onclick="chamarFuncoes()">Decodificar</button>
-    
+    </form></div>
 
     </form>
 
@@ -68,7 +68,6 @@
         <p id="E2"><ul id="myList"></ul></p>
         <p id="F"></p>
         <p id="G"></p>
-
     </div>
     
 </body>
