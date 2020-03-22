@@ -4,58 +4,68 @@
     <meta charset="UTF-8" class="negrito">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" class="negrito">
     <meta http-equiv="X-UA-Compatible" content="ie=edge" class="negrito">
-    <link rel="stylesheet" href="css/style.css" class="negrito">
+    <link rel="stylesheet" href="css/style.css" class="negrito">    
     <script src="js/script.js" class="negrito"></script>
+    <script src="js/campoa.js" class="negrito"></script>
+    <script src="js/campob.js" class="negrito"></script>
+    <script src="js/campoc.js" class="negrito"></script>
+    <script src="js/campod.js" class="negrito"></script>
+    <script src="js/campoe.js" class="negrito"></script>
+    <script src="js/campof.js" class="negrito"></script>
+    <script src="js/campog.js" class="negrito"></script>
+    <script src="js/campoq.js" class="negrito"></script>   
+
     <title>Document</title>
 </head>
 <body>
     <h1>Decodificador de NOTAM</h1>
     <p>Insira abaixo o texto do NOTAM de acordo com cada campo</p>
-    <form action="">
+    <form action="" id="myForm">
     
-    <label for="campoQ" class="negrito">Q)</label>
-    <textarea name="campoQ" id="campoQ" cols="45" rows="1" class="negrito">SBAO/WWXX/IV/NBO/W/000/220/3023S03419W353</textarea>
-
-    <label for="campoA" class="negrito">A)</label> <!-- Localidade-->
-    <textarea name="campoA" id="campoA" cols="4" rows="1" class="negrito">SBHT</textarea>
-
-    <label for=campoB" class="negrito">B)</label> <!-- Inicio de validade-->
-    <input type="datetime-local" name="campoB" id="campoB" class="negrito inline">    
+    <label for="campoQ" class="negrito">Q)</label> <!-- -->
+    <textarea name="campoQ" id="campoQ" cols="45" rows="1" class="negrito" placeholder="SBAO/WWXX/IV/NBO/W/000/220/3023S03419W353"></textarea>
+    <br><br>
+    <label for="campoA" class="negrito inline">A)</label> <!-- Localidade -->
+    <textarea name="campoA" id="campoA" cols="4" rows="1" class="negrito" placeholder="SBHT"></textarea>
+    &emsp;
+    <label for=campoB" class="negrito inline">B)</label> <!-- Inicio de validade-->
+    <textarea name="campoB" cols="10" rows="1" id="campoB" class="negrito inline" placeholder="1407011041"></textarea>
     <input type="checkbox" name="wie" id="wie" class="inline"> 
     <label for="wie" class="inline">WIE</label> &emsp;
 
     <label for="campoC" class="negrito inline">C)</label> <!-- Termino de validade-->
-    <input type="datetime-local" name="campoC" id="campoC" class="negrito">
+    <textarea  cols="10" rows="1"name="campoC" id="campoC" class="negrito iline" placeholder="1407011041"></textarea>
     <input type="checkbox" name="perm" id="perm"> 
     <label for="wie">PERM</label>
-
-    <label for="campoD" class="negrito">D)</label> <!-- Dias e Horarios-->
-    <textarea name="campoD" id="campoD" cols="50" rows="1" class="negrito">JUL 28 1438-SS 29 TIL OCT 27 SR-SS </textarea>
+    <br><br>
+    <label for="campoD" class="negrito">D)</label> <!-- Dias e Horarios -->
+    <textarea name="campoD" id="campoD" cols="50" rows="1" class="negrito" placeholder="JUL 28 1438-SS 29 TIL OCT 27 SR-SS"></textarea>
 
     <label for="campoE" class="negrito">E)</label> <!-- Texto do NOTAM-->
-    <textarea name="campoE" id="campoE" cols="70" rows="10" class="negrito"></textarea>
+    <textarea name="campoE" id="campoE" cols="70" rows="10" class="negrito" placeholder="Campo Obrigatório"></textarea>
     <br><br>
 
-    <label for="campoF" class="negrito inline">F)</label> <!-- Limite Inferior-->
-    <textarea name="campoF" id="campoF" cols="15" rows="1" class="negrito inline">SFC</textarea>&emsp;
+    <label for="campoF" class="negrito inline">F)</label> <!-- Limite Inferior -->
+    <textarea name="campoF" id="campoF" cols="15" rows="1" class="negrito inline" placeholder="SFC"></textarea>&emsp;
 
-    <label for="campoG" class="negrito inline">G)</label><!-- Limite Superior-->
-    <textarea name="campoG" id="campoG" cols="15" rows="1" class="negrito">TOP</textarea>
+    <label for="campoG" class="negrito inline">G)</label><!-- Limite Superior -->
+    <textarea name="campoG" id="campoG" cols="15" rows="1" class="negrito" placeholder="TOP"></textarea>
     <br><br>
-    <button class="negrito" type="reset">Limpar</button> &emsp;
-    <button class="negrito" type="button" onclick="Decodificar()">Decodificar</button>
+    <button class="negrito" type="button" onclick="LimparForm()">Limpar</button> &emsp;
+    <button class="negrito" type="button" onclick="chamarFuncoes()">Decodificar</button>
     
 
     </form>
 
     <div id="resultado">
+        <p id="Q"></p>
         <p id="A"></p>
         <p id="A2"></p>
         <p id="B"></p>
         <p id="C"></p>
         <p id="D"></p>
         <p id="E"></p>
-        <p id="E2"></p>
+        <p id="E2"><ul id="myList"></ul></p>
         <p id="F"></p>
         <p id="G"></p>
 
