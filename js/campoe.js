@@ -26,6 +26,8 @@ function DecodificarCampoE() {
    console.log(x);
    var texto = x.split(" ");
    console.log(texto);
+   texto = texto.reverse();
+   console.log(texto);
    var z = texto.length;
    console.log(z);
          
@@ -85,25 +87,33 @@ function DecodificarCampoE() {
                });
                if(resultado.length){
                console.log(resultado);
-                  // t1 =  "Abreviatura: " + resultado[0].Abreviatura ;
-                  //t2 = "Significado: " + resultado[0].Significado ;
-                  t2 = " " + resultado[0].Significado ;
-                  //var paragrafo = document.createElement("p");                 
-                  //var abreviatura = document.createTextNode(t1);         
-                  //paragrafo.appendChild(abreviatura);         
-                  //document.getElementById("E").appendChild(paragrafo);
+                   t1 =  "Abreviatura: " + resultado[0].Abreviatura ;
+                 // t2 = "Significado: " + resultado[0].Significado ;
+                  t2 = " " + resultado[0].Significado + " ";
+                  /*var paragrafo = document.createElement("p");                 
+                  var abreviatura = document.createTextNode(t1);         
+                  paragrafo.appendChild(abreviatura);         
+                  document.getElementById("E").appendChild(paragrafo);*/
                   //document.getElementById("E").appendChild(br);
-                  var paragrafo2 = document.createElement("p");   
+                  
+                  var paragrafo2 = document.createElement("span");   
                   var significado = document.createTextNode(t2); 
                   paragrafo2.appendChild(significado);
-                  document.getElementById("E").appendChild(paragrafo2);
+                  document.getElementById("E2").appendChild(paragrafo2);
+/*
+                  var newItem = document.createElement("li");
+                  var textnode = document.createTextNode(t2);
+                  newItem.appendChild(textnode);
+
+                  var list = document.getElementById("E");
+                  list.insertBefore(newItem, list.childNodes[0]);*/
 
 
                }else{
                console.log("código inexistente " + codigo);
-                  /*
-                  E.innerHTML = "Código Inexistente: " + codigo;
-                  E2.innerHTML = "Verifique o  código: " + codigo;
-                  */
+                  
+                  E2.innerHTML =  E2.innerHTML + codigo + " ";
+                  //E2.innerHTML = "Verifique o  código: " + codigo;
+                  
                }
             }
